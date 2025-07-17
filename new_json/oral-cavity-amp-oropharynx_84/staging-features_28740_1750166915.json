@@ -1,0 +1,56 @@
+[
+  {
+    "id": "staging-features_28740_1750166915.txt-1",
+    "source_document": "staging-features_28740_1750166915.txt",
+    "parent": "oral-cavity-amp-oropharynx_84",
+    "parent_url": "",
+    "topic": "Measurement of tumor metastasis",
+    "url": "https://www.pathologyoutlines.com/topic/oralcavityheadneckstagingfeatures.html#measurementoftumormetastasis165178",
+    "clean_content": "Measurement of tumor metastasis\n\n* Cross sectional diameter of the largest lymph node metastasis (not the lymph node itself) is measured in the gross specimen at the time of macroscopic examination or if necessary, on the histologic slide at the time of microscopic examination\n  ([AJCC: Cancer Staging [Accessed 20 September 2018]](https://cancerstaging.org/Pages/default.aspx), [CAP: Protocol for the Examination of Specimens From Patients With Cancers of the Pharynx [Accessed 20 September 2018]](https://documents.cap.org/protocols/cp-headandneck-pharynx-19-4002.pdf))* Measurement of the metastatic focus in the lymph nodes is based on the largest metastatic deposit size, which may include matted or fused lymph nodes"
+  },
+  {
+    "id": "staging-features_28740_1750166915.txt-2",
+    "source_document": "staging-features_28740_1750166915.txt",
+    "parent": "oral-cavity-amp-oropharynx_84",
+    "parent_url": "",
+    "topic": "Isolated tumor cells",
+    "url": "https://www.pathologyoutlines.com/topic/oralcavityheadneckstagingfeatures.html#isolatedtumorcells165179",
+    "clean_content": "Isolated tumor cells\n\n* Isolated tumor cells (ITCs) are single cells or small clusters of cells ≤ 0.2 mm in greatest dimension* While the generic recommendation is that lymph nodes with ITCs found by histologic examination, immunohistochemistry or nonmorphologic techniques (e.g. flow cytometry, DNA analysis, PCR amplification of a specific tumor marker), be classified as pN0 or pM0, evidence for the validity of this practice in head and neck squamous cell carcinoma and other histologic subtypes is lacking* In fact, rare studies relevant to head and neck sites indicate that isolated tumor cells may actually be a poor prognosticator in terms of local control"
+  },
+  {
+    "id": "staging-features_28740_1750166915.txt-3",
+    "source_document": "staging-features_28740_1750166915.txt",
+    "parent": "oral-cavity-amp-oropharynx_84",
+    "parent_url": "",
+    "topic": "Extranodal extension",
+    "url": "https://www.pathologyoutlines.com/topic/oralcavityheadneckstagingfeatures.html#extranodalextension165180",
+    "clean_content": "Extranodal extension\n\n* AJCC 8th edition introduces the use of extranodal extension (ENE) in subcategorizing the \"N\" category for metastatic cancer to neck nodes* Effect of ENE on prognosis in head and neck cancers is profound, except for those tumors associated with high risk HPV* Pathological ENE also must be clearly defined as extension of metastatic tumor (tumor present within the confines of the lymph node and extending through the lymph node capsule into the surrounding connective tissue, with or without associated stromal reaction)* Histopathologic designations for ENE are as follows ([Amin: AJCC Cancer Staging Manual, 8th Edition, 2018](https://www.amazon.com/exec/obidos/ASIN/3319406175/pathologyoutl-20)):\n        + ENEn (none)+ ENEmi (microscopic ENE ≤ 2 mm)+ ENEma (ENE > 2 mm or gross ENE)* ENEmi and ENEma are used to define pathological ENE nodal status* ENEmi versus ENEn will affect current nodal staging but data collection is recommended to allow standardization of data collection and future analysis ([AJCC: Cancer Staging [Accessed 20 September 2018]](https://cancerstaging.org/Pages/default.aspx))* ENE does not appear to be as prognostically relevant for HPV mediated / p16+ and nasopharyngeal cancers* While it may be recorded, it is not required under AJCC 8th edition guidelines* However, ENE is still required for pN categorization of HPV unrelated (p16-) squamous cell carcinoma and hypopharyngeal carcinomas"
+  },
+  {
+    "id": "staging-features_28740_1750166915.txt-4",
+    "source_document": "staging-features_28740_1750166915.txt",
+    "parent": "oral-cavity-amp-oropharynx_84",
+    "parent_url": "",
+    "topic": "TNM descriptors",
+    "url": "https://www.pathologyoutlines.com/topic/oralcavityheadneckstagingfeatures.html#tnmdescriptors165181",
+    "clean_content": "TNM descriptors\n\n* By AJCC / UICC convention, the designation \"T\" refers to a primary tumor that has not been previously treated* \"p\" symbol refers to the pathologic classification of the TNM, as opposed to the clinical classification and based on clinical stage information supplemented / modified by operative findings and gross and microscopic evaluation of the resected specimens* pT entails a resection of the primary tumor or biopsy adequate to evaluate the highest pT category* pN entails removal of nodes adequate to validate lymph node metastasis and pM implies microscopic examination of distant lesions* Clinical classification (cTNM) is usually carried out by the referring physician before treatment during initial evaluation of the patient or when pathologic classification is not possible* Pathologic staging is usually performed after surgical resection of the primary tumor* Pathologic staging depends on pathologic documentation of the anatomic extent of disease, whether or not the primary tumor has been completely removed* If a biopsied tumor is not resected for any reason (e.g. when technically unfeasible) and if the highest T and N categories or the M1 category of the tumor can be confirmed microscopically, the criteria for pathologic classification and staging have been satisfied without total removal of the primary cancer"
+  },
+  {
+    "id": "staging-features_28740_1750166915.txt-5",
+    "source_document": "staging-features_28740_1750166915.txt",
+    "parent": "oral-cavity-amp-oropharynx_84",
+    "parent_url": "",
+    "topic": "Staging terminology",
+    "url": "https://www.pathologyoutlines.com/topic/oralcavityheadneckstagingfeatures.html#stagingterminology165182",
+    "clean_content": "Staging terminology\n\n* Additional change in AJCC 8th edition is the elimination of the pT0 category for all oral cavity, skin, larynx, HPV- oropharynx, hypopharynx and sinus\n  + This change affects cases where a cervical lymph node has metastatic squamous cell carcinoma but no primary tumor is identified despite thorough history, examination and available imaging studies+ Assigning these cases to a specific head and neck site is not possible+ Previous editions of TNM staging included a pT0 category in each of these disease sites+ However, it is seldom used and if it is, the cancer could not be assigned to a stage group+ Therefore, for the 8th edition, the expert panel eliminated the pT0 category from the head and neck staging systems* Use of HPV+ or EBV+ pharyngeal \"pT0\" ([AJCC: Cancer Staging [Accessed 20 September 2018]](https://cancerstaging.org/Pages/default.aspx), [CAP: Protocol for the Examination of Specimens From Patients With Cancers of the Pharynx [Accessed 20 September 2018]](https://documents.cap.org/protocols/cp-headandneck-pharynx-19-4002.pdf)):\n    + Risk of regional (cervical neck) nodal spread from cancers of the pharynx is high+ Majority of metastatic carcinomas to the cervical lymph nodes take origin from a head and neck primary carcinoma+ Most common histologic type of carcinoma to metastasize to cervical neck lymph nodes is squamous cell carcinoma+ Cervical nodal metastases may occur in the setting of an unknown primary carcinoma referred to as metastatic cervical carcinoma with an unknown primary+ As per AJCC 8th edition guidelines, 3 separate approaches are employed to stage patients who present with an occult primary tumor+ Primary T category is described as pT0 and the pN category is designated according to the respective anatomic site based on Epstein-Barr virus (EBV) and HPV status:\n                1. Patients with EBV related cervical adenopathy use the pN classification of nasopharynx+ Patients with HPV mediated (positive) cervical adenopathy use the pN classification of HPV mediated / p16+ oropharyngeal cancer+ All other patients with EBV unrelated and HPV unrelated cervical adenopathy use the generic pN classification used for the other head and neck sites and for unknown primary"
+  },
+  {
+    "id": "staging-features_28740_1750166915.txt-6",
+    "source_document": "staging-features_28740_1750166915.txt",
+    "parent": "oral-cavity-amp-oropharynx_84",
+    "parent_url": "",
+    "topic": "Additional TNM descriptors",
+    "url": "https://www.pathologyoutlines.com/topic/oralcavityheadneckstagingfeatures.html#additionaltnmdescriptors165183",
+    "clean_content": "Additional TNM descriptors\n\n* For identification of special cases of TNM or pTNM classifications, the \"m\" suffix and \"y\" and \"r\" prefixes are used; although they do not affect the stage grouping, they indicate cases needing separate analysis* \"m\" suffix indicates the presence of multiple primary tumors in a single site and is recorded in parentheses: pT(m)NM* \"y\" prefix indicates those cases in which classification is performed during or following initial multimodality therapy (i.e. neoadjuvant chemotherapy, radiation therapy or both chemotherapy and radiation therapy)* cTNM or pTNM category is identified by a \"y\" prefix\n        + ycTNM or ypTNM categorizes the extent of tumor actually present at the time of that examination+ \"y\" categorization is not an estimate of tumor prior to multimodality therapy (i.e. before initiation of neoadjuvant therapy)* \"r\" prefix indicates a recurrent tumor when staged after a documented disease free interval and is identified by the \"r\" prefix: rTNM"
+  }
+]
