@@ -10,7 +10,13 @@ from typing import List, Dict, Tuple, Any
 import time
 import threading
 import concurrent.futures # Add for parallel execution
+import nltk
 
+# Only download if not already present
+try:
+    nltk.data.find("tokenizers/punkt")
+except LookupError:
+    nltk.download("punkt")
 # vector libs
 import numpy as np
 import faiss
