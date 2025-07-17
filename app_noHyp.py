@@ -5,6 +5,7 @@
 import os, json, pickle, hashlib, textwrap, re, types
 import streamlit as st
 from dotenv import load_dotenv
+from nltk.tokenize import sent_tokenize
 import re
 from typing import List, Dict, Tuple, Any
 import time
