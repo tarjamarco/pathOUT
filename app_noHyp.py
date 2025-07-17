@@ -5,7 +5,6 @@
 import os, json, pickle, hashlib, textwrap, re, types
 import streamlit as st
 from dotenv import load_dotenv
-from nltk.tokenize import sent_tokenize
 import re
 from typing import List, Dict, Tuple, Any
 import time
@@ -13,11 +12,12 @@ import threading
 import concurrent.futures # Add for parallel execution
 import nltk
 
-# Only download if not already present
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt")
+for resource in ["punkt", "punkt_tab"]:
+    try:
+        nltk.data.find(f"tokenizers/{resource}")
+    except LookupError:
+        nltk.download(resource)
+
 # vector libs
 import numpy as np
 import faiss
