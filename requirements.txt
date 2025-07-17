@@ -4,5 +4,5 @@ numpy
 faiss-cpu
 sentence-transformers
 torch
-nltk
+nltk==3.8.1
 google-generativeai
