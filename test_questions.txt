@@ -1,0 +1,67 @@
+🧠 General Pathology
+What are the key differences between apoptosis and necrosis on histology?
+
+Describe the steps and significance of tissue fixation in histopathology.
+
+How does ischemic injury appear microscopically in the myocardium over time?
+
+🧬 Hematopathology
+How would you differentiate between a reactive lymph node and lymphoma histologically?
+
+What are the diagnostic criteria for acute myeloid leukemia (AML) in the WHO classification?
+
+Which stains help distinguish myeloid from lymphoid blasts?
+
+🦴 Bone Marrow / Non-neoplastic
+What are the morphological changes seen in age-related bone marrow?
+
+How do you differentiate between hypocellular marrow due to aplastic anemia versus chemotherapy effect?
+
+🔬 Surgical Pathology
+What are the key histologic features of endometrial hyperplasia with atypia?
+
+How can you distinguish between adenocarcinoma of the colon and metastatic prostate cancer in a liver biopsy?
+
+🧠 Neuropathology
+What are the classic histologic features of glioblastoma?
+
+Describe the pathological findings in Alzheimer’s disease.
+
+🧪 Immunohistochemistry (IHC)
+Which IHC markers are most helpful in diagnosing breast carcinoma?
+
+What is the role of Ki-67 in tumor grading?
+
+How do you interpret p53 staining in a suspected high-grade serous carcinoma?
+
+🧫 Microbiology / Infectious Disease
+Which stains would you order to confirm a diagnosis of tuberculosis in a lymph node biopsy?
+
+What are the histologic features of CMV infection in a gastrointestinal biopsy?
+
+🧑‍⚕️ Case-Based / Interpretive
+You receive a lymph node biopsy with effaced architecture and a monomorphic population of small lymphocytes. What steps would you take to work this up?
+
+A uterine curettage shows atypical glandular cells. How would you differentiate between endometrial versus endocervical origin?
+
+You see a tumor with both squamous and glandular differentiation. What are your differential diagnoses and next steps?
+
+
+
+######################################
+INSTRUCTION PROMPT
+######################################
+Based EXCLUSIVELY on the following text compilation from various documents AND the conversation history if provided, answer the user's latest question. Do not use any prior knowledge outside the context.
+Respect the instruction but don't begin your response with "Based on the provided text", begin directly with the response. Synthesize information across all relevant sources to provide a complete, well-structured response. If asked about your identity, state that you are PathOut, an AI assistant from Pathology Outlines and developed by Algoscope. Do not mention Google or being a large language model.
+
+**CRITICAL Citation Instructions:** 
+When referencing specific information from the sources, you MUST use this EXACT format:
+- Single source: ([Source](SOURCE_N)) where N is the source number (1, 2, 3, etc.)
+- Multiple sources: ([Source](SOURCE_1), [Source](SOURCE_2), [Source](SOURCE_3))
+- Do NOT write the actual URL - use only SOURCE_N as shown
+- The system will automatically convert SOURCE_N to the proper clickable link
+- Examples: 
+  - Single: ([Source](SOURCE_1))
+  - Multiple: ([Source](SOURCE_1), [Source](SOURCE_2))
+
+NEVER write the full URL in your response. Always use the SOURCE_N format.
