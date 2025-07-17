@@ -1,0 +1,254 @@
+[
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-1",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#definitiongeneral315190",
+    "clean_content": "Definition / general\n\n* Malignant exocrine neoplasm of the pancreas composed of cells with morphological resemblance to acinar cells and with immunohistochemistry positive for acinar markers"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-2",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#essentialfeatures315191",
+    "clean_content": "Essential features\n\n* Epithelial neoplasm showing acinar differentiation* Immunohistochemical positivity for BCL10 and trypsin ([Virchows Arch 2009;454:133](19066953), [Cancer Cytopathol 2013;121:459](23408736), [Pathologica 2020;112:210](33179623))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-3",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Terminology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#terminology315192",
+    "clean_content": "Terminology\n\n* Main category: acinar cell carcinoma* Subtypes: acinar cell cystoadenocarcinoma, mixed acinar neuroendocrine carcinoma, mixed acinar ductal adenocarcinoma"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-4",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "ICD coding",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#icdcoding315193",
+    "clean_content": "ICD coding\n\n* ICD-O: [8550/3](https://apps.who.int/iris/bitstream/handle/10665/96612/9789241548496_eng.pdf?sequence=1#page=76) - acinar cell carcinoma* ICD-11: [2C10.0 & XH3PG9](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1663659989?data=%7B%22dataType%22%3A%22pc%22%2C%22postcoordinationCodeSet%22%3A%7B%22stemId%22%3A%22http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1663659989%22%2C%22axisToValueIds%22%3A%7B%22histopathology%22%3A%5B%7B%22stemId%22%3A%22http%3A%2F%2Fid.who.int%2Ficd%2Fentity%2F1322159869%22%7D%5D%7D%7D%7D) - adenocarcinoma of the pancreas & acinar cell carcinoma"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-5",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Epidemiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#epidemiology315194",
+    "clean_content": "Epidemiology\n\n* M:F = 2.1:1 ([Semin Diagn Pathol 2016;33:307](27320062), [Am J Surg Pathol 2012;36:1782](23026929))* Average age: 60 years ([Semin Diagn Pathol 2016;33:307](27320062))* 1 - 2% of all pancreatic neoplasms in adults and 15% in children ([Semin Diagn Pathol 2016;33:307](27320062))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-6",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sites",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#sites315195",
+    "clean_content": "Sites\n\n* Head of the pancreas is the most common site ([Semin Diagn Pathol 2016;33:307](27320062))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-7",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Pathophysiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#pathophysiology315196",
+    "clean_content": "Pathophysiology\n\n* Accumulation of genetic alteration, including chromosomal instability and frequent allelic copy number variation"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-8",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Etiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#etiology315197",
+    "clean_content": "Etiology\n\n* Tobacco smoking, defective DNA repair; presence of chromosomal instability and frequent allelic copy number variation ([Nat Commun 2017;8:1323](29109526))* Most cases are sporadic but a minority (< 10%) are associated with Lynch syndrome, familial adenomatous polyposis syndrome and Carney complex"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-9",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Clinical features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#clinicalfeatures315198",
+    "clean_content": "Clinical features\n\n* Presenting symptoms include abdominal or back pain, weight loss, nausea, vomiting; jaundice is more rarely observed than in ductal adenocarcinoma ([Am J Surg Pathol 1992;16:815](1384374))* In the case of extensive metastatic disease, patients may show symptoms related to lipase hypersecretion, including subcutaneous fat necrosis ([Front Med (Lausanne) 2015;2:41](26137463))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-10",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#diagnosis315199",
+    "clean_content": "Diagnosis\n\n* CT scan and MRI are the preferred imaging modality ([J Belg Soc Radiol 2019;103:43](31276097))* Diagnosis is by biopsy or surgical resection"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-11",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Laboratory",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#laboratory315200",
+    "clean_content": "Laboratory\n\n* Rarely, patients can show increased levels of AFP, especially young patients ([Hum Pathol 2000;31:938](10987254))* Patients with metastatic disease can show elevated levels of serum lipase ([World J Clin Cases 2020;8:5304](33269263))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-12",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Radiology description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#radiologydescription315201",
+    "clean_content": "Radiology description\n\n* Typical CT and MRI features of pancreatic acinar cell carcinoma: relatively large mass with a well defined margin, exophytic growth and heterogeneous enhancement ([J Belg Soc Radiol 2019;103:43](31276097))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-13",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prognostic factors",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#prognosticfactors315202",
+    "clean_content": "Prognostic factors\n\n* The prognosis is poor, with an average survival time of about 19 months ([Semin Diagn Pathol 2016;33:307](27320062))* To date, the TNM stage can be considered the only significant prognostic moderator ([Am J Surg Pathol 2012;36:1782](23026929))* Tumors with intraductal growth display a better prognosis than conventional acinar cell carcinomas ([Am J Surg Pathol 2007;31:363](17325477))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-14",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Case reports",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#casereports315203",
+    "clean_content": "Case reports\n\n* 41 and 77 year old men presenting with acinar cell carcinoma extensively involving the pancreas ([Medicine (Baltimore) 2017;96:e7904](28930825))* 52 year old man with acinar cell carcinoma of the pancreas harboring *BRCA2* germline mutation ([Cancer Biol Ther 2019;20:949](31002019))* 69 year old man with acinar cell carcinoma of the pancreas mixed with ductal adenocarcinoma ([World J Surg Oncol 2020;18:238](32891173))* 71 year old man with acinar cell carcinoma of the pancreas, with extension into the main pancreatic duct ([Surg Case Rep 2021;7:90](33847839))* 81 year old man with acinar cell carcinoma of the pancreas harboring *NTRK* fusion gene, with exceptional response to molecularly based target therapy ([J Natl Compr Canc Netw 2021;19:10](33406492))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-15",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Treatment",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#treatment315204",
+    "clean_content": "Treatment\n\n* Surgical resection if possible, gemcitabine based chemotherapy / radiofrequency ablation, molecularly based target therapy in the case of actionable alterations ([World J Clin Cases 2020;8:1241](32337198))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-16",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#grossdescription315205",
+    "clean_content": "Gross description\n\n* Well circumscribed mass, at least partially encapsulated, solid and large, with fleshy consistency"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-17",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#grossimages315206",
+    "clean_content": "Gross images\n\nAFIP images  \n\n[![](https://www.pathologyoutlines.com/images/pancreas/4_090.jpg)](https://www.pathologyoutlines.com/images/pancreas/4_090.jpg)\n\nCut surface displays large nodules"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-18",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Frozen section description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#frozensectiondescription315207",
+    "clean_content": "Frozen section description\n\n* Hypercellular neoplasm with acinar resembling cells"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-19",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#microscopichistologicdescription315208",
+    "clean_content": "Microscopic (histologic) description\n\n* Unlike conventional [ductal adenocarcinoma](https://www.pathologyoutlines.com/topic/pancreasductal.html), this tumor is highly cellular and with scant fibrous stroma* Cells show moderate amounts of granular eosinophilic cytoplasm containing PAS positive diastase resistant zymogen granules* Nuclei are uniform with a typically present, single and prominent nucleolus ([Semin Diagn Pathol 2016;33:307](27320062))* Perineural invasion and vascular invasion are very common* Can have different architectures and growth patterns, including cystic, acinar, glandular and intraductal* Nonneuroendocrine component of mixed neuroendocrine nonneuroendocrine neoplasms (MiNEN) in the pancreas can be represented by acinar cell carcinoma; MiNEN diagnosis should be based on both morphology and immunohistochemistry"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-20",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#microscopichistologicimages315209",
+    "clean_content": "Microscopic (histologic) images\n\nContributed by Claudio Luchini, M.D., Ph.D.  \n\n[![Typical histology](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini1.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini1.jpg)\n\nTypical histology\n\n[![Intraductal growth](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini2.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini2.jpg)\n\nIntraductal growth\n\n[![Cell detail](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini3.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini3.jpg)\n\nCell detail\n\n[![Association with neuroendocrine tumors](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini6.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini6.jpg)\n \n[![Association with neuroendocrine tumors](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini7.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini7.jpg)\n\nAssociation with neuroendocrine tumors\n\n  \n\n[![BCL10 expression pattern](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini4.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini4.jpg)\n\nBCL10 expression pattern\n\n[![Trypsin expression pattern](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini5.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchini5.jpg)\n\nTrypsin expression pattern"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-21",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Cytology description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#cytologydescription315210",
+    "clean_content": "Cytology description\n\n* Hypercellular / moderately cellular neoplasm, monomorphic nuclei with prominent nucleoli ([Diagn Cytopathol 2017;45:247](27860444))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-22",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Cytology images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#cytologyimages315211",
+    "clean_content": "Cytology images\n\nContributed by Claudio Luchini, M.D., Ph.D.  \n\n[![Cytological aspects](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchiniCyto01.jpg)](https://www.pathologyoutlines.com/imgau/pancreasacinarLuchiniCyto01.jpg)\n\nCytological aspects"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-23",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Positive stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#positivestains315212",
+    "clean_content": "Positive stains\n\n* [Keratins](https://www.pathologyoutlines.com/topic/stainsckgeneral.html) (particularly [CK7](https://www.pathologyoutlines.com/topic/stainsck7.html) and [CK8](https://www.pathologyoutlines.com/topic/stainsck8.html) / [CK18](https://www.pathologyoutlines.com/topic/stainsck18.html) / [CK19](https://www.pathologyoutlines.com/topic/stainsck19.html)), [BCL10](https://www.pathologyoutlines.com/topic/stainsbcl10.html) (particularly the clone 331.3) and [trypsin](https://www.pathologyoutlines.com/topic/stainstrypsin.html) ([Virchows Arch 2009;454:133](19066953), [Cancer Cytopathol 2013;121:459](23408736), [Pathologica 2020;112:210](33179623))* Nuclear expression of [beta catenin](https://www.pathologyoutlines.com/topic/stainsbetacatenin.html) and [CD200](https://www.pathologyoutlines.com/topic/cdmarkerscd200.html) expression is found in about 10% of cases ([Am J Surg Pathol 2012;36:1782](23026929), [Virchows Arch 2019;474:105](30132130))"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-24",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Negative stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#negativestains315213",
+    "clean_content": "Negative stains\n\n* Neoplastic cells are negative for [chromogranin](https://www.pathologyoutlines.com/topic/stainschromogranin.html) and [synaptophysin](https://www.pathologyoutlines.com/topic/stainssynaptophysin.html) (rarely, scattered positive cells may be present)"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-25",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Molecular / cytogenetics description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#molecularcytogeneticsdescription315214",
+    "clean_content": "Molecular / cytogenetics description\n\n* Most common molecular alterations of pancreatic ductal adenocarcinoma (e.g. *KRAS* and *SMAD4* mutations) are usually absent* Recurrent presence of *BRAF*, *RAF1* and *RET* rearrangements ([Cancer Discov 2014;4:1398](25266736), [Mod Pathol 2020;33:1811](32358589), [Mod Pathol 2020;33:657](31558784))* Wnt pathway alterations with *APC / CTNNB1* mutations can be present in a subset of cases"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-26",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sample pathology report",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#samplepathologyreport315215",
+    "clean_content": "Sample pathology report\n\n* Distal stomach, duodenum and pancreatic head, pancreaticoduodenectomy (Whipple resection):\n  + Acinar cell carcinoma of the pancreas, 2.2 cm+ Carcinoma involves distal bile duct+ All margins negative for carcinoma+ Positive for lymphovascular invasion and perineural invasion+ Metastatic carcinoma involving 1 of 27 lymph nodes+ Portion of benign stomach and duodenum with no significant pathologic change"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-27",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Differential diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#differentialdiagnosis315216",
+    "clean_content": "Differential diagnosis\n\n* [Neuroendocrine neoplasms](https://www.pathologyoutlines.com/topic/pancreaspen.html):\n  + [BCL10](https://www.pathologyoutlines.com/topic/stainsbcl10.html) negative, [chromogranin](https://www.pathologyoutlines.com/topic/stainschromogranin.html) and [synaptophysin](https://www.pathologyoutlines.com/topic/stainssynaptophysin.html) positive+ Salt and pepper chromatin+ No evident nucleoli* [Pancreatoblastoma](https://www.pathologyoutlines.com/topic/pancreaspancreatoblastoma.html):\n    + Pancreatic neoplasm with acinar differentiation: the presence of squamoid nests is diagnostic for pancreatoblastoma* [Intraductal tubulopapillary neoplasm (ITPN)](https://www.pathologyoutlines.com/topic/pancreasitpn.html):\n      + In cases with intraductal growth+ [BCL10](https://www.pathologyoutlines.com/topic/stainsbcl10.html) negative and [MUC6](https://www.pathologyoutlines.com/topic/stainsmuc2.html) positive"
+  },
+  {
+    "id": "acinar-cell-carcinoma_38670_1750166972.txt-28",
+    "source_document": "acinar-cell-carcinoma_38670_1750166972.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Additional references",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasacinar.html#additionalreferences315217",
+    "clean_content": "Additional references\n\n* [WHO Classification of Tumours Editorial Board: Digestive System Tumours, 5th Edition, 2019](https://www.amazon.com/exec/obidos/ASIN/9283244990/pathologyoutl-20)"
+  }
+]

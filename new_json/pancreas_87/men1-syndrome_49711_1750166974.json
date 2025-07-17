@@ -1,0 +1,353 @@
+[
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-1",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#definitiongeneral545854",
+    "clean_content": "Definition / general\n\n* Autosomal dominant syndrome characterized by inactivating *MEN1* gene mutations, leading to multiple endocrine tumors (NETs) and other tumor types* Classic triad of pituitary, parathyroid and pancreatic tumors (the 3 P's)"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-2",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#essentialfeatures545855",
+    "clean_content": "Essential features\n\n* Pathogenic *MEN1* variant (chromosome 11q13), encoding the tumor suppressor protein menin, is inherited in 90% of cases or arises de novo in 10%, with 100% penetrance* Classically associated with duodenopancreatic, parathyroid and pituitary tumors; currently, the phenotypic penetrance is appreciated in > 13 organs* Variety of nonendocrine tumors are also part of MEN1 (meningioma, ependymoma, angiofibroma)* Mortality is primarily due to duodenopancreatic neuroendocrine tumors (DP-NETs)"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-3",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Terminology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#terminology545872",
+    "clean_content": "Terminology\n\n* Not recommended: Wermer syndrome, multiple endocrine adenomatosis type 1, familial Zollinger-Ellison syndrome"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-4",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "ICD coding",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#icdcoding545873",
+    "clean_content": "ICD coding\n\n* ICD-10: [E31.20](https://www.icd10data.com/ICD10CM/Codes/E00-E89/E20-E35/E31-/E31.20) - multiple endocrine neoplasia [MEN] syndrome, unspecified* ICD-11: [2F7A.0](https://icd.who.int/browse/2024-01/mms/en#1316827435) - multiple polyglandular tumors"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-5",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Epidemiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#epidemiology545856",
+    "clean_content": "Epidemiology\n\n* Prevalence is ~3 - 20:100,000 ([Endocr Rev 2021;42:133](33249439))* 90% familial and 10% sporadic ([F1000Res 2017;6:73](28184288))* Sex differences ([Eur J Endocrinol 2011;16:97](21551167))\n      + Primary hyperparathyroidism: M = F+ Pancreatic NETs (PanNETs): M > F = 1.5:1+ Pituitary NET: M < F+ Thymic NET: M >>> F (Western population), M ≈ F (Eastern population)* Geographical differences: thymic NET almost exclusively in males in Western countries* 100% penetrance (100% with parathyroid adenomas by age 50) ([F1000Res 2017;6:73](28184288))* Penetrance depends on age, type of tumor and phenotypic expression* Primary hyperparathyroidism is the earliest manifestation of MEN1 (58 - 75% prevalence in pediatric patients) and average age at diagnosis is ~40 years* Most frequent cause of MEN1 related death is complications secondary to pancreatic / gastrointestinal neuroendocrine tumors ([J Pediatr Genet 2016;5:89](27617149))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-6",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sites",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#sites545857",
+    "clean_content": "Sites\n\n* Variety of neuroendocrine and nonneuroendocrine tumors that can develop in different organ sites ([J Pediatr Genet 2016;5:89](27617149), [Cancer Genet 2016;209:36](26767918), [Endocr Relat Cancer 2017;24:T119](28899949))\n  + Endocrine tumors\n    - Parathyroid (~95% of patients)- Pancreas / gastrointestinal tract (30 - 70% of patients)- Anterior pituitary (30 - 40% of patients)- Adrenal cortex- Thymus (~3%) ([J Clin Endocrinol Metab 2014;99:3325](24915123), [Horm Cancer 2016;7:279](27311764))+ Nonendocrine tumors\n      - Facial skin (angiofibromas, collagenomas)- Testis (epididymomas)- Central nervous system (meningioma, ependymoma) ([Clin Cancer Res 2024;30:2835](38630553))+ Nonsyndromic tumors have somatic *MEN1* mutations at the following frequencies\n        - Glucagonoma: 60%- VIPoma: 57%- Nonfunctioning PanNETs: 44%- Gastrinoma: 38%- Bronchial carcinoid: 35%- Parathyroid adenoma: 35%- Lipoma: 28%- Insulinoma: 2 - 19%- Angiofibroma: 10%- Anterior pituitary tumor: 3.5%- Adrenocortical tumor: 2%"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-7",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Pathophysiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#pathophysiology545858",
+    "clean_content": "Pathophysiology\n\n* *MEN1* gene was first identified in 1997 and is located on chromosome 11q13 ([Science 1997;276:404](9103196))* Menin, the protein product of *MEN1*, is a tumor suppressor gene involved in regulating cell proliferation, apoptosis and maintaining genome integrity ([F1000Res 2017;6:73](28184288))* Menin is conserved across species, from drosophila to humans; however, it does not show homology with any other known protein ([Cancer Genet 2016;209:36](26767918))* Truncation, frameshift, nonsense mutations or large deletions (including those in intronic areas leading to splice site defects) cause *MEN1* gene loss and a lack of menin, resulting in uncontrolled endocrine cell proliferation* 12 *MEN1* gene mutations were initially identified and more than 1,800 mutations have been identified to date ([F1000Res 2017;6:73](28184288))* 75% of *MEN1* mutations are inactivating ([F1000Res 2017;6:73](28184288))* 5 - 20% of individuals may not harbor mutations in the *MEN1* gene coding region, suggesting alternative genetic mechanisms ([Cancer Genet 2016;209:36](26767918))* 2 hit hypothesis suggests that germline *MEN1* mutation combined with a somatic mutation leads to tumorigenesis* There is no direct genotype phenotype correlation between the type of *MEN1* mutation and the specific types of tumors that develop ([F1000Res 2017;6:73](28184288))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-8",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Etiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#etiology545878",
+    "clean_content": "Etiology\n\n* *MEN1* is inherited in an autosomal dominant manner* ~10% of cases result from a de novo mutation"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-9",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Diagrams / tables",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#diagramstables545859",
+    "clean_content": "Diagrams / tables\n\nImages hosted on other servers:  \n\n[![MEN1 associated tumors](https://www.pathologyoutlines.com/thumb/pancreasMEN1DiagrTh1.jpg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7958143/figure/ga1/)\n\nMEN1 associated tumors\n\n[![Missing Image](https://www.pathologyoutlines.com/thumb/pancreasMEN1diagram1.jpg)](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2574000/figure/F1/)\n\nLocation of tumors in patients with MEN1\n\n[![Laboratory tests for pancreatic NETs](https://www.pathologyoutlines.com/thumb/pancreasMEN1DiagrTh02.png)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8369854/table/table1-20406223211035288/)\n\nLaboratory tests for pancreatic NETs"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-10",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Clinical features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#clinicalfeatures545860",
+    "clean_content": "Clinical features\n\n* Endocrine tumors are found in parathyroid, anterior pituitary, pancreas / gastrointestinal tract, adrenal cortex and thymus* Parathyroid adenomas cause hypersecretion of parathyroid hormone (PTH), leading to hypercalcemia with symptoms such as gastrointestinal pain, cognitive dysfunction and renal stones* Pituitary adenomas may cause visual field defects due to optic chiasm compression or extraocular muscle involvement* Functional pituitary adenomas can cause Cushing disease (adrenocorticotropic hormone [ACTH] secreting tumors), Nelson syndrome (postadrenalectomy ACTH overproduction), acromegaly (excess growth hormone), hyperprolactinemia (prolactin secreting adenomas)* Patients with gastrinomas, typically found in the duodenum, may have Zollinger-Ellison syndrome (excess stomach acid, severe peptic ulcers)* Primary gastrinomas may be microadenomas but lymph node metastases can be much larger ([J Pediatr Genet 2016;5:89](27617149))* Tumors in the adrenal cortex and thymus can occur, though they are less common* Nonendocrine tumors: skin lesions (angiofibromas, collagenomas), epididymomas, meningiomas"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-11",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#diagnosis545861",
+    "clean_content": "Diagnosis\n\n* MEN1 may be diagnosed by clinical, familial or genetic characteristics\n  + Clinical: at least 2 MEN1 syndrome associated tumors+ Familial: at least 1 MEN1 syndrome associated tumor and a first degree relative with a confirmed diagnosis of MEN1 syndrome+ Genetic: one of the various *MEN1* mutations ([Neuroendocrinology 2021;111:609](32971521))* *MEN1* mutations are identified through PCR amplification of exons and splicing sites\n    + PCR method fails to detect *MEN1* mutations in patients whose mutations lie outside the coding region ([World J Exp Med 2015;5:124](25992327))+ Next generation sequencing (NGS) overcomes these limitations by enabling the detection of noncoding region mutations* Mutational analysis should be offered to\n      + Asymptomatic first degree relatives of a known MEN1 patient+ Patients with at least 2 typical MEN1 tumors or 1 MEN1 tumor and a positive family history+ Patients with early onset (< 30 years) of a typical MEN1 manifestation (hyperparathyroidism, Zollinger-Ellison syndrome) ([Endocr Relat Cancer 2017;24:T209](28790162))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-12",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Laboratory",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#laboratory545862",
+    "clean_content": "Laboratory\n\n* Intact parathyroid hormone measured after diagnosis of hypercalcemia ([J Clin Endocrinol Metab 2014;99:3561](25162665))* ~90% of MEN associated pituitary NETs are nonfunctional ([Clin Endosc 2017;50:537](29207856))* See [Diagrams / tables](https://www.pathologyoutlines.com/topic/pancreasMEN1.html#pancreasMEN1diagrams) regarding laboratory tests for pancreatic NETs ([Ther Adv Chronic Dis 2021;12:20406223211035288](34413971))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-13",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Radiology description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#radiologydescription545863",
+    "clean_content": "Radiology description\n\n* Osteoporosis, terminal tuft erosion (distal phalanges) and nephrolithiasis in patients with parathyroid adenomas and hypercalcemia* Calvarial thickening, frontal bossing, enlarged sinuses (especially frontal sinuses), enlarged sella turcica, prognathic mandible and increased vertebral fractures in patients with acromegaly due to pituitary adenoma* PanNETs are usually well circumscribed, solid and avidly enhancing lesions ([Radiol Clin North Am 2016;54:441](27153782))* Sensitivity of imaging technique for PanNETs: endoscopic ultrasound (EUS) ~90%, computed tomography (CT) 63 - 82%, magnetic resonance imaging (MRI) 85 - 100% ([AJR Am J Roentgenol 2021;217:245](33909463), [Ann Gastroenterol 2015;28:193](25830417))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-14",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Radiology images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#radiologyimages545965",
+    "clean_content": "Radiology images\n\nContributed by R. Peter Powell, M.D.  \n\n[![Pancreatic NET in MEN1](https://www.pathologyoutlines.com/imgau/pancreasMEN1RadPowell1.png)](https://www.pathologyoutlines.com/imgau/pancreasMEN1RadPowell1.png)\n\nPancreatic NET in MEN1"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-15",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prognostic factors",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#prognosticfactors545864",
+    "clean_content": "Prognostic factors\n\n* Pancreatic neuroendocrine tumors (pNETs) are the most critical determinant of survival in MEN1\n  + Duodenopancreatic NETs and thymic NETs represent ~70% of the mortality rate ([Medicine (Baltimore) 2013;92:135](23645327))+ Insulinomas: usually benign, good prognosis+ Gastrinomas: high malignant potential, risk of metastatic spread (liver, lymph nodes)+ Nonfunctional pNETs: often aggressive, found late and more likely to metastasize+ Glucagonomas / VIPomas / somatostatinomas: rare but highly malignant+ Patients with a strong family history of aggressive pNETs may have worse outcomes+ Patients with metastatic pNETs have the worst prognosis, especially if liver involvement occurs* Parathyroid tumors\n    + Usually benign but can recur after surgery+ Parathyroid carcinomas are rare but have a high mortality rate* Pituitary tumors\n      + Prolactinomas: often responsive to medical therapy+ Pituitary tumors rarely metastasize but can cause significant morbidity if invasive+ ACTH secreting tumors (Cushing disease): rare but associated with increased mortality"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-16",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Case reports",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#casereports545865",
+    "clean_content": "Case reports\n\n* 16 year old girl with primary hyperparathyroidism and pituitary adenoma ([Genes (Basel) 2020;11:986](32847108))* 25 year old woman with nonfunctioning microprolactinoma and nonfunctioning pancreatic neuroendocrine tumors presenting with uveal melanoma ([Can J Ophthalmol 2025;60:e173](39299300))* 40 year old man with prototypic MEN presentation with new *MEN* mutation ([Cardiorenal Med 2016;6:129](26989398))* 43 year old woman with insulinoma ([Genes (Basel) 2021;12:512](33807230))* 49 year old woman with pancreatic insulinoma, adrenal gland tumor and primary hyperparathyroidism ([Hered Cancer Clin Pract 2022;20:10](35255927))* 54 and 55 year old men with parathyroid carcinoma ([Int J Surg 2016;31:10](27212590))* 60 year old woman with Zollinger-Ellison syndrome and hyperparathyroidism ([Case Rep Gastrointest Med 2019;2019:9605769](31275670))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-17",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Treatment",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#treatment545866",
+    "clean_content": "Treatment\n\n* Parathyroid tumors\n  + Surgical resection of the affected parathyroid glands is the main treatment+ Calcimimetics (e.g., cinacalcet) may be used to control calcium levels if surgery is not possible or preferred* Pancreatic neuroendocrine tumors\n    + Surgical resection if pancreatic tumors are symptomatic or large+ Proton pump inhibitors (for gastrinomas causing Zollinger-Ellison syndrome)+ Somatostatin analogs (e.g., octreotide, lanreotide) to reduce hormone secretion ([Pharmaceuticals (Basel) 2021;14:1039](34681263))+ Targeted therapies like everolimus or sunitinib for advanced disease ([N Engl J Med 2011;364:501](21306237))+ Peptide receptor radionuclide therapy (PRRT) in metastatic cases* Pituitary tumors\n      + Prolactinomas: treated with dopamine agonists (e.g., cabergoline, bromocriptine)+ Other pituitary tumors: may require surgery, radiation therapy or medical therapy with somatostatin analogs or hormone replacement* Other tumors (adrenal, thymic, lung NETs, etc.): surgical removal if tumors are functional or growing; monitoring for nonfunctional tumors that do not require immediate intervention"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-18",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Clinical images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#clinicalimages545966",
+    "clean_content": "Clinical images\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-19",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#grossdescription545967",
+    "clean_content": "Gross description\n\n* Parathyroid adenomas / hyperplasia\n  + Enlarged parathyroid glands, typically soft and reddish-brown to tan in color, measuring ~0.5 - 1.5 cm but can be larger+ Involvement may be limited to a single gland or affect all four parathyroid glands* Pancreatic / duodenal neuroendocrine tumors\n    + Often present as multiple, well demarcated, tan to yellowish, soft or firm nodules scattered in the pancreas and duodenum ([Int J Mol Sci 2021;22:4041](33919851))+ Size can vary widely, ranging from microscopic lesions to tumors several centimeters in diameter* Pituitary adenomas\n      + Usually solitary, can present as a macroadenoma (> 1 cm) ([J Neurosurg 2020;134:1132](32244213))+ Well circumscribed, soft and typically appear pale tan to gray mass"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-20",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#grossimages545867",
+    "clean_content": "Gross images\n\nAFIP images  \n\n[![Missing Image](https://www.pathologyoutlines.com/imgau/pancreasMEN1AFIPgross1.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1AFIPgross1.jpg)\n\nIntramucosal tumor nodules\n\n[![Missing Image](https://www.pathologyoutlines.com/imgau/pancreasMEN1AFIPgross2.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1AFIPgross2.jpg)\n\nZollinger-Ellison syndrome"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-21",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Frozen section description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#frozensectiondescription545968",
+    "clean_content": "Frozen section description\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-22",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Frozen section images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#frozensectionimages545969",
+    "clean_content": "Frozen section images\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-23",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#microscopichistologicdescription545970",
+    "clean_content": "Microscopic (histologic) description\n\n* MEN1 is characterized by the development of multiple endocrine tumors, primarily affecting the parathyroid glands, pancreas and pituitary gland* Each tumor type has distinct microscopic features\n    + Parathyroid adenomas / hyperplasia\n      - Chief cell hyperplasia with a diffuse or nodular growth pattern- Increased oxyphil cells in some cases ([Histopathology 1992;20:305](1349556), [Surg Pathol Clin 2019;12:1007](31672291))- Loss of fat content in the gland ([Histopathology 1992;20:305](1349556))- No significant nuclear atypia but may show monotonous cells with round nuclei and mild anisocytosis ([Histopathology 1992;20:305](1349556))+ Pancreatic neuroendocrine tumors\n        - Well differentiated NETs composed of uniform polygonal cells with eosinophilic or clear cytoplasm, salt and pepper chromatin (finely granular nuclear chromatin) ([Arch Pathol Lab Med 2025 Mar 4 [Epub ahead of print]](40031961))- Immunohistochemical staining positive for chromogranin A, synaptophysin and neuroendocrine markers ([Arch Pathol Lab Med 2025 Mar 4 [Epub ahead of print]](40031961))- Some tumors may show vascular invasion or mitotic activity, indicating more aggressive potential- Diffuse islet cell hyperplasia occurs frequently ([World J Gastroenterol 2011;17:137](21245985))+ Pituitary adenomas\n          - Composed of monomorphic polygonal cells arranged in nests, trabeculae or diffuse sheets ([Am J Surg Pathol 2008;32:534](18300794))- Lack of significant pleomorphism- Immunohistochemical staining positive for hormones such as prolactin, growth hormone or ACTH depending on the functional status of the tumor ([Am J Surg Pathol 2008;32:534](18300794))+ Other possible findings\n            - Thymic and bronchial carcinoids: small nests of neuroendocrine cells with a trabecular or organoid growth pattern ([J Intern Med 1998;243:501](9681849))- Adrenal involvement: cortical hyperplasia or adenomas with clear cell changes- Duodenal gastrinomas: small nests of well differentiated neuroendocrine cells producing gastrin, seen in Zollinger-Ellison syndrome"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-24",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#microscopichistologicimages545868",
+    "clean_content": "Microscopic (histologic) images\n\nContributed by R. Peter Powell, M.D. and Wei Chen, M.D., Ph.D.  \n\n[![Duodenal neuroendocrine tumor](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell1.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell1.jpg)\n\nDuodenal neuroendocrine tumor\n\n[![Gastric neuroendocrine tumor](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell3.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell3.jpg)\n\nGastric neuroendocrine tumor\n\n[![Parathyroid adenoma](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell6.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell6.jpg)\n \n[![Parathyroid adenoma](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell7.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell7.jpg)\n\nParathyroid adenoma\n\n  \n\n[![Pancreatic neuroendocrine tumor](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell4.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell4.jpg)\n\nPancreatic neuroendocrine tumor\n\n[![Somatostatinoma](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroChen1.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroChen1.jpg)\n\nSomatostatinoma\n\n[![Chromogranin immunostaining in duodenal NET ](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell2.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell2.jpg)\n\nChromogranin immunostaining in duodenal NET\n\n[![Synaptophysin immunostaining in pancreatic NET](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell5.jpg)](https://www.pathologyoutlines.com/imgau/pancreasMEN1MicroPowell5.jpg)\n\nSynaptophysin immunostaining in pancreatic NET"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-25",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Virtual slides",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#virtualslides546124",
+    "clean_content": "Virtual slides\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-26",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Cytology description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#cytologydescription546125",
+    "clean_content": "Cytology description\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-27",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Cytology images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#cytologyimages546126",
+    "clean_content": "Cytology images\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-28",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Immunofluorescence description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#immunofluorescencedescription546127",
+    "clean_content": "Immunofluorescence description\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-29",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Immunofluorescence images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#immunofluorescenceimages546128",
+    "clean_content": "Immunofluorescence images\n\nNone"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-30",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Positive stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#positivestains546129",
+    "clean_content": "Positive stains\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-31",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Negative stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#negativestains546150",
+    "clean_content": "Negative stains\n\n* Immunohistochemical analysis may reveal nuclear **menin** loss in MEN1 associated tumors ([Am J Surg Pathol 2023;47:785](37199453), [Front Endocrinol (Lausanne) 2023;14:1221514](37867522))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-32",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Electron microscopy description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#electronmicroscopydescription546130",
+    "clean_content": "Electron microscopy description\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-33",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Electron microscopy images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#electronmicroscopyimages546131",
+    "clean_content": "Electron microscopy images\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-34",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Molecular / cytogenetics description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#molecularcytogeneticsdescription545869",
+    "clean_content": "Molecular / cytogenetics description\n\n* MEN1 is an autosomal dominant disorder that is caused by mutations in the *MEN1* gene, a tumor suppressor gene located on chromosome 11q13, which encodes the protein menin* Over 1,500 germline and somatic *MEN1* mutations ([Neuroendocrinology 2021;111:609](32971521))\n    + Germline mutations (inherited): heterozygous mutations are present in all cells of affected individuals+ Somatic mutations (acquired): found in sporadic cases of parathyroid, pancreatic and pituitary tumors+ Mutation types\n          - Nonsense (30%) mutation leads to truncated, nonfunctional menin protein- Frameshift (40%) mutation disrupts protein reading frame leading to loss of function- Missense (20%) mutation alters protein function without truncation- Large deletions / insertions (10%) results in complete gene loss+ Other chromosome changes (e.g., translocations or amplifications in aggressive pancreatic neuroendocrine tumors)* 2 hit hypothesis: first hit is germline *MEN1* mutation; second hit is somatic deletion / mutation of the remaining normal *MEN1* allele* Fluorescence in situ hybridization (FISH), multiplex ligation dependent probe amplification (MLPA) and PCR sequencing can detect *MEN1* deletions and mutations* Diagnostic genetic testing for *MEN1* mutations is recommended for family members of affected individuals or individuals with multiple MEN1 related tumors"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-35",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Molecular / cytogenetics images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#molecularcytogeneticsimages546132",
+    "clean_content": "Molecular / cytogenetics images\n\nNot applicable"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-36",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Videos",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#videos546164",
+    "clean_content": "Videos\n\nOsmosis - multiple endocrine neoplasia\n\nBasics of multiple endocrine neoplasia  \nMayo Clinic - Dr. Mark Lewis\n\nMultiple endocrine neoplasia - Canadian Neuroendocrine Tumour Society"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-37",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sample pathology report",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#samplepathologyreport546165",
+    "clean_content": "Sample pathology report\n\n* Pancreas, distal pancreatectomy:\n  + Neuroendocrine tumor, well differentiated, who grade 1 (see comment)+ Comment: The histologic findings, along with immunohistochemical studies (positive synaptophysin and chromogranin staining and a Ki67 proliferative rate of 1% in tumor cells), confirm the diagnosis of a well differentiated pancreatic neuroendocrine tumor (grade 1). The patient has a known history of parathyroid hyperplasia and a pituitary adenoma. The presence of primary hyperparathyroidism, pancreatic neuroendocrine tumors and pituitary adenoma is consistent with the classic triad of multiple endocrine neoplasia type 1 (MEN1)."
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-38",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Differential diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#differentialdiagnosis546166",
+    "clean_content": "Differential diagnosis\n\n* [Sporadic PanNETs](https://www.pathologyoutlines.com/topic/pancreasWDNET.html):\n  + Usually single tumors, no other endocrine neoplasms ([Mod Pathol 2023;36:100065](36788102))* [Von Hippel-Lindau (VHL) syndrome](https://www.pathologyoutlines.com/topic/stainsvhl.html):\n    + Caused by mutations in the *VHL* gene, leading to increased risk of developing tumors and cysts in multiple organs, e.g., PanNETs, renal cell carcinoma, hemangioblastomas, pheochromocytomas, endolymphatic sac tumors of inner ear, cysts in kidneys, pancreas and reproductive organs* [Neurofibromatosis type 1 (NF1)](https://www.pathologyoutlines.com/topic/softtissueneurofibroma.html):\n      + Caused by mutations in the *NF1* gene, symptoms include PanNETs (often somatostatinomas), café au lait spots, neurofibromas, lisch nodules, optic gliomas, freckling in the groins or armpit, skeletal abnormalities and learning disabilities* **MEN4** (*CDKN1B* mutation):\n        + Similar to MEN1 but much rarer ([Endocr Connect 2023;12:e220411](36520683), [J Clin Endocrinol Metab 2022;107:2339](35323929))"
+  },
+  {
+    "id": "men1-syndrome_49711_1750166974.txt-39",
+    "source_document": "men1-syndrome_49711_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Additional references",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasMEN10.html#additionalreferences546969",
+    "clean_content": "Additional references\n\nNone"
+  }
+]

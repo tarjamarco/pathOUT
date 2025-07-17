@@ -1,0 +1,209 @@
+[
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-1",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#definitiongeneral537084",
+    "clean_content": "Definition / general\n\n* Chronic disease of abnormal carbohydrate metabolism that results in hyperglycemia* Caused by a deficiency of insulin production, insulin function or both ([Diabetes Care 2024;47:S20](38078589))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-2",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#essentialfeatures537085",
+    "clean_content": "Essential features\n\n* Type 1 diabetes is caused by autoimmune destruction of pancreatic β cells, histologically characterized by lymphocytic infiltrates in the pancreatic islets* Type 2 diabetes is due to loss of normal insulin secretion and development of insulin resistance, histologically characterized by amylin deposition in pancreatic islets"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-3",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Terminology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#terminology537086",
+    "clean_content": "Terminology\n\n* Insulin dependent diabetes* Adult onset diabetes* Juvenile onset diabetes"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-4",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "ICD coding",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#icdcoding537087",
+    "clean_content": "ICD coding\n\n* ICD-9: [250](http://www.icd9data.com/2015/Volume1/240-279/249-259/250/default.htm) - diabetes mellitus* ICD-10\n    + [E10](https://www.icd10data.com/ICD10CM/Codes/E00-E89/E08-E13/E10-/E10) - type 1 diabetes mellitus+ [E11](https://www.icd10data.com/ICD10CM/Codes/E00-E89/E08-E13/E11-/E11) - type 2 diabetes mellitus"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-5",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Epidemiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#epidemiology537088",
+    "clean_content": "Epidemiology\n\n* Type 1 diabetes\n  + Autoimmune type 1 diabetes accounts for 5 - 10% of diabetes ([Diabetes Care 2024;47:S20](38078589))+ Occurs most frequently in children, adolescents and young adults, though it can occur at any age* Type 2 diabetes\n    + Accounts for 90 - 95% of diabetes+ Income and education level are inversely associated with diabetes prevalence and complications; those with lower socioeconomic status are more likely to develop type 2 diabetes mellitus, experience complications and die sooner than those with higher socioeconomic status ([Diabetes Care 2020;44:258](33139407))+ In the U.S., prevalence of diagnosed diabetes is highest among American Indian and Alaska Native adults (13.6%), non-Hispanic Black adults (12.1%), adults of Hispanic origin (11.7%), non-Hispanic Asian adults (9.1%) and non-Hispanic White adults (6.9%) ([CDC: National Diabetes Statistics Report [Accessed 3 January 2025]](https://www.cdc.gov/diabetes/php/data-research/index.html))\n          - Recent studies have demonstrated that modifiable risk factors, such as socioeconomic status, diabetes education and healthcare access, account for much of the racial / ethnic disparity in diabetes burden rather than the nonmodifiable factor of race / ethnicity itself ([Ethn Dis 2009;19:288](19769011), [J Racial Ethn Health Disparities 2018;5:7](28078660))* Maturity onset diabetes of the young (MODY) / monogenic diabetes\n      + Accounts for < 5.0% of all patients with diabetes mellitus+ Onset typically between the ages of 10 and 40 years old+ Often misdiagnosed as either type 1 or type 2 diabetes ([StatPearls: Maturity Onset Diabetes in the Young [Accessed 3 January 2025]](30422495))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-6",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sites",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#sites537089",
+    "clean_content": "Sites\n\n* Insulin producing islets of Langerhans in the pancreas are the primary disease site* Chronic hyperglycemia in diabetes leads to nonenzymatic glycosylation of multiple tissues, damaging multiple organs, including\n    + Cardiovascular system\n      - Accelerated atherosclerosis- Peripheral vascular disease, often leading to gangrene of the distal extremities+ Nervous system\n        - Decreased capillary blood flow to nerve fibers leads to axonal thickening / loss, basement membrane thickening or demyelination- Diabetes related cardiac autonomic neuropathy has been reported to include clinical abnormalities such as heart rate variability and orthostasis, though the prevalence of diabetes related cardiac autonomic neuropathy is unclear ([Phys Ther 2008;88:1322](18801863))+ Eyes\n          - Associated with retinopathy, cataracts and glaucoma+ Stomach\n            - Damage to the enteric nervous system leads to abnormally delayed gastric emptying or gastroparesis+ Kidneys\n              - Damage to the glomerular basement membrane leads to microalbuminuria, which progresses to overt albuminuria and eventually to renal failure"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-7",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Pathophysiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#pathophysiology537090",
+    "clean_content": "Pathophysiology\n\n* Hyperglycemia characteristic of diabetes mellitus results from the deficiency of insulin production (autoimmune type 1 diabetes, virus induced diabetes, monogenic diabetes, neoplastic or disease process related diabetes), decreased insulin sensitivity (type 2 diabetes mellitus) or both* Many type 1 diabetes patients also have antithyroid peroxidase (thyroid), antiparietal cell (stomach) and antiadrenocortical (adrenal) antibodies ([Clin Exp Immunol 2001;126:236](11703366))* Decreased insulin production or sensitivity can result in\n      + Hyperglycemia, due to lack of insulin to promote glycogenesis and inhibit gluconeogenesis+ Polyuria and polydipsia, due to glucose induced osmotic diuresis+ Weight loss, due to increased lipolysis and proteolysis in the setting of insulin deficiency+ Peripheral neuropathy, due to hyperglycemia induced nerve damage+ Vascular disease, due to hyperglycemia induced arterial damage and advanced atherosclerosis+ Increased risk of infection, due to immune system suppression and chronic inflammation in the setting of hyperglycemia ([Curr Diabetes Rev 2020;16:442](31657690))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-8",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Etiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#etiology537091",
+    "clean_content": "Etiology\n\n* Type 1 diabetes\n  + Caused by autoimmune destruction of pancreatic β cells in islets of Langerhans+ Likely due to a combination of genetic susceptibility and environmental factors+ Autoimmune markers include islet cell autoantibodies and autoantibodies to glutamic acid decarboxylase (GAD) (such as GAD65), insulin, the tyrosine phosphatases islet antigen 2 (IA2) and IA2β and zinc transporter 8 (ZnT8) ([Diabetes Care 2024;47:S20](38078589))+ Strong HLA associations, with linkage to the DQB1 and DRB1 haplotypes+ Viruses, including enteroviruses and SARS-CoV-2, have been associated with type 1 diabetes, theoretically due to molecular mimicry ([J Endocrinol 2021;252:R41](34755679))+ Beta cell destruction is often incomplete at the time of initial diagnosis; thought to continue over time for roughly 10 years after onset ([J Endocrinol 2021;252:R41](34755679))+ Type 1 diabetes is thought to become clinically evident upon the destruction of ~70 - 80% of beta cell mass ([Methods Mol Biol 2016;1433:105](26801316))* Type 2 diabetes\n    + Nonautoimmune loss of adequate β cell insulin secretion, frequently in a background of insulin resistance (decreased biological response to insulin) ([Diabetes Care 2024;47:S20](38078589))+ Risk increases with obesity, age, smoking and lack of physical activity+ Occurs more frequently in individuals with prediabetes, prior gestational diabetes mellitus, polycystic ovary syndrome, hypertension or dyslipidemia+ Genetic component is likely but poorly understood+ Hyalinization of islets of Langerhans due to deposition of misfolded amylin (islet amyloid polypeptide, IAPP), a hormone cosecreted with insulin by the pancreas+ Islet amyloid polypeptide becomes birefringent after formation of advanced glycosylation end products ([Eur J Biochem 1998;251:208](9492286))* Other\n      + Maturity onset diabetes of the young / monogenic diabetes\n        - Type 2 diabetes-like condition- Autosomal dominant inheritance pattern, generally with heterozygous mutations- Common genes affected are hepatic nuclear factor 1 or 4 alpha, glucokinase- Onset before age 25, normal weight- Hyperglycemia is usually milder, initially postprandial but can progress to fasting hyperglycemia ([J Diabetes Investig 2022;13:1465](35638342))- No GAD antibodies, no insulin resistance, no beta cell loss but impaired beta cell function+ Destruction of pancreatic β cells by underlying disease (e.g., cystic fibrosis, bronze diabetes in hemochromatosis), viruses (due to molecular mimicry) or neoplastic processes+ Certain medications (e.g., glucocorticoids, statins, proprotein convertase subtilisin / kexin type 9 [PCSK9] inhibitors, thiazide diuretics, immune checkpoint inhibitors, some human immunodeficiency virus [HIV] medications, second generation antipsychotic medications) can increase the risk of insulin resistance or diabetes"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-9",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Clinical features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#clinicalfeatures537092",
+    "clean_content": "Clinical features\n\n* Type 1 diabetes\n  + Typical onset at age < 20 years+ Common presenting symptoms include polyuria, polydipsia, polyphagia and diabetic ketoacidosis+ Severe fasting hypoglycemia is due to cessation of glycogen storage in fat and muscle+ Unstable glucose tolerance (i.e., very sensitive to changes in insulin, diet, exercise, infection, stress) ([Diabetes Care 2024;47:S20](38078589))* Type 2 diabetes\n    + Usually onset > 30 years old+ Associated with obesity (80% of cases, abdominal obesity is more closely associated than subcutaneous obesity)+ 90%+ concordance in twins, apparently due to multiple genetic polymorphisms (no HLA association)+ Elevated blood sugar in conjunction with polyuria can lead to dehydration and a hyperosmolar hyperglycemic state ([Diabetes Care 2024;47:S20](38078589))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-10",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#diagnosis537093",
+    "clean_content": "Diagnosis\n\n* According to the American Diabetes Association, the diagnosis of diabetes can be made if any one of the following criteria are met ([Diabetes Care 2024;47:S20](38078589))\n  + Hemoglobin A1C ≥ 6.5%+ Fasting plasma glucose ≥ 126 mg/dL (7 mmol/L)+ 2 hour plasma glucose ≥ 200 mg/dL (11.1 mmol/L) during an oral glucose tolerance test+ In a patient with classic symptoms of hyperglycemia or hyperglycemic crisis, random plasma glucose ≥ 200 mg/dL (11.1 mmol/L)* Histologic changes in diabetes mellitus are not used for diagnostic purposes"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-11",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Laboratory",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#laboratory537094",
+    "clean_content": "Laboratory\n\n* Type 1 diabetes\n  + Low or absent plasma insulin+ High plasma glucagon+ Free fatty acids (due to breakdown of adipose stores), which produce ketone bodies (acetoacetic acid and beta hydroxybutyric acid)* Type 2 diabetes\n    + Early loss of normal, pulsatile insulin secretion+ Late mild to moderate insulin deficiency, possibly due to beta cell damage secondary to exhaustion due to chronic hyperglycemia and persistent beta cell stimulation ([Diabetes Care 2024;47:S20](38078589))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-12",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prognostic factors",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#prognosticfactors537095",
+    "clean_content": "Prognostic factors\n\n* Type 1 diabetes\n  + High morbidity and mortality+ Life expectancy is reduced by 10 - 20 years for many individuals+ Delayed diagnosis can lead to death from diabetic ketoacidosis+ Long term outcomes are closely associated with diabetes education and degree of blood sugar control ([StatPearls: Type 1 Diabetes in Children [Accessed 3 January 2025]](28722947))* Type 2 diabetes\n    + Prognosis is closely linked to the degree of blood sugar control and prevention / management of complications+ Those diagnosed at younger ages have an increased risk of developing complications* Other\n      + Type 1 diabetes mellitus is more likely to develop following a viral infection in patients with a prior genetic predisposition to type 1 diabetes mellitus ([Heliyon 2023;9:e15021](37064445))+ In cases of drug induced diabetes mellitus, cessation of the offending drug can lead to restoration of normal glucose levels, though diabetes can also persist after cessation; however, in cases in which the benefits of continuing the offending drug often outweigh the risks (e.g., second generation antipsychotics, antiretroviral regiments, transplant rejection therapy), close glucose monitoring and control is often recommended ([Therapie 2024;79:221](37985310))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-13",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Case reports",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#casereports537096",
+    "clean_content": "Case reports\n\n* 17 year old boy presented with severe polydipsia and lethargy ([Ann Pediatr Endocrinol Metab 2022;27:69](34670070))* 20 year old man referred for evaluation of new onset hyperglycemia ([J Clin Endocrinol Metab 2021;106:237](33034350))* 36 year old woman with gestational diabetes mellitus was admitted at 32 weeks for euglycemic ketoacidosis in the setting of COVID-19 infection ([Diabetes Metab 2021;47:101181](32738403))* 50 year old man with metastatic renal cell carcinoma treated with nivolumab presented with lethargy, vomiting, blurred vision, polydipsia and polyuria ([Front Immunol 2023;14:1248919](37965350))* 52 year old woman with a positive coronavirus antigen test presented with a blood glucose level of 1,507 mg/dL, HbA1c of 10.1% and 2+ urine ketones ([Am J Case Rep 2023;24:e940986](37717141))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-14",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Treatment",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#treatment537097",
+    "clean_content": "Treatment\n\n* Type 1 diabetes\n  + Insulin replacement+ Treatment is geared toward decreasing hyperglycemia while minimizing the risk of hypoglycemia ([StatPearls: Type 1 Diabetes in Children [Accessed 3 January 2025]](28722947))* Type 2 diabetes\n    + Main goal is blood sugar control and addressing other medical conditions (e.g., hypertension, hypercholesterolemia)+ Diet and exercise are the foundation of diabetes management+ Multiple classes of medications can help to lower blood glucose; commonly used include metformin, dipeptidyl peptidase 4 (DPP4) inhibitors, glucagon-like peptide 1 (GLP1) and dual GLP1 / gastric inhibitory peptide (GIP) receptor agonists, sodium glucose cotransporter 2 (SGLT2) inhibitors and sulfonylureas ([Diabetes Care 2009;32:193](18945920))* Maturity onset diabetes of the young / monogenic diabetes\n      + Treatment varies by gene mutation, ranging from diet and lifestyle modifications in mild cases to management with sulfonylureas, glucagon-like peptide 1 agonists or insulin ([Diabetes Metab Syndr Obes 2019;12:1047](31360071))* Other\n        + Diabetes mellitus associated with underlying disease (e.g., cystic fibrosis, hemochromatosis) is managed by treating the underlying disease or with insulin replacement therapy ([Diabetes Care 2009;32:1626](19542209))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-15",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#grossdescription537098",
+    "clean_content": "Gross description\n\n* Pancreas weight can be lower in type 1 diabetes mellitus; however, the macroscopic appearance may be indistinguishable from healthy pancreases in nondiabetic patients ([Diabetes 2024;73:1140](37881846))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-16",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#grossimages537099",
+    "clean_content": "Gross images\n\nContributed by Jeanne Camille Cardenas, M.D., M.B.A.  \n\n[![Tan-yellow, lobulated and firm external surface](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas01.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas01.jpg)\n\nTan-yellow, lobulated and firm external surface"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-17",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#microscopichistologicdescription537100",
+    "clean_content": "Microscopic (histologic) description\n\n* Type 1\n  + Inflammatory infiltrate of islets of Langerhans (also called insulitis) leads to severe beta cell depletion+ Insulitis is predominantly lymphocytic infiltrate, though macrophages and natural killer cells can also be present ([J Endocrinol 2021;252:R41](34755679))+ Increased acinar atrophy, periductal and perivascular fibrosis and angiopathy have been described ([Diabetes 2024;73:1140](37881846))* Type 2\n    + Hyalinization of islets of Langerhans due to deposition of amylin (islet amyloid polypeptide)+ Acinar to ductal metaplasia, intralobular fibrosis and inflammation and angiopathy have been described ([Diabetes 2024;73:1140](37881846))* Other\n      + Infants of diabetic mothers: islet cell hypertrophy / hyperplasia"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-18",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#microscopichistologicimages537101",
+    "clean_content": "Microscopic (histologic) images\n\nContributed by Jeanne Camille Cardenas, M.D., M.B.A.  \n\n[![Pancreas fibrosis and atrophy](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas02.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas02.jpg)\n\nPancreas fibrosis and atrophy\n\n[![Fibrosis, acinar loss, amylin](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas03.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas03.jpg)\n\nFibrosis, acinar loss, amylin\n\n[![Dense chronic inflammatory infiltrate](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas04.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas04.jpg)\n\nDense chronic inflammatory infiltrate\n\n[![Islet amyloid](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas05.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas05.jpg)\n\nIslet amyloid\n\n  \n\n[![Amylin birefringence](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas009.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas009.jpg)\n\nAmylin birefringence\n\n[![Congo red](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas06.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas06.jpg)\n \n[![Congo red](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas07.jpg)](https://www.pathologyoutlines.com/imgau/pancreasdmgeneralCardenas07.jpg)\n\nCongo red"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-19",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Positive stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#positivestains537102",
+    "clean_content": "Positive stains\n\n* Positive [Congo red](https://www.pathologyoutlines.com/topic/stainscongored.html) staining for islet amylin amyloid deposits, which may show birefringence under polarized light ([Biochim Biophys Acta 2001;1537:179](11731221))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-20",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Electron microscopy description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#electronmicroscopydescription537103",
+    "clean_content": "Electron microscopy description\n\n* Electron microscopy has been used to describe the amylin fibrils and sheets that deposit in beta islets ([FEBS J 2006;273:3614](16884500))"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-21",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Videos",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#videos537104",
+    "clean_content": "Videos\n\nHistopathology of pancreas with type 2 diabetes mellitus"
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-22",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sample pathology report",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#samplepathologyreport537105",
+    "clean_content": "Sample pathology report\n\n* Pancreas, autopsy:\n  + Type 2 diabetes mellitus (see comment)+ Comment: Microscopic examination of the pancreas shows acinar tissue with diffuse fibrosis, chronic inflammatory infiltrate and islet tissue with islet amylin deposition, consistent with a history of type 2 diabetes mellitus. Congo red special stain highlights the amylin material within the islets; no birefringence is identified under polarized light."
+  },
+  {
+    "id": "diabetes-mellitus_48936_1750166973.txt-23",
+    "source_document": "diabetes-mellitus_48936_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Differential diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasdmgeneral.html#differentialdiagnosis537106",
+    "clean_content": "Differential diagnosis\n\n* [Chronic pancreatitis](https://www.pathologyoutlines.com/topic/pancreaschronic.html):\n  + Characterized by acinar atrophy, fibrosis and chronic inflammatory infiltrate but will not show islet amyloid deposition* [Acute pancreatitis](https://www.pathologyoutlines.com/topic/pancreasacute.html):\n    + Parenchymal edema and necrosis with extensive calcifications* [Cystic fibrosis](https://www.pathologyoutlines.com/topic/pancreascysticfibrosis.html):\n      + Atrophy and fibrosis, pancreatic ducts contain lamellar concretions* [Autoimmune pancreatitis type 1 (IgG4 related)](https://www.pathologyoutlines.com/topic/pancreasaiptype1.html):\n        + Characterized by periductal lymphocyte infiltrate, obliterative phlebitis and storiform fibrosis+ Will not have amyloid deposition in islets* [Autoimmune pancreatitis type 2](https://www.pathologyoutlines.com/topic/pancreasaiptype2.html):\n          + Characterized by central duct granulocytic inflammation and fibrosis"
+  }
+]

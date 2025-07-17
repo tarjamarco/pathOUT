@@ -1,0 +1,101 @@
+[
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-1",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#definitiongeneral114548",
+    "clean_content": "Definition / general\n\n* All exocrine tumors of the pancreas (including any lesion designated as carcinoma, as well as solid papillary neoplasm and pancreaticoblastoma) are covered by this staging system* Not covered by this staging system are well differentiated neuroendocrine tumors at this location (use the [pancreas neuroendocrine staging system](https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html) instead)* The 8th edition staging has been shown to be more prognostically relevant than the 7th edition staging for pancreatic ductal adenocarcinoma ([Pancreas 2018;47:742](29851752))"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-2",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#essentialfeatures114549",
+    "clean_content": "Essential features\n\n* AJCC 7th edition staging was sunset on December 31, 2017; as of January 1, 2018, use of the [AJCC, 8th Edition, 2018](http://www.amazon.com/exec/obidos/ASIN/3319406175/pathologyoutl-20) is mandatory"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-3",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "ICD coding",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#icdcoding114550",
+    "clean_content": "ICD coding\n\n* ICD-10: [C25.9](https://www.icd10data.com/ICD10CM/Codes/C00-D49/C15-C26/C25-/C25.9) - malignant neoplasm of pancreas, unspecified"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-4",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Primary tumor (pT)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#primarytumorpt114551",
+    "clean_content": "Primary tumor (pT)\n\n* **pTX**: primary tumor cannot be assessed* **pTis**: carcinoma in situ (this includes high grade pancreatic intraepithelial neoplasia, intraductal papillary mucinous neoplasm with high grade dysplasia, intraductal tubulopapillary neoplasm with high grade dysplasia and mucinous cystic neoplasm with high grade dysplasia)* **pT1**: tumor ≤ 2 cm in greatest dimension\n      + **pT1a**: tumor ≤ 0.5 cm in greatest dimension+ **pT1b**: tumor > 0.5 and < 1 cm in greatest dimension+ **pT1c**: tumor 1 - 2 cm in greatest dimension* **pT2**: tumor > 2 cm and ≤ 4 cm in greatest dimension* **pT3**: tumor > 4 cm in greatest dimension* **pT4**: tumor involves celiac axis, superior mesenteric artery or common hepatic artery, regardless of size"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-5",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Regional lymph nodes (pN)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#regionallymphnodespn114552",
+    "clean_content": "Regional lymph nodes (pN)\n\n* **pNX**: regional lymph nodes cannot be assessed* **pN0**: no regional lymph node involvement* **pN1**: metastasis in one to three regional lymph nodes* **pN2**: metastasis in four or more regional lymph nodes\n\n  \n**Notes**:\n\n* Regional lymph nodes depend on tumor site\n  + For tumors of the head or neck of the pancreas, regional nodes include common bile duct, common hepatic artery, portal vein, pyloric, posterior and anterior pancreatoduodenal arcades, superior mesenteric vein and right lateral wall of superior mesenteric vein nodes+ For tumors of the body or tail of the pancreas, regional nodes include common hepatic artery, celiac axis, splenic artery and splenic hilum nodes* Minimum of 12 lymph nodes must be recovered for lymph node staging to be considered accurate in curative resections"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-6",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Distant metastasis (pM)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#distantmetastasispm114553",
+    "clean_content": "Distant metastasis (pM)\n\n* **pM0**: no distant metastasis* **pM1**: distant metastasis"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-7",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prefixes",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#prefixes114554",
+    "clean_content": "Prefixes\n\n* **y**: preoperative radiotherapy or chemotherapy* **r**: recurrent tumor stage"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-8",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Stage grouping",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#stagegrouping114555",
+    "clean_content": "Stage grouping\n\n* **Stage IA**:T1 N0 M0\n* **Stage IB**:T2 N0 M0\n* **Stage IIA**:T3 N0 M0\n* **Stage IIB**:T1 - 3 N1 M0\n* **Stage III**:T1 - 3 N2 M0\n* T4 any N M0\n* **Stage IV**:any T any N M1"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-9",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Registry data collection variables",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#registrydatacollectionvariables114556",
+    "clean_content": "Registry data collection variables\n\n* Preoperative [CA 19-9](https://www.pathologyoutlines.com/topic/stainsca19-9.html)* Preoperative [carcinoembryonic antigen (CEA)](https://www.pathologyoutlines.com/topic/stainscea.html)"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-10",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Histologic grade",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#histologicgrade114557",
+    "clean_content": "Histologic grade\n\n* **GX**: grade cannot be assessed* **G1**: well differentiated* **G2**: moderately differentiated* **G3**: poorly differentiated"
+  },
+  {
+    "id": "staging-exocrine_5899_1750166975.txt-11",
+    "source_document": "staging-exocrine_5899_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Histopathologic type",
+    "url": "https://www.pathologyoutlines.com/topic/pancreastnm.html#histopathologictype114558",
+    "clean_content": "Histopathologic type\n\n* [Ductal adenocarcinoma](https://www.pathologyoutlines.com/topic/pancreasductal.html)* [Adenosquamous carcinoma](https://www.pathologyoutlines.com/topic/pancreasadenosquamous.html)* **Hepatoid carcinoma*** [Medullary carcinoma](https://www.pathologyoutlines.com/topic/pancreasmedullary.html)* [Mucinous noncystic carcinoma (colloid carcinoma)](https://www.pathologyoutlines.com/topic/pancreascolloid.html)* Signet ring cell carcinoma* [Undifferentiated carcinoma](https://www.pathologyoutlines.com/topic/pancreasundifferentiated.html)* [Undifferentiated carcinoma with osteoclast-like giant cells](https://www.pathologyoutlines.com/topic/pancreasosteoclastic.html)* [Acinar cell carcinoma](https://www.pathologyoutlines.com/topic/pancreasacinar.html)* Acinar cell cystadenocarcinoma* [Intraductal papillary mucinous neoplasm](https://www.pathologyoutlines.com/topic/pancreasipmn.html) with associated invasive carcinoma* [Intraductal tubulopapillary neoplasm](https://www.pathologyoutlines.com/topic/pancreasitpn.html) with associated invasive carcinoma* [Mucinous cystic neoplasm](https://www.pathologyoutlines.com/topic/pancreasmcn.html) with associated invasive carcinoma* [Pancreaticoblastoma](https://www.pathologyoutlines.com/topic/pancreaspancreatoblastoma.html)* [Serous cystadenocarcinoma](https://www.pathologyoutlines.com/topic/pancreasserous.html)* [Solid pseudopapillary neoplasm](https://www.pathologyoutlines.com/topic/pancreassolidpseudo.html)* [Neuroendocrine carcinoma](https://www.pathologyoutlines.com/topic/pancreasneuroendocrinecarcinoma.html)* [Small cell neuroendocrine carcinoma](https://www.pathologyoutlines.com/topic/pancreasneuroendocrinecarcinoma.html)* [Large cell neuroendocrine carcinoma](https://www.pathologyoutlines.com/topic/pancreasneuroendocrinecarcinoma.html)* [Mixed acinar ductal carcinoma](https://www.pathologyoutlines.com/topic/pancreasmixed.html#mixedacinarductal68289)* [Mixed acinar neuroendocrine carcinoma](https://www.pathologyoutlines.com/topic/pancreasmixed.html#mixedacinarendocrinetumor68290)* [Mixed acinar neuroendocrine ductal carcinoma](https://www.pathologyoutlines.com/topic/pancreasmixed.html#mixedacinarductalendocrinetumor68292)* [Mixed neuroendocrine ductal carcinoma](https://www.pathologyoutlines.com/topic/pancreasmixed.html#mixedductalendocrine68291)"
+  }
+]

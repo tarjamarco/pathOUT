@@ -1,0 +1,101 @@
+[
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-1",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#definitiongeneral245441",
+    "clean_content": "Definition / general\n\n* Pancreatic ductal adenocarcinoma (PDAC) is the most common type of pancreatic cancer, representing > 90% of all pancreatic malignancies* From a genetic point of view, PDAC is a complex disease with several genes altered through different mechanisms, which include point mutations, chromosomal aberrations and epigenetic changes"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-2",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#essentialfeatures245442",
+    "clean_content": "Essential features\n\n* Somatic mutations affect, above all, four genes: *KRAS*, which is an oncogene and *TP53*, *CDKN2A* and *SMAD4*, which are tumor suppressor genes ([Lancet 2016;388:73](26830752))* A subset of pancreatic cancer arises in the background of genetic syndromes with germline mutations affecting different genes, such as *CDKN2A, TP53, STK11, BRCA1 / 2, ATM* and *MMR* ([J Clin Oncol 2017;35:3382](28767289))* Transcriptomic profile divides pancreatic cancer into different groups; among them, the most important distinction involves the identification of the so called squamous subtype, which has the worst prognosis ([Nature 2016;531:47](26909576))* Only a few molecular alterations have a predictive value in pancreatic cancer* *BRCA* mutated tumors show a good response to platinum based therapy and to poly ADP ribose polymerase (PARP) inhibitors; tumors with microsatellite instability can be treated with immunotherapy ([N Engl J Med 2019;381:317](31157963), [J Clin Oncol 2020;38:1](31682550))"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-3",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Somatic mutations",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#somaticmutations245443",
+    "clean_content": "Somatic mutations\n\n* Four genes are the most commonly mutated in PDAC: *KRAS*, which is an oncogene and *TP53*, *CDKN2A* and *SMAD4*, which are tumor suppressor genes ([Lancet 2016;388:73](26830752))\n  + *KRAS*\n    - Most frequently mutated gene in PDAC (90 - 92% of cases)- Oncogene- Located on chromosome 12- Downstream pathways: MAPK and PI3K+ *TP53*\n      - Mutated in 50 - 60% of PDAC- Tumor suppressor gene- Located on chromosome 17- Encodes for P53, a crucial protein that controls cell growth, metabolism, senescence, DNA repair and apoptosis+ *CDKN2A*\n        - Mutated in > 60% of PDAC- Tumor suppressor gene- Located on chromosome 9- Encodes for P16, a protein encoded that acts as a mediator of the retinoblastoma signaling pathway+ *SMAD4*\n          - Mutated in 30 - 55% of PDAC- Tumor suppressor gene- Located on chromosome 18- Protein encoded by *SMAD4* is an effector of the transforming growth factor (TGF) β signaling pathway* In addition to these four main genetic drivers, other important genes can be altered by somatic mutations in PDAC with a lower but significant prevalence ([Lancet 2016;388:73](26830752), [Gastroenterology 2019;156:2242](30836094)):\n    + *ARID1A* (AT rich interaction domain 1A, 5 - 10% of cases), a tumor suppressor located on chromosome 3 involved in chromatin remodeling+ *BRCA1* (breast cancer gene-1, up to 2% of cases) and *BRCA2* (breast cancer gene-2, up to 7% of cases) are tumor suppressor genes located on chromosome 17 and 13, respectively, involved in the process of homologous recombination repair pathway+ *BRAF* (B-Raf proto-oncogene, up to 2% of cases), an oncogene located on chromosome 7, involved in MAPK pathway and with mutations that are almost always mutually exclusive with those affecting *KRAS*+ *GNAS* (guanine nucleotide binding protein, alpha stimulating activity polypeptide) is an oncogene located on chromosome 20; is typically mutated in the case of a cancer derived from an intraductal papillary mucinous neoplasm (IPMN)"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-4",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Germline mutations / genetic syndromes",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#germlinemutationsgeneticsyndromes245444",
+    "clean_content": "Germline mutations / genetic syndromes\n\n* A subset of pancreatic cancer arises in the background of genetic syndromes with germline mutations most commonly affecting the following genes\n  ([J Clin Oncol 2017;35:3382](28767289), [Ann Gastroenterol Surg 2020;4:229](32490337)):\n  + *CDKN2A*: germline mutations of this gene characterize the familial atypical multiple mole melanoma (FAMMM) syndrome, an autosomal dominant syndrome in which the cumulative risk for PDAC development is up to 15%+ *TP53*: germline mutations of this gene characterize the Li-Fraumeni syndrome, an autosomal dominant syndrome in which the cumulative risk for PDAC development is up to 5%+ *BRCA1 / 2* and *PALB2*: germline mutations of these genes characterize the hereditary breast and ovarian cancer syndrome, an autosomal dominant syndrome in which the cumulative risk for PDAC development is up to 7%+ *ATM*: germline mutations of this gene characterize the ataxia telangiectasia, familial breast cancer syndrome, an autosomal recessive syndrome in which the cumulative risk for PDAC development is up to 5%+ *MMR* genes: germline mutations of these genes characterize Lynch syndrome, an autosomal dominant syndrome in which the cumulative risk for PDAC development is up to 9%+ *STK11*: germline mutations of this gene characterize the Peutz-Jeghers syndrome, an autosomal dominant syndrome in which the cumulative risk for PDAC development is up to 30%+ *PRSS1* and *SPINK1*: germline mutations of these gene characterize the hereditary pancreatitis syndrome through an autosomal dominant (*PRSS1*) or recessive (*SPINK1*) inheritance, in which the cumulative risk for PDAC development is up to 50%+ *CFTR*: germline mutations of this gene characterize the cystic fibrosis syndrome, an autosomal recessive syndrome in which the cumulative risk for PDAC development is up to 5%"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-5",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Transcriptomic subtypes",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#transcriptomicsubtypes245445",
+    "clean_content": "Transcriptomic subtypes\n\n* Different studies have tried to address transcriptomic profiles and, along this line, the most reliable classification indicates the following four categories ([Nat Med 2011;17:500](21460848), [Nature 2016;531:47](26909576)):\n  + Squamous subtype: characterized by a strong upregulation of *TP63* and downregulation of *GATA6*; such tumors show the worst prognosis+ Pancreatic progenitor subtype: expresses transcriptional networks involving *PDX1, FOXA2* and *FOXA3*, crucial for pancreatic cell fate determination+ Aberrantly differentiated endocrine exocrine (ADEX) subtype: expresses transcriptional networks crucial for more advanced stage of normal pancreatic differentiation+ Immunogenic subtype: correlates with a marked immune infiltrate, mainly B and T cells, with upregulation of immune checkpoints *CTLA4* and *PD1*, suggesting a possible role for immunotherapy drugs in this tumor subtype"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-6",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Other relevant genetic alterations",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#otherrelevantgeneticalterations245446",
+    "clean_content": "Other relevant genetic alterations\n\n* Microsatellite instability (MSI): a genetic condition due to mutations of the mismatch repair (MMR) genes, leading to a hypermutated phenotype with mutations clustered in specific regions known as microsatellites ([Ann Oncol 2019;30:1232](31056702))* *POLE* mutation: a rare occurrence in pancreatic cancer associated with an ultra hypermutated phenotype due to mutations affecting polymerase ε; associated with prolonged survival ([Pancreas 2020;49:999](32658072))* Kinase fusion genes: genetic alterations present in *KRAS* wild type pancreatic cancer; the genes most commonly involved are *FGFR2, RAF, ALK, RET, MET* and *NTRK1* ([Gastroenterology 2019;156:2242](30836094))"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-7",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Clinical features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#clinicalfeatures245447",
+    "clean_content": "Clinical features\n\n* Some genetic alterations have been recently associated with specific clinical features ([Gastroenterology 2019;156:2242](30836094)):\n  + Mutations in *KRAS, SMAD4* are more frequent in older patients (≥ 50 years)+ Alterations in *BRCA1 / 2* are more frequent in younger patients (< 50 years)+ Mutations in *KRAS, SMAD4* and *CDKN2A* are more frequent in female patients+ Mutations in *GNAS* and *ATM* are more frequent in male patients"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-8",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prognostic factors",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#prognosticfactors245448",
+    "clean_content": "Prognostic factors\n\n* *SMAD4* mutations are associated with more aggressive behavior and with a widespread metastasis pattern ([J Clin Oncol 2009;27:1806](19273710))* MSI tumors do not always have a more favorable prognosis, as in colorectal or gastric cancer ([Gut 2020 Apr 29 [Epub ahead of print]](32350089))"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-9",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Treatment",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#treatment245449",
+    "clean_content": "Treatment\n\n* Tumors with germline *BRCA* mutations can be treated with platinum based therapy and with PARP inhibitors ([N Engl J Med 2019;381:317](31157963))* MSI tumors may be susceptible to immune checkpoint blockade ([J Clin Oncol 2020;38:1](31682550))* Cancer with *ALK* fusion may be treated with ALK inhibitors ([J Natl Compr Canc Netw 2017;15:555](28476735))"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-10",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#microscopichistologicdescription245450",
+    "clean_content": "Microscopic (histologic) description\n\n* MSI tumors more often show a medullary or colloid morphology ([Gut 2020 Apr 29 [Epub ahead of print]](32350089))* Germline mutated *ATM* tumors more often show a mucinous / colloid histology ([Mod Pathol 2019;32:1806](31285527))* Tumors with squamous features show a very poor prognosis ([Nat Med 2011;17:500](21460848), [Nature 2016;531:47](26909576))"
+  },
+  {
+    "id": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt-11",
+    "source_document": "molecular-genetics-of-pancreatic-ductal-carcinoma_35930_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmolecularaspects.html#microscopichistologicimages245451",
+    "clean_content": "Microscopic (histologic) images\n\nContributed by Claudio Luchini, M.D., Ph.D.  \n\n[![Medullary histology](https://www.pathologyoutlines.com/imgau/pancreasmolecularaspectsLuchini1.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmolecularaspectsLuchini1.jpg)\n\nMedullary histology\n\n[![Mucinous colloid histology](https://www.pathologyoutlines.com/imgau/pancreasmolecularaspectsLuchini2.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmolecularaspectsLuchini2.jpg)\n\nMucinous colloid histology\n\n[![Adenosquamous histology](https://www.pathologyoutlines.com/imgau/pancreasmolecularaspectsLuchini03.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmolecularaspectsLuchini03.jpg)\n\nAdenosquamous histology"
+  }
+]

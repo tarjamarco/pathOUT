@@ -1,0 +1,137 @@
+[
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-1",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#definitiongeneral491287",
+    "clean_content": "Definition / general\n\n* All well differentiated neuroendocrine tumors of the pancreas are covered by this staging system* Not covered by this staging system are poorly differentiated neuroendocrine carcinomas at this location (use the [pancreas exocrine staging](https://www.pathologyoutlines.com/topic/pancreastnm.html) system instead)"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-2",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#essentialfeatures491288",
+    "clean_content": "Essential features\n\n* AJCC 7th edition staging was sunset on December 31, 2017; as of January 1, 2018, use of the [8th edition](https://www.amazon.com/exec/obidos/ASIN/3319406175/pathologyoutl-20) is mandatory* AJCC [9th edition](https://www.amazon.com/exec/obidos/ASIN/B0CL8MXLL1/pathologyoutl-20) was released in 2023, with minimal changes from the 8th edition"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-3",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "ICD coding",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#icdcoding491290",
+    "clean_content": "ICD coding\n\n* ICD-10: [C25.4](https://www.icd10data.com/ICD10CM/Codes/C00-D49/C15-C26/C25-/C25.4) - malignant neoplasm of endocrine pancreas"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-4",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Primary tumor (pT)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#primarytumorpt491292",
+    "clean_content": "Primary tumor (pT)\n\n* **pTX**: tumor cannot be assessed* **pT1**: tumor limited to the pancreas, ≤ 2 cm in greatest dimension* **pT2**: tumor limited to the pancreas, > 2 cm but ≤ 4 cm in greatest dimension* **pT3**: tumor limited to the pancreas, > 4 cm in greatest dimension or tumor invading the duodenum, ampulla of Vater or common bile duct* **pT4**: tumor invading adjacent organs (stomach, spleen, colon, adrenal gland) or the wall of large vessels (celiac axis, superior mesenteric artery / vein, splenic artery / vein, gastroduodenal artery / vein, portal vein)\n\n  \n**Notes**:\n\n* Limited to the pancreas means no extension into adjacent organs or structures; invasion of peripancreatic adipose tissue does not impact staging* When multiple tumors are present, the largest tumor should be used to assign the T category* Use T(#) (e.g., pT3[4] N0 M0) or use the m suffix, T(m) (e.g., pT3[m] N0 M0)"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-5",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Regional lymph nodes (pN)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#regionallymphnodespn491293",
+    "clean_content": "Regional lymph nodes (pN)\n\n* **NX**: regional lymph nodes cannot be assessed* **N0**: no tumor involvement of regional lymph node(s)* **N1**: tumor involvement of regional lymph node(s)\n\n  \n**Notes**:\n\n* Regional lymph nodes depend on tumor site\n  + For tumors of the head of the pancreas, regional nodes include common bile duct, common hepatic artery, portal vein, posterior and anterior pancreatoduodenal arcades, superior mesenteric vein and right lateral wall of superior mesenteric vein nodes+ For tumors of the body or tail of the pancreas, regional nodes include common hepatic artery, celiac axis, splenic artery and splenic hilum nodes"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-6",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Distant metastasis (pM)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#distantmetastasispm491294",
+    "clean_content": "Distant metastasis (pM)\n\n* **cM0**: no distant metastasis* **cM1**: distant metastasis\n    + **cM1a**: metastasis confined to liver+ **cM1b**: metastasis in at least 1 extrahepatic site (e.g., lung, ovary, nonregional lymph node, peritoneum, bone)+ **cM1c**: both hepatic and extrahepatic metastasis* **pM1**: microscopic confirmation of distant metastasis\n      + **pM1a**: microscopic confirmation of metastasis confined to liver+ **pM1b**: microscopic confirmation of metastasis in at least 1 extrahepatic site (e.g., lung, ovary, nonregional lymph node, peritoneum, bone)+ **pM1c**: microscopic confirmation of both hepatic and extrahepatic metastasis"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-7",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prefixes",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#prefixes491295",
+    "clean_content": "Prefixes\n\n* **c**: clinical* **p**: pathological* **yc**: posttherapy clinical* **yp**: posttherapy pathological"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-8",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Primary tumor suffix",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#primarytumorsuffix491296",
+    "clean_content": "Primary tumor suffix\n\n* **(m)**: multiple synchronous primary tumors"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-9",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Regional lymph nodes suffix",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#regionallymphnodessuffix491297",
+    "clean_content": "Regional lymph nodes suffix\n\n* **(f)**: fine needle aspiration (FNA) or core needle biopsy"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-10",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "AJCC prognostic stage groups",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#ajccprognosticstagegroups491298",
+    "clean_content": "AJCC prognostic stage groups\n\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Stage I**: T1 N0 M0|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | **Stage II**: T2, T3 N0 M0|  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | **Stage III**: T4 N0 M0|  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | any T N1 M0|  |  |  |  | | --- | --- | --- | --- | | **Stage IV**: any T any N M1 | | | | | | | | | | | | | | | | | | | |"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-11",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prognostic tumor characteristics",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#prognostictumorcharacteristics491299",
+    "clean_content": "Prognostic tumor characteristics\n\n* Mitotic count* Ki67 index* Associated genetic syndrome* Chromogranin A (CgA)* Functionality* DAXX / ATRX* ARX, PDX1 expression"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-12",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Registry data collection variables",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#registrydatacollectionvariables491300",
+    "clean_content": "Registry data collection variables\n\n* Size of tumor (value, unknown)* Presence of invasion into adjacent organs / structures\n    + If yes, which ones (pick all that apply)\n      - Stomach (yes / no)- Duodenum (yes / no)- Spleen (yes / no)- Colon (yes / no)- Other:+ If yes, were multiple adjacent organs involved (yes / no)* Presence of necrosis* Number of tumors (multicentric disease at primary site)* Lymph node status (including number of lymph nodes assessed and number of positive nodes)* Grade (based on Ki67 or mitotic count): G1, G2, G3, unknown* Mitotic count (value; unknown)* Ki67 index (value; unknown)* Perineural invasion* Lymphovascular invasion* Margin status* Functional status (yes / no, type of syndrome)* Genetic syndrome (yes / no, type of syndrome)* Location in pancreas (head, tail, body, junction body / tail, junction body / head, unknown)* Type of surgery (enucleation, distal pancreatectomy with or without splenectomy, central pancreatectomy, pancreaticoduodenectomy / Whipple procedure, unknown, other)* Preoperative CgA level (absolute value with upper limit of normal; unknown)* Age of patient"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-13",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Histologic grade (G)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#histologicgradeg491301",
+    "clean_content": "Histologic grade (G)\n\n* **G1**: mitotic rate < 2 per 2 mm2 and Ki67 < 3%* **G2**: mitotic rate 2 - 20 per 2 mm2 or Ki67 3 - 20%* **G3**: mitotic rate > 20 per 2 mm2 or Ki67 > 20%"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-14",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Histopathologic type",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#histopathologictype491302",
+    "clean_content": "Histopathologic type\n\n* Neuroendocrine tumor (NET), NOS* Neuroendocrine tumor, grade 1* Neuroendocrine tumor, grade 2* Neuroendocrine tumor, grade 3* Pancreatic neuroendocrine tumor, nonfunctioning* Insulinoma* Gastrinoma* Vasoactive intestinal peptide secreting tumor (VIPoma)* Glucagonoma* Somatostatinoma* Adrenocorticotropic hormone (ACTH) producing neuroendocrine tumor* Serotonin producing neuroendocrine tumor* Growth hormone (GH) producing neuroendocrine tumor"
+  },
+  {
+    "id": "staging-neuroendocrine_47230_1750166975.txt-15",
+    "source_document": "staging-neuroendocrine_47230_1750166975.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Residual tumor (operative factor)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasneuroendocrinetumorstaging.html#residualtumoroperativefactor491303",
+    "clean_content": "Residual tumor (operative factor)\n\n* **R0**: complete resection, margins histologically negative, no residual tumor left after resection* **R1**: incomplete resection, margins histologically involved, microscopic tumor remains after resection of gross disease (relevant to resection margins that are microscopically involved by tumor)* **R2**: incomplete resection, margins involved or gross disease remains"
+  }
+]

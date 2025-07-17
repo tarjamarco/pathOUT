@@ -1,0 +1,200 @@
+[
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-1",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#definitiongeneral444133",
+    "clean_content": "Definition / general\n\n* Rare histologic variant of pancreatic ductal adenocarcinoma ([PDAC](https://www.pathologyoutlines.com/topic/pancreasductal.html)) characterized by poor differentiation, pushing borders and a syncytial growth pattern"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-2",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#essentialfeatures444134",
+    "clean_content": "Essential features\n\n* Main histologic features are poor differentiation with limited gland formation, syncytial growth pattern and pushing borders* Prominent tumor infiltrating lymphocytes (TILs) are common* Associated with microsatellite instability (MSI) and wild type *KRAS* status* Represents < ~4% of [PDAC](https://www.pathologyoutlines.com/topic/pancreasductal.html) cases* 26 reported cases in the literature* References: [Am J Pathol 1998;152:1501](9626054), [Front Oncol 2023;12:1082927](36761421)"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-3",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Terminology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#terminology444135",
+    "clean_content": "Terminology\n\n* Pancreatic medullary carcinoma* Medullary pancreatic carcinoma"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-4",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "ICD coding",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#icdcoding444136",
+    "clean_content": "ICD coding\n\n* ICD-10: [C25.9](https://www.icd10data.com/ICD10CM/Codes/C00-D49/C15-C26/C25-/C25.9) - malignant neoplasm of pancreas* ICD-11: [2C10.0](https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1663659989) - adenocarcinoma of pancreas"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-5",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Epidemiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#epidemiology444137",
+    "clean_content": "Epidemiology\n\n* Cancer screening in the patient's immediate family following diagnosis of medullary pancreatic carcinoma has been suggested ([Am J Pathol 2000;156:1641](10793075))* Accumulated risk of pancreatic cancer in Lynch syndrome patients is 3.7% and tumors often have characteristic medullary morphology ([J Cancer 2017;8:3667](29151953))* No known associations with race, gender, age, alcohol use or tobacco use"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-6",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Pathophysiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#pathophysiology444139",
+    "clean_content": "Pathophysiology\n\n* Possible association with PanIN as the precursor lesion ([Am J Pathol 2000;156:1641](10793075))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-7",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Etiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#etiology444140",
+    "clean_content": "Etiology\n\n* Hereditary syndromes: Lynch syndrome"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-8",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Clinical features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#clinicalfeatures444142",
+    "clean_content": "Clinical features\n\n* Epigastric pain, back pain, jaundice, weight loss, diabetes mellitus"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-9",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#diagnosis444143",
+    "clean_content": "Diagnosis\n\n* Abdominal CT scan or MRI* Endoscopic ultrasound guided fine needle aspiration (EUS FNA)* Histologic evaluation of surgical resection specimen"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-10",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Laboratory",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#laboratory444144",
+    "clean_content": "Laboratory\n\n* Serum elevation of CA19-9 or CEA"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-11",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Radiology description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#radiologydescription444145",
+    "clean_content": "Radiology description\n\n* PDAC typically appears as a hypoattenuating mass compared to normal pancreatic parenchyma ([Insights Imaging 2020;11:58](32335790))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-12",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Prognostic factors",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#prognosticfactors444147",
+    "clean_content": "Prognostic factors\n\n* Poor prognosis (overall survival: 29% at 2 years, 13% at 5 years) ([Am J Pathol 2000;156:1641](10793075))* 15 out of 20 reported cases died of disease ([Surg Case Rep 2018;4:80](30043132))* Tumor with certain genetic mutations may show improved survival ([Surg Case Rep 2018;4:80](30043132), [Pancreas 2020;49:999](32658072))* Limited data is available to draw meaningful conclusion about prognosis"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-13",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Case reports",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#casereports444148",
+    "clean_content": "Case reports\n\n* Woman in her 60s with head of the pancreas mass with *POLE* mutation ([Pancreas 2020;49:999](32658072))* 64 year old man with medullary pancreatic cancer and the first patient derived cell line ([Front Oncol 2023;12:1082927](36761421))* 73 year old woman with pancreatic mass with loss of MSH2 and MSH6 expression ([Diagn Pathol 2021;16:117](34895278))* 73 year old man with asymptomatic pancreatic duct cyst ([Surg Case Rep 2018;4:80](30043132))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-14",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Treatment",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#treatment444149",
+    "clean_content": "Treatment\n\n* Neoadjuvant chemotherapy ([World J Gastroenterol 2022;28:3297](36158269))* Whipple resection or distal pancreatectomy depending on tumor location in the pancreas ([World J Gastroenterol 2022;28:3297](36158269))* Due to the presence of MSI, may be responsive to treatment with immunotherapy ([Front Oncol 2023;12:1082927](36761421))* Due to its rarity, data regarding drug response and treatment outcome is limited ([Front Oncol 2023;12:1082927](36761421))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-15",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#grossdescription444151",
+    "clean_content": "Gross description\n\n* There are no definitive diagnostic criteria to grossly distinguish medullary carcinoma from conventional PDAC; it may show circumscribed borders as compared to infiltrative borders of conventional PDAC ([Pathologica 2020;112:210](33179623))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-16",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#microscopichistologicdescription444155",
+    "clean_content": "Microscopic (histologic) description\n\n* Well circumscribed tumor with pushing / expansile borders* Syncytial growth pattern with poorly defined cell borders* Solid pattern of growth (sheets and nests) with limited gland formation* Tumor cells with pleomorphic nuclei, prominent nucleoli and abundant amphophilic cytoplasm* Large areas of necrosis may be present* Abundant lymphocytes within and around tumor* Focal clear cells and squamoid differentiation have also been reported ([Am J Pathol 2000;156:1641](10793075))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-17",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Microscopic (histologic) images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#microscopichistologicimages444156",
+    "clean_content": "Microscopic (histologic) images\n\nContributed by Rong Xia, M.D., Ph.D. and Beena Ahsan, M.D.  \n\n[![circumscribed borders](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan01.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan01.jpg)\n\nCircumscribed borders\n\n[![sheet-like growth pattern](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan02.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan02.jpg)\n\nSheet-like growth pattern\n\n[![syncytial growth pattern](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan03.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan03.jpg)\n\nSyncytial growth pattern\n\n[![positive p63 immunostain](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan04.jpg)](https://www.pathologyoutlines.com/imgau/pancreasmedullarytranahsan04.jpg)\n\nPositive p63 immunostain"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-18",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Positive stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#positivestains444162",
+    "clean_content": "Positive stains\n\n* Similar to nonmedullary [PDAC](https://www.pathologyoutlines.com/topic/pancreasductal.html): [CK AE1 / AE3](https://www.pathologyoutlines.com/topic/stainsae1ae3.html), [CK7](https://www.pathologyoutlines.com/topic/stainsck7.html), [CK8](https://www.pathologyoutlines.com/topic/stainsck8.html), [CK18](https://www.pathologyoutlines.com/topic/stainsck18.html), [CK19](https://www.pathologyoutlines.com/topic/stainsck19.html), [MUC1](https://www.pathologyoutlines.com/topic/stainsema.html) ([Pathologica 2020;112:210](33179623))* Loss of mismatch repair (MMR) proteins (~22%): [MLH1](https://www.pathologyoutlines.com/topic/stainsmlh1.html), [PMS2](https://www.pathologyoutlines.com/topic/stainspms2.html), [MSH2](https://www.pathologyoutlines.com/topic/stainsmsh2.html), [MSH6](https://www.pathologyoutlines.com/topic/stainsmsh6.html)"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-19",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Negative stains",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#negativestains444163",
+    "clean_content": "Negative stains\n\n* Similar to nonmedullary [PDAC](https://www.pathologyoutlines.com/topic/pancreasductal.html): [CK20](https://www.pathologyoutlines.com/topic/stainsck20.html), [MUC2](https://www.pathologyoutlines.com/topic/stainsmuc2.html), [trypsin](https://www.pathologyoutlines.com/topic/stainstrypsin.html), **chymotrypsin**, **lipase*** Neuroendocrine markers: [chromogranin A](https://www.pathologyoutlines.com/topic/stainschromogranin.html), [synaptophysin](https://www.pathologyoutlines.com/topic/stainssynaptophysin.html), [CD56](https://www.pathologyoutlines.com/topic/cdmarkerscd56.html)* Acinar cell marker: [BCL10](https://www.pathologyoutlines.com/topic/stainsbcl10.html)* Reference: [Pathologica 2020;112:210](33179623)"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-20",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Molecular / cytogenetics description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#molecularcytogeneticsdescription444166",
+    "clean_content": "Molecular / cytogenetics description\n\n* Association with MSI (22%) and wild type *KRAS* (67%)* Most commonly associated with loss of MLH1 ([Am J Pathol 2000;156:1641](10793075))* Possible genetic associations with *KRAS* mutation and somatic *POLE* mutation ([Surg Case Rep 2018;4:80](30043132), [Pancreas 2020;49:999](32658072))"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-21",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sample pathology report",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#samplepathologyreport444169",
+    "clean_content": "Sample pathology report\n\n* Pancreas, Whipple resection:\n  + Poorly differentiated carcinoma, consistent with medullary carcinoma (x cm in maximum dimension)+ Resection margins are negative for carcinoma (mention the positive margin, if any)+ Negative / positive for perineural and lymphovascular invasion+ All lymph nodes are negative for carcinoma"
+  },
+  {
+    "id": "medullary-carcinoma_44771_1750166974.txt-22",
+    "source_document": "medullary-carcinoma_44771_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Differential diagnosis",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasmedullary.html#differentialdiagnosis444170",
+    "clean_content": "Differential diagnosis\n\n* [Poorly differentiated PDAC](https://www.pathologyoutlines.com/topic/pancreasductal.html):\n  + Infiltrative growth pattern, well to poorly formed glands and desmoplastic stroma, *KRAS* mutated, microsatellite stable* **EBV associated lymphoepithelioma-like carcinoma**:\n    + EBV encoded RNA ([EBER](https://www.pathologyoutlines.com/topic/stainseber1.html)) in situ hybridization positive"
+  }
+]

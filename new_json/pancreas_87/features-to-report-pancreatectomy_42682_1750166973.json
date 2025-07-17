@@ -1,0 +1,56 @@
+[
+  {
+    "id": "features-to-report-pancreatectomy_42682_1750166973.txt-1",
+    "source_document": "features-to-report-pancreatectomy_42682_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasfeatures.html#definitiongeneral404268",
+    "clean_content": "Definition / general\n\n* This topic describes which features to report for exocrine and endocrine pancreatic neoplasms obtained from pancreaticoduodenectomy, distal pancreatectomy and total pancreatectomy procedures* Essential clinical history: none"
+  },
+  {
+    "id": "features-to-report-pancreatectomy_42682_1750166973.txt-2",
+    "source_document": "features-to-report-pancreatectomy_42682_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasfeatures.html#essentialfeatures404269",
+    "clean_content": "Essential features\n\n* Essential features for reporting the tumors of the exocrine pancreas:\n  + Core data elements by CAP: procedure, tumor site, histologic type, histologic grade, greatest dimension of the tumor (cm), site(s) involved by direct tumor extension (except for pancreatic surfaces), treatment effect, lymphovascular invasion, perineural invasion, margin status, margin(s) involved by tumor, regional lymph node status, number of lymph nodes with tumor, number of lymph nodes examined, distant metastasis, TNM descriptors, pT / pN / pM categories+ Optional data elements by CAP: additional dimensions of tumor (cm x cm), involvement of pancreatic surface(s), closest margins, distance to closest margin (cm), additional findings, special studies, comments* Essential features for reporting the tumors of the endocrine pancreas:\n    + Core data elements by CAP: procedure, tumor site, histologic type, histologic grade, mitotic rate (number of mitoses per 2 mm2), Ki67 index (%), greatest dimension of tumor (cm), tumor focality, site(s) involved by direct tumor extension, lymphovascular invasion, perineural invasion, margin status, margin(s) involved by tumor, regional lymph node status, number of lymph nodes with tumor, number of lymph nodes examined, distant metastasis, TNM descriptors, pT / pN / pM categories+ Optional data elements by CAP: clinical history, functional type, additional dimensions of the tumor (cm x cm), tumor necrosis, closest margins, distance to closest margin (cm), additional findings, comments"
+  },
+  {
+    "id": "features-to-report-pancreatectomy_42682_1750166973.txt-3",
+    "source_document": "features-to-report-pancreatectomy_42682_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Features to report by organization",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasfeatures.html#featurestoreportbyorganization404273",
+    "clean_content": "Features to report by organization\n\n* [College of American Pathologists](https://www.cap.org/protocols-and-guidelines/cancer-reporting-tools/cancer-protocol-templates)* [International Collaboration on Cancer Reporting](http://www.iccr-cancer.org/datasets)* [The Royal College of Pathologists of Australasia](https://www.rcpa.edu.au/Library/Practising-Pathology/Structured-Pathology-Reporting-of-Cancer/Cancer-Protocols)* [The Royal College of Pathologists (United Kingdom)](https://www.rcpath.org/profession/guidelines/cancer-datasets-and-tissue-pathways.html)"
+  },
+  {
+    "id": "features-to-report-pancreatectomy_42682_1750166973.txt-4",
+    "source_document": "features-to-report-pancreatectomy_42682_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Features to report (including pancreatic neuroendocrine neoplasms)",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasfeatures.html#featurestoreportincludingpancreaticneuroendocrineneoplasms404274",
+    "clean_content": "Features to report (including pancreatic neuroendocrine neoplasms)\n\n* Procedure* Tumor location* Histologic type* Histologic grade* Precursor preinvasive neoplastic lesions; including their location and histologic grade* Tumor size\n            + Document overall tumor size and size of the invasive component separately for the carcinomas associated with preinvasive neoplastic lesions: i.e., intraductal papillary mucinous neoplasm (IPMN), intraductal tubulopapillary neoplasm (ITPN), intraductal oncocytic papillary neoplasm (IOPN), mucinous cystic neoplasm (MCN)* Tumor focality (for pancreatic neuroendocrine neoplasms)* Microscopic direct tumor extension* Lymphovascular invasion* Perineural invasion* Mitotic index and Ki67 proliferation index (for pancreatic neuroendocrine neoplasms)* Surgical margin status* Free pancreatic surface status* Treatment effect, if applicable* Regional lymph node status* Distant metastasis status* TNM descriptors, if applicable* pT stage* pN stage* pM stage* Additional findings, including adjacent pancreas parenchyma and other organs* Special studies, if any* Notes, if needed"
+  },
+  {
+    "id": "features-to-report-pancreatectomy_42682_1750166973.txt-5",
+    "source_document": "features-to-report-pancreatectomy_42682_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Tips",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasfeatures.html#tips404275",
+    "clean_content": "Tips\n\n* pT stage should be reported based on the size of the invasive component only for the carcinomas associated with preinvasive neoplastic lesions* For cases with more than one tumor, pT stage should be reported based on the largest tumor\n    + Additionally, localization and characteristics of the other (smaller) tumor(s) should be documented* Macroscopic tumor size should be confirmed by microscopic examination for the postneoadjuvant treatment pancreatectomy specimens\n      + The largest dimension of the entire area defined by viable neoplastic cells including intervening stroma and nonneoplastic pancreatic tissue should be measured microscopically ([Am J Surg Pathol 2022;46:754](34889852))* There are several methods for Ki67 proliferation index assessment for pancreatic neuroendocrine tumors, including automated counting by image analyzer\n        + Manual counting of camera captured / printed image is encouraged since it is highly reliable and easily performed ([Mod Pathol 2015;28:686](25412850))* For pancreaticoduodenectomy (Whipple) specimens, status of bile duct margin, pancreatic neck margin, uncinate (retroperitoneal) margin, proximal margin of the stomach / duodenum and distal margin of the duodenum should be reported* For distal pancreatectomy specimens, proximal pancreatic parenchyma margin should be reported"
+  },
+  {
+    "id": "features-to-report-pancreatectomy_42682_1750166973.txt-6",
+    "source_document": "features-to-report-pancreatectomy_42682_1750166973.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Additional references",
+    "url": "https://www.pathologyoutlines.com/topic/pancreasfeatures.html#additionalreferences404277",
+    "clean_content": "Additional references\n\n* [CAP: Protocol for the Examination of Specimens from Patients with Carcinoma of the Pancreas [Accessed 2 December 2022]](https://documents.cap.org/protocols/Panc.Exo_4.2.0.2.REL_CAPCP.pdf),\n  [CAP: Protocol for the Examination of Specimens from Patients with Tumors of the Endocrine Pancreas [Accessed 2 December 2022]](https://documents.cap.org/protocols/Panc.Endo_4.1.0.0.REL_CAPCP.pdf),\n  [WHO Classification of Tumours Editorial Board: Digestive System Tumours, 5th Edition, 2019](https://www.amazon.com/exec/obidos/ASIN/9283244990/pathologyoutl-20),\n  [WHO Classification of Tumours Editorial Board: Endocrine and Neuroendocrine Tumours, 5th Edition, 2022](https://tumourclassification.iarc.who.int/welcome/),\n  [Am J Surg Pathol 2005;29:724](15897739),\n  [Ann Surg 2016;263:162](25775066)"
+  }
+]

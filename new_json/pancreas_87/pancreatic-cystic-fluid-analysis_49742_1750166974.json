@@ -1,0 +1,110 @@
+[
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-1",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Definition / general",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#definitiongeneral549644",
+    "clean_content": "Definition / general\n\n* Pancreatic cysts are fluid filled sacs or growths that develop in the pancreas* Cyst fluid analysis plays an important role in distinguishing various pancreatic cystic lesions"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-2",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Essential features",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#essentialfeatures549645",
+    "clean_content": "Essential features\n\n* Endoscopic ultrasonography guided cyst fluid aspiration for cytologic (see [Pancreas - cytology](https://www.pathologyoutlines.com/topic/pancreascytology.html)), biochemical and molecular analysis may help in the classification and risk stratification of pancreatic cystic lesions* Most important goal is to identify high risk cystic lesions through a multidisciplinary, algorithmic evaluation"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-3",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Terminology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#terminology549646",
+    "clean_content": "Terminology\n\n* Abbreviations used in this topic include\n  + Intraductal oncocytic papillary neoplasm (IOPN)+ Intraductal papillary mucinous neoplasm (IPMN)+ Intraductal tubulopapillary neoplasm (ITPN)+ Mucinous cystic neoplasm (MCN)+ Serous cystadenoma (SCA)"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-4",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Epidemiology",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#epidemiology549648",
+    "clean_content": "Epidemiology\n\n* Incidence of pancreatic cysts is rising, a trend that persists even when accounting for increased imaging use\n  + Prevalence increases with age ([Pancreas 2021;50:1287](34860813))* There is no independent association of pancreatic cyst lesion prevalence with geographic location (Europe, North America or Asia) ([Clin Gastroenterol Hepatol 2024;22:1798](38423346))* Serous cystadenomas predominantly occur in women (60% of cases) ([N Engl J Med 2024;391:832](39231345))* Mucinous cystic neoplasms and solid pseudopapillary neoplasms occur almost exclusively in women (90% of cases) ([N Engl J Med 2024;391:832](39231345))* IPMN affects both sexes equally, usually in the fifth to seventh decades of life and patients are usually asymptomatic ([N Engl J Med 2024;391:832](39231345))* ITPN and IOPN each account for < 1% of pancreatic exocrine neoplasms and represent ~3% and 4.5% of intraductal neoplasms, respectively ([Am J Surg Pathol 2009;33:1164](19440145), [J Nippon Med Sch 2013;80:224](23832407))"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-5",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Sites",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#sites549649",
+    "clean_content": "Sites\n\n* Pancreas"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-6",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Diagrams / tables",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#diagramstables549652",
+    "clean_content": "Diagrams / tables\n\n**Table 1: Cyst fluid characteristics and genes altered in common types of pancreatic cysts** (adapted from [N Engl J Med 2024;391:832](39231345) and [Diagnostics (Basel) 2022;12:2573](36359417))\n\n|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| **Cyst type**  **Cytologic features**  **CEA levels**  **Glucose levels**  **Amylase levels**  **Altered genes** **Malignant potential**| **Most common for cyst type** **Enriched in advanced neoplasia**| Pseudocyst Macrophages, lymphocytes and debris Variable High High 0%|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Serous cystadenoma Proteinaceous debris and blood, glycogen rich cuboidal epithelial cells Very low High Low *VHL* *TP53*, *TERT* promoter mutations Near 0%|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | IPMN Thick mucinous fluid, mucinous epithelial cells, papillary structures High Low High *KRAS*, *GNAS*, *KLF4*, *RNF43* *TP53*, *SMAD4*, *CDKN2A*, *PTEN*, *PIK3CA*, *AKT1* 1 - 85%|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | MCN Thick mucinous fluid, mucinous epithelial cells, ovarian type stroma High Low Low *KRAS*, *RNF43* *TP53*, *SMAD4*, *CDKN2A*, *PTEN*, *PIK3CA*, *AKT1* 10 - 34%|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | Solid pseudopapillary neoplasm Hemorrhagic debris; monomorphic, discohesive small cells; hyaline globules and grooved nuclei Variable Variable Low *CTNNB1* 10 - 15%|  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | | Cystic neuroendocrine tumor Uniform cells in loosely cohesive clusters, coarse, granular, chromatin containing nuclei Variable Variable Low *MEN1*, *VHL* Loss of *ATRX* / *DAXX*; alternative lengthening of telomeres; loss of heterozygosity ≥ 3 genes 5 - 10% | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |\n\n  \n  \nImages hosted on other servers:  \n\n[![Key molecular alternations in pancreatic cystic lesions](https://www.pathologyoutlines.com/thumb/table.jpg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC10969285/table/cancers-16-01183-t001/)\n\nKey molecular alternations in pancreatic cystic lesions"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-7",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Laboratory",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#laboratory549655",
+    "clean_content": "Laboratory\n\n* Biochemical analysis of pancreatic cyst fluid\n  + Carcinoembryonic antigen (CEA)\n    - High CEA (≥ 192 ng/mL) is a widely used marker for distinguishing mucinous from nonmucinous cyst- 77% specificity and 61% sensitivity ([Sci Rep 2017;7:45589](28358122))+ Glucose\n      - Emerging alternative to CEA for differentiating mucinous versus nonmucinous cysts- More accessible and cost effective than CEA- Low glucose (≤ 50 mg/dL) suggests mucinous cysts- High glucose (> 50 mg/dL) suggests nonmucinous cysts- 92% sensitivity, 87% specificity and 90% accuracy ([Surgery 2018;163:600](29241991))+ Amylase\n        - Amylase > 250 U/L suggests pancreatic duct communication (e.g., pseudocysts, IPMNs)- Mean amylase levels are higher in benign lesions than malignant cysts, with the highest levels seen in pseudocyst- Not useful for distinguishing mucinous versus nonmucinous cysts- 62.5% sensitivity and 69.4% specificity for diagnosis of premalignant / malignant lesions ([Oncol Lett 2013;5:613](23420052))+ CA 19-9 (serum marker; not currently used for cyst fluid analysis)\n          - Elevated in malignant pancreatic tumors, when using 37 U/mL as cutoff value, 81.3% sensitive and 69.4% specific ([Oncol Lett 2013;5:613](23420052))- Can be elevated in benign conditions (e.g., pancreatitis, cholestasis)- Less useful for distinguishing benign from premalignant cysts- Important for surveillance and the detection of recurrent disease+ Other emerging cyst fluid markers\n            - Cyst fluid metabolites by mass spectrometry ([Neoplasia 2021;23:1078](34583246))- Cyst fluid methylation profile ([World J Gastrointest Oncol 2020;12:1056](33005298))- MicroRNAs expression in cyst fluid ([J Clin Med 2021;10:2249](34067335), [Sci Rep 2020;10:8723](32457495))"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-8",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#grossdescription549662",
+    "clean_content": "Gross description\n\n* Pseudocysts\n  + Single or multiple unilocular cysts that may contain debris and dark colored fluid ([N Engl J Med 2024;391:832](39231345))+ Cyst wall formed by fibrous and granulation tissue without true epithelium ([Ann Gastroenterol 2016;29:155](27065727))* Serous cystadenomas\n    + Microcystic subtype: well demarcated, solitary pancreatic tumors (mean: 6.0 cm) composed of numerous small (< 2 mm) thin walled cysts filled with clear, straw colored fluid; a central calcified stellate scar is typical on imaging ([Diagn Histopathol (Oxf) 2008;14:260](20953247))+ Macrocystic (oligocystic) subtypes tend to be poorly demarcated; a central scar is usually absent* Mucinous cystic neoplasms\n      + Location: tail > head of the pancreas+ Solitary and well demarcated, thick walled (1 - 3 mm)+ 1 - 3 cm cysts usually contain tenacious mucin but some can contain degraded blood ([Diagn Histopathol (Oxf) 2008;14:260](20953247))* IPMNs\n        + Location: head > tail of the pancreas+ Often multifocal and communicate with dilated pancreatic ducts (main versus branch pancreatic duct), filled with thick mucin ([Diagn Histopathol (Oxf) 2008;14:260](20953247))+ Mucin oozing from the ampulla of Vater is almost diagnostic on endoscopy ([Int J Surg 2009;7:7](18977189))* Solid pseudopapillary neoplasms\n          + Location: typically tail of the pancreas in females+ Solid, cystic or both, containing friable necrotic material and hemorrhage"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-9",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Gross images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#grossimages549663",
+    "clean_content": "Gross images\n\nImages hosted on other servers:  \n\n[![Positive string sign](https://www.pathologyoutlines.com/thumb/pancreascysticfluidanalysis_gross1.jpg)](https://pmc.ncbi.nlm.nih.gov/articles/PMC7980687/figure/F1/)\n\nPositive string sign"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-10",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Cytology description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#cytologydescription549669",
+    "clean_content": "Cytology description\n\n* See [Pancreas - cytology](https://www.pathologyoutlines.com/topic/pancreascytology.html)"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-11",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Cytology images",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#cytologyimages549670",
+    "clean_content": "Cytology images\n\n* See [Pancreas - cytology](https://www.pathologyoutlines.com/topic/pancreascytology.html)"
+  },
+  {
+    "id": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt-12",
+    "source_document": "pancreatic-cystic-fluid-analysis_49742_1750166974.txt",
+    "parent": "pancreas_87",
+    "parent_url": "",
+    "topic": "Molecular / cytogenetics description",
+    "url": "https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#molecularcytogeneticsdescription549677",
+    "clean_content": "Molecular / cytogenetics description\n\n* Molecular analysis of pancreatic cyst fluids\n  + Next generation sequencing (NGS) of pancreatic cystic fluid is a clinically proven diagnostic tool, although not widely available+ Helpful for the classification and risk stratification of pancreatic cystic lesions ([Gut 2018;67:2131](28970292), [Mod Pathol 2021;34:438](32792597), [Surg Pathol Clin 2022;15:455](36049828))+ Mucinous cysts: mutations in *KRAS* or *GNAS*; 79% sensitivity and 98% specificity ([Surg Pathol Clin 2016;9:441](27523971), [Pancreatology 2023;23:868](37230894))+ IPMNs with advanced neoplasia (high grade dysplasia and invasion): alterations in *TP53*, *p16* / *CDKN2A*, *SMAD4* and *TGFBR2*; mutations of mTOR pathway genes (*PTEN, PIK3CA* and *AKT1*) ([Cancers (Basel) 2024;16:1183](38539517), [Surg Pathol Clin 2022;15:455](36049828), [Cancer Cytopathol 2017;125:41](27647802))+ MCN: activating *KRAS* mutations are seen in 50 - 66% of MCNs as well as a loss of function in *RNF43*; *GNAS* mutations are rare ([Surg Pathol Clin 2022;15:455](36049828), [Surg Pathol Clin 2016;9:441](27523971))+ IOPN: recurrent *ATP1B1::PRKACB*, *DNAJB1::PRKACA* or *ATP1B1::PRKACA* fusion genes ([Gastroenterology 2020;158:573](31678302))\n              - Some IOPNs harbor mutations of *ARHGAP26*, *ASXL1*, *EPHA8* and *ERBB4* ([Mod Pathol 2016;29:1058](27282351))+ ITPN: alterations in chromatin remodeling genes (*MLL1 / 2 / 3*, *BAP1*, *PBRM1*, *EED* and *ATRX*) and PI3K pathway genes (*PIK3CA*, *PIK3CB*, *INPP4A* and *PTEN*) ([Cancers (Basel) 2024;16:1183](38539517))\n                - Subset of ITPNs harbor *FGFR2* fusion and *STRN::ALK* fusion ([Mod Pathol 2017;30:1760](28776573))+ Serous cystadenoma: germline or somatic alterations of the tumor suppressor gene *VHL* ([Proc Natl Acad Sci U S A 2011;108:21188](22158988), [Surg Pathol Clin 2016;9:441](27523971))+ Solid pseudopapillary neoplasm: a somatic activating mutation in *CTNNB1* (encoding beta catenin) ([Proc Natl Acad Sci U S A 2011;108:21188](22158988), [Am J Pathol 2002;160:1361](11943721), [Cancer Res 2001;61:8401](11731417))+ See [Diagrams / tables](https://www.pathologyoutlines.com/topic/pancreascysticfluidanalysis.html#pancreascysticfluidanalysisdiagrams)"
+  }
+]
