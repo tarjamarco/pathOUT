@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<base href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank" />	<meta charset="utf-8" />
+	<title>Pathology Outlines - Postmortem changes</title>
+
+	<meta name="description" content="Forensics & autopsy - Postmortem changes" />	
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="resource-type" content="document">
+	<meta name="revisit-after" content="1 days">
+	<meta name="distribution" content="global">
+	<meta name="rating" content="general">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<!-- social meta tags -->
+	<meta property="og:image" content="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo_for_social.jpg" />
+	<meta property="og:title" content="Postmortem changes"/>
+	<meta property="og:url" content="https://www.pathologyoutlines.com/scratchpad"/>
+	<meta property="og:description" content="Forensics & autopsy - Postmortem changes" />		
+	<!--<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/favicon.ico" />-->
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://www.pathologyoutlines.com/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.pathologyoutlines.com/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.pathologyoutlines.com/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.pathologyoutlines.com/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.pathologyoutlines.com/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.pathologyoutlines.com/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.pathologyoutlines.com/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon-180x180.png" />
+		
+	<!--<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/reset.css" rel="stylesheet" type="text/css" />-->
+	<!--<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/font-awesome-4.6.3/css/font-awesome.min.css" type="text/css" />--><!-- font awesome -->
+	<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/fontawesome-free-6.7.2-web/css/all.css" type="text/css" /><!-- font awesome -->
+	
+	<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,700italic,400italic,900,900italic' rel='stylesheet' type='text/css'>-->
+	
+	<link href="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/css/lightbox.css" rel="stylesheet" />
+
+	<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/main.css?ver=1.3.27" rel="stylesheet" />
+	
+	
+	
+				<!--Load the Cookiebot script-->
+			<!--<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="8539fe38-38ce-448a-beb8-edb691018d2d" data-blockingmode="auto" type="text/javascript"></script>-->
+				
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M3KDZ8R');</script>
+	
+		<SCRIPT type="text/javascript" src="https://bh.contextweb.com/cp?p=7932&token=9PIYNQQEOW8T&ch=1" async></SCRIPT>
+		<script src="https://servedbydoceree.doceree.com/resources/p/doc_ad/23/217/dc.js" data-siteId="217" data-platId="1" data-pubId="23"></script>
+					<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.1.8.3.min.js"></script>
+				<!--<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.3.5.1.min.js"></script>-->
+				<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/scripts.js?ver=1.3.0"></script>
+				
+				<script src="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/js/lightbox.min.js"></script>	
+							<!--Load the AJAX API-->
+				<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+						
+		<script type="text/javascript">
+			/* embed code starts */
+			var _vbset = _vbset || [];
+			_vbset.push(['_account', 'VBT-52731-2101']);
+			_vbset.push(['_domain', 'http://pathologyoutlines.com']);
+
+			(function() {
+				var vbt = document.createElement('script'); vbt.type = 'text/javascript'; vbt.async = true; 
+				vbt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.vbt.io/tracker?_account='+_vbset[0][1]+'&_domain='+_vbset[1][1];var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vbt, s);
+			})();
+			/* embed code ends */
+		</script>
+		
+				<script>window.sa_event=window.sa_event||function(){var a=[].slice.call(arguments);window.sa_event.q?window.sa_event.q.push(a):window.sa_event.q=[a]};</script>
+		
+		</head>
+<body
+	 class="loggedin">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3KDZ8R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<input type="hidden" id="server_root" value="" />
+	<input type="hidden" id="site_protocol" value="https://" />
+	<input type="hidden" id="pageurl" value="https://www.pathologyoutlines.com/scratchpad" />
+	
+		<div class="mobile_content" id="mobile_navigation">
+		<form action="https://www.google.com/cse" id="cse-search-box" class="clearfix cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+			<input type="search" class="mobile_search" name="q" placeholder="Search Site" style="width:85%;padding:15px 25px;border:none;font-family:inherit;font-size:inherit;" />
+			<!--<input type="submit" name="sa" class="float_right" style="background: #fff url('images/icon_search.jpg') no-repeat scroll 100% 0;padding: 15px 12px;" />-->
+			<button type="submit" name="sa" class="menu_caret" style="float:right;padding:15px 20px 9px 9px;color:#8381cd;background-color:#fff; width: auto; height:100%;cursor:pointer;border:none;">
+				 <i class="fa fa-search"></i>
+			  </button>
+		</form>
+		<div class="mobile_logo">
+			<a href="https://www.pathologyoutlines.com" class="mobile_logo_img" target="_self"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="" /></a><div class="menu_icon_wrapper"><a href="#" class="menu_icon"><span class="fa fa-navicon"></span></a><div class="menu_text">Menu</div></div>		</div>
+		<div class="mobile_ad_wrapper"
+				 style="display:none;"			>
+			
+			<div class="featured_box_mobile"><div><div class="mobile_ad">
+
+<!-- Mobile Home Page Ad [ENABLE MOBILE ONLY!] [js] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid359714 = window.pid359714 || rnd;
+var plc359714 = window.plc359714 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=175977;size=0x0;setID=359714;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid359714+';place='+(plc359714++)+';rnd='+rnd+'';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+<!-- Preserving standard code during AdButler deployment
+<a href="http://www.pathologyoutlines.com/site/mobile_Homepage_Redirect.html" target="_blank">
+    <img src="http://www.pathologyoutlines.com/site/Roche_HP_Mobile_240701.jpg" width="468"  border="0">
+</a>
+-->
+
+</div>
+
+</div></div>		</div>
+		
+		<div class="mobile_nav 
+			"		>
+			<ul id="mobile_menu">
+				<li class="mobile_menu_item clearfix">
+					<a href="#" id="chaptersubspecialty_menu">Chapters By Subspecialty <span id="chaptersubspecialty_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="chaptersubspecialty_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li>					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/jobs" target="_self">Jobs</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/fellowships" target="_self">Fellowships</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/conferences" target="_self">Conferences / Webinars</a></li>
+				<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Authors <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/directory" target="_self">Directory</a></li>
+				<!--<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Directory <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+					</ul>
+				</li>-->
+				
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/books" target="_self">Books</a></li>
+				<!--<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/review-questions" target="_self">Question Bank</a></li>
+				<li class="mobile_menu_item last">
+					<a href="#" id="other_menu">Other Links <span id="other_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="other_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/aboutus.html" target="_self">About Us</a></li>
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm" target="_self">Cases</a></li>
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html" target="_self">CCN</a></li>
+						<li><a href="https://www.pathologyoutlines.com/cme" target="_self">CME (online)</a></li>
+						<li><a href="#" class="contact_form_trigger">Comment</a></li>
+						<li><a href="https://www.pathologyoutlines.com/contactus.html" target="_self">Contact Us</a></li>	
+						<li><a href="https://www.pathologyoutlines.com/FAQ.html" target="_self">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/crossword.html" target="_self">Games</a></li>
+						<li><a href="https://www.pathologyoutlines.com/grants.html" target="_self">Grants</a></li>
+						<!--<li>
+							<a href="#" class="sub_menu">Libraries <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a>
+							<ul class="hide subspecialty_sub_menu" style="display:none;">
+								<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+								<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+							</ul>
+						</li>-->					
+						<li><a href="https://www.pathologyoutlines.com/subscribe.html" target="_self">Newsletters</a></li>
+						<li><a href="https://www.pathologyoutlines.com/monthlystats.php" target="_self">Statistics</a></li>
+						<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html" target="_self">Testimonials</a></li>
+						<li><a href="https://www.youtube.com/channel/UCr-ov_ZWvCSHHMq-g-SHJJA" target="_blank">Videos</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+		
+	<div id="navigation">
+		<div id="top_nav" style="height:35px; background: url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_topnav.jpg') repeat-x scroll 0 0 transparent;">
+			<div class="content_section" style="display:flex;justify-content:space-between;">
+				<div class="top_nav_left">
+					<ul>
+						<!--<li class="first"><a href="https://www.pathologyoutlines.com"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_home.png" alt="" height="11px" width="14px" /></a></li>-->
+						<li class="first"><a href="https://www.pathologyoutlines.com" title="Home"><span class="fa fa-home" style="font-size: 14px;"></span></a></li>
+						<li class="nav_dropdown closed">
+							<a href="#" title="Chapters">Textbook</a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li></ul><ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li></ul><ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li></ul>										<!--<ul class="clearfix navcol1" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; border-left: 1px solid #ccc;*/padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+										</ul>
+										<ul class="clearfix navcol3" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;">
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 1</a></li>
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 2</a></li>
+										</ul>-->
+									</div>
+								</div>
+							</div>
+						</li>
+						<li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships">Fellowships</a></li>
+						<li><a href="https://www.pathologyoutlines.com/conferences">Conferences</a></li>
+						
+						<li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/directory">Directory <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+						<li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>-->
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li>
+						
+						<!--<li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>-->
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/payment.php">Payment</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>-->
+						
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/libraries.html">Libraries <span class="subnav_carrot"><span class="fa fa-caret-left"></span></span></a>
+							<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+					</ul>
+					<br class="clear_left" />
+				</div>
+				<div class="top_nav_right">
+					<div style="display: flex;justify-content: flex-end;">
+						<!--<div class="float_left" style="color: #fff;font-size: 19px;padding: 7px 0 0;">
+							<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+							<a href="https://twitter.com/pathoutlines" class="top_nav_icon" target="_blank" title="Twitter"><span class="fa-brands fa-x-twitter-square"></span></a>
+							<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-instagram"></span></a>
+							<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+							<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-youtube"></span></a>
+							<a href="https://med-mastodon.com/@pathout" class="top_nav_icon" target="_blank" title="Mastodon"><span class="fa-brands fa-mastodon"></span></a>
+							<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						</div>-->
+						<!--<form action="https://www.google.com/cse" id="cse-search-box" class="float_left">
+							<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+							<input type="text" class="top_nav_search float_left" name="q" placeholder="Search Site" />
+							<input type="submit" name="sa" class="float_left" style="background: #fff url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_search.jpg') no-repeat scroll 0 0;" />
+						</form>-->
+						<script async src="https://cse.google.com/cse.js?cx=partner-pub-3521518608648020:8640627894"></script>
+						<div class="gcse-searchbox-only" enableAutoComplete="true" data-newWindow="true" data-resultsUrl="https://www.pathologyoutlines.com/search-results"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="mid_nav">
+			<div class="content_section">
+				<div style="display:flex;justify-content:space-between;">
+					<div class="logo">
+						<a href="
+							https://www.pathologyoutlines.com/						">
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo.png" alt="logo"  height="115px" width="470px" />-->
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Header_Logo2_Silver_Anniversary_470x79_202206.png" alt="logo"  height="115px" width="470px" />-->
+							<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="logo"  height="80" width="420" border="0" />
+						</a>
+					</div>
+					<div class="top_units">
+						<!--<div class="sponsor_header align_center" style="color: #fff;">Platinum Level Sponsors</div>-->
+						<div style="display:flex;justify-content:space-between;">
+							<div class="top_unit1">
+								<!-- ad unit 1 -->
+								<!-- Header Left -->
+
+<!-- Header - Left Side [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc475437 = window.plc475437 || 0;
+document.write('<'+'div id="placement_475437_'+plc475437+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 475437, [225,125], 'placement_475437_'+opt.place, opt); }, opt: { place: plc475437++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/uscap25.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/house-USCAP-225x12511.png"="width: 225px" /></a>
+-->							</div>
+							<div class="top_unit2">
+								<!-- ad unit 2 -->
+								<!-- Header Right -->
+
+<!-- Header - Right side NEW [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc552089 = window.plc552089 || 0;
+document.write('<'+'div id="placement_552089_'+plc552089+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 552089, [225,125], 'placement_552089_'+opt.place, opt); }, opt: { place: plc552089++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/site/Header_01_Right_Redirect.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/CastleBios-header-right-240901.png" /></a>
+-->							</div>
+						</div>
+					</div>
+					<!--<br class="clearleft" />-->
+				</div>
+				<div id="news">
+					We have posted a new Founder's Corner video <a href="https://www.youtube.com/shorts/w2tzoB_871c" target="_blank">here</a>.				</div>
+			</div>
+		</div>
+		<div id="bot_nav" style="background: transparent url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_botnav.jpg') repeat-x;">
+			<div class="content_section">
+				<ul style="display:flex;justify-content:space-between;">
+					<!--<li class="first"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/apps.html">Apps</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>-->
+					<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/authors">Authors <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+												<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+							<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+								<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+									<!--
+									<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">List of Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+										
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									-->
+									
+									<ul class="clearfix navcol1" style="padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 30px;padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+									</ul>
+									<ul class="clearfix navcol4" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									<ul class="clearfix navcol5" style="padding-left: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorawards.html">Author Awards</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+					<li><a href="https://www.pathologyoutlines.com/review-questions">Question Bank</a></li>
+					<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+					<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>
+					<li><a href="#" class="contact_form_trigger">Comment</a></li>
+					<li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+					<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+					<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+					<!--<li><a href="https://www.pathologyoutlines.com/getinvolved.html">Get Involved</a></li>-->
+					<li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+					<li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+					<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+					
+				</ul>
+				<!-- <br class="clear_left" /> -->
+			</div>
+		</div>
+	</div>
+	<div id="page_content_container">
+	<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Postmortem changes</div></div>
+<div id="main_content">
+	<div class="content_section">
+		<div class="min_content">
+			<div id="topic_page_top" class="topic_page">
+				<div id="po_banner_top" class="section_top po_banner_top">
+	<a href="mailto:comments@pathologyoutlines.com?subject=Email Address Change" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/6/20250603-132930_728x90-Update-Your-Email-Address.png" alt="" class="section_img_top" /></a></div>				<div class="authorship_wrapper clearfix">
+					<div class="authorship floatleft">
+						<h1>Autopsy & forensics</h1><h2>General</h2><h3>Postmortem changes</h3><br><div class="topic_page_author_section"><div class="topic_page_author_box"><div id="page-author-section"><div><div><strong>Authors:&nbsp;</strong><a href="https://www.pathologyoutlines.com/authors?id=734&pap=5" target="_blank">Karissa French, M.Res., M.D.</a>, <a href="https://www.pathologyoutlines.com/authors?id=735&pap=5" target="_blank">Rebekah Jacques, M.H.Sc., M.D.</a></div><div><strong>Editorial Board Member:&nbsp;</strong>Patricia Tsang, M.D., M.B.A.</div><div><strong>Editor-in-Chief:&nbsp;</strong>Debra L. Zynger, M.D.</div></div><div class="topic_page_image_box mobile"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=734&pap=5" target="_blank" title="Karissa French, M.Res., M.D."><img src="http://www.pathologyoutlines.com/imgau/authors/KarissaFrench.jpg" alt="Karissa French, M.Res., M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=735&pap=5" target="_blank" title="Rebekah Jacques, M.H.Sc., M.D."><img src="http://www.pathologyoutlines.com/imgau/authors/RebekahJacques.jpg" alt="Rebekah Jacques, M.H.Sc., M.D." /></a></div></div></div><br /><div id="page-topic-complete-date"><strong>Last author update:</strong> 10 September 2020</div><div id="page-lastedit"><strong>Last staff update:</strong> 10 September 2020</div><br /> 
+
+<b>Copyright</b>: 2012-2025, PathologyOutlines.com, Inc.<br><br>
+
+<b>PubMed search</b>: <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=postmortem+changes+%5Btitle%5D+pathology">postmortem changes [title] pathology</a> </div><div><br /><div class="topic_page_image_box desktop"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=734&pap=5" target="_blank" title="Karissa French, M.Res., M.D."><img src="http://www.pathologyoutlines.com/imgau/authors/KarissaFrench.jpg" alt="Karissa French, M.Res., M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=735&pap=5" target="_blank" title="Rebekah Jacques, M.H.Sc., M.D."><img src="http://www.pathologyoutlines.com/imgau/authors/RebekahJacques.jpg" alt="Rebekah Jacques, M.H.Sc., M.D." /></a></div></div></div></div>					</div>
+					<div id="po_banner_side" class="section_authorship floatleft po_banner_side">
+	<a href="https://www.pathologyoutlines.com/booksrecommended.html" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/5/20250501-111058_house-recommendedbooks-300x250.png" alt="" class="section_img_authorship" /></a></div>				</div>
+				<div class="meta_contents" style="margin-bottom:25px;"><div><strong>Page views in 2024:</strong> 13,725</div><div><strong>Page views in 2025 to date:</strong> 5,074</div></div><div id="po_banner_top2" class="section_top po_banner_top2">
+	</div><div class="table_of_contents"><div class="topicheading_title toc">Table of Contents</div><a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#definitiongeneral205976" class="scrollto">Definition / general</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#essentialfeatures205977" class="scrollto">Essential features</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#rigormortis205978" class="scrollto">Rigor mortis</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#livormortis205979" class="scrollto">Livor mortis</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#postmortemdrying205980" class="scrollto">Postmortem drying</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#decomposition205981" class="scrollto">Decomposition</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#taphonomy205982" class="scrollto">Taphonomy</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#practicequestion1205983" class="scrollto">Practice question #1</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#practiceanswer1205984" class="scrollto">Practice answer #1</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#practicequestion2205985" class="scrollto">Practice question #2</a> | <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html#practiceanswer2205986" class="scrollto">Practice answer #2</a></div><div class="table_of_contents" style="word-break: break-all;-webkit-hyphens: auto;-moz-hyphens: auto; hyphens: auto;"><strong>Cite this page:</strong> French K, Jacques R. Postmortem changes. PathologyOutlines.com website. https://www.pathologyoutlines.com/topic/forensicspostmortem.html.  Accessed June 17th, 2025.</div><div class="block_content"><div class="block_section" id="definitiongeneral205976"><div class="topicheading_title">Definition / general</div><div class="block_body"><ul>
+<li>Postmortem changes refers to a continuum of changes that occur in a dead body following death; these changes include livor mortis, rigor mortis, decomposition and taphonomy (<a href="32119351" class="gr">StatPearls: Evaluation of Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Given the postmortem changes and the rate of change are influenced by many variables, it is not possible to reliably estimate an accurate postmortem interval or time since death based solely on postmortem changes; time intervals given below are dependent on the circumstances and the reference (<a href="29306148" class="bl">Forensic Sci Int 2018;283:180</a>)
+<li>Artifact is any change produced in the body after death or during resuscitation that may lead to misinterpretation of relevant antemortem findings; postmortem changes may mimic injuries, obscure and hinder interpretation of antemortem findings (<a href="https://www.amazon.com/exec/obidos/ASIN/1447152697/pathologyoutl-20" class="bl">Rutty: Essentials of Autopsy Practice - Advances, Updates and Emerging Technologies, 2014</a>)
+<li>Body undergoes decompositional changes after death; typically, this process is composed of 2 parallel processes: autolysis and putrefaction (<a href="32119351" class="gr">StatPearls: Evaluation of Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>To aid in differentiating antemortem injury from a postmortem artifact is the presence of a vital reaction; this is characterized by an inflammatory response or significant bleeding, however, using the presence of bleeding as a finding of a vital reaction can be limited in areas of livor mortis (<a href="15364394" class="bl">Forensic Sci Int 2004;144:221</a>)
+</ul></div></div><div class="block_section" id="essentialfeatures205977"><div class="topicheading_title">Essential features</div><div class="block_body"><ul>
+<li>Major factors that influence decomposition (<a href="20554133" class="bl">Forensic Sci Int 2011;204:34</a>):
+<ul>
+<li>Temperature
+<li> Moisture  
+<li>Access for bugs and animals
+<li> Injuries
+<li> Illness
+<li> Body habitus
+<li>Clothing
+</ul>
+<li>General classifications of decomposition (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>):
+<ul>
+<li>Putrefaction
+<li>Mummification
+<li>Adipocere
+<li>Maceration
+</ul>
+</ul></div></div><div class="block_section" id="rigormortis205978"><div class="topicheading_title">Rigor mortis</div><div class="block_body"><ul>
+<li>Definition:
+<ul>
+<li>Postmortem stiffening or rigidity of the body due to depletion of ATP and accumulation of lactic acid; in a dead body, the glycogen stores are rapidly depleted, preventing the energy dependent breakage of sarcomere contraction (<a href="20249085" class="gr">J Physiol 1947;106:177</a>)
+ </ul>
+<li>Process:
+<ul>
+<li>This is a transient postmortem change (<a href="15013168" class="bl">Forensic Sci Int 2004;140:79</a>)
+<li>In general, there is an initial flaccid interval that is followed by a gradual stiffening of the body, which then eventually disappears (<a href="15013168" class="bl">Forensic Sci Int 2004;140:79</a>)
+<li>This onset, peak and dissipation of rigor mortis is a temperature dependent process (i.e. onset and dissipation will be faster in warmer temperatures and delayed by colder temperatures) (<a href="24055629" class="bl">Leg Med (Tokyo) 2013;15:293</a>)
+<li>In addition, antemortem physical exertion will influence the rate of onset (<a href="6618356" class="bl">Forensic Sci Int 1983;22:1</a>)
+<li>Typically, rigor mortis may begin within a couple of hours after death and occurs in all muscle groups but is initially notable in the small muscles (i.e. jaw) followed by larger muscle groups (i.e. legs) (<a href="730101" class="bl">Forensic Sci Int 1978;12:97</a>)
+<li>Rigor mortis will be fully fixed after approximately 6 - 12 hours and will maintain the position of the body when fully fixed, unless sufficient pressure is applied that breaks the rigor mortis leaving the joint easily moveable (<a href="15434373" class="gr">Br Med J 1950;2:304</a>, <a href="9610096" class="gr">J Pak Med Assoc 1998;48:49</a>)
+<li>Once rigor mortis is fixed and then broken, it will not return (<a href="17919867" class="bl">Forensic Sci Int 2008;176:157</a>)
+<li>Rigor mortis dissipates after approximately 36 - 48 hours (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+</ul>
+<li>Interpretation and artifact:
+<ul>
+<li>Quality (i.e. strength) of rigor mortis and position of the body should be noted at the scene due to the transient nature and ability to break rigor mortis (<a href="23776792" class="gr">Int J Appl Basic Med Res 2011;1:120</a>)
+<li>Rigor mortis can indicate the position of the body at the scene; inappropriate or antigravitational rigor mortis can indicate that a body has been moved once rigor mortis has been fully fixed and the body is discovered prior to full dissipation of rigor mortis (<a href="23776792" class="gr">Int J Appl Basic Med Res 2011;1:120</a>)
+<li>Rigor mortis may not be readily apparent in decedents with low muscle mass (i.e. elderly and infants) (<a href="19554461" class="bl">Exp Appl Acarol 2009;49:21</a>)
+<li>So called cadaveric spasm, described as near instantaneous onset of rigor mortis at time of death, is rare; it is postulated that this occurs in extreme physical or emotional situations (<a href="23179991" class="bl">Forensic Sci Med Pathol 2013;9:244</a>, <a href="23288693" class="bl">Forensic Sci Med Pathol 2013;9:249</a>)
+<li>Extreme temperatures may mimic rigor mortis due to freezing or heat induced protein denaturation (<a href="31179929" class="gr">Int J Emerg Med 2018;11:46</a>)
+<li>Body site specific artifacts (<a href="https://www.amazon.com/exec/obidos/ASIN/1588294587/pathologyoutl-20" class="bl">Shkrum: Forensic Pathology of Trauma, 2007</a>):
+<ul>
+<li>Skin: cutis anserinus (goosebumps) - rigor mortis of the erector pilae muscles
+<li>Pupil inequality: rigor mortis of the ciliary muscles
+<li>Semen deposition: may indicate postmortem rigor mortis of seminal vesicles
+<li>Widening of the anal orifice: resolution of rigor mortis
+</ul>
+</ul>
+</ul>
+
+<br><span class="f11bi">Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.</span><br>
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench01.jpg" data-lightbox="forensicspostmortemrigormortis" data-title="Fixed rigor mortis of the upper extremities wherein the arms are suspended against gravity indicating they were previously held in that position while rigor was fixing.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench01.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Antigravitational rigor mortis</div>
+
+</ul></div></div><div class="block_section" id="livormortis205979"><div class="topicheading_title">Livor mortis</div><div class="block_body"><ul>
+<li>Definition:
+<ul>
+<li>Gravity dependent accumulation (pooling) of blood in the skin and organs creating a purple-red discoloration (<a href="27259559" class="bl">Forensic Sci Med Pathol 2016;12:451</a>)
+<li> Also known as lividity, postmortem hypostasis, dependent lividity (<a href="27259559" class="bl">Forensic Sci Med Pathol 2016;12:451</a>)
+ </ul>
+<li>Process:
+<ul>
+<li>Following the cessation of circulation there is settling of blood in the dependent parts of the body, which distributes in the body in a gravity dependent manner (<a href="19554461" class="bl">Exp Appl Acarol 2009;49:21</a>)
+<li>Livor mortis is evident as deep purple-red discoloration in the skin and internal organs (<a href="27259559" class="bl">Forensic Sci Med Pathol 2016;12:451</a>)
+<li>Blanching occurs in gravity dependent areas of the body that come into contact with firm surfaces (i.e. floor, tight clothing); livor mortis is spared in these areas due to localized pressure preventing blood from entering the skin (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Blanching can also occur with pressure in nonfixed areas of lividity; this force displaces the pooled blood but the pooled blood will return following the removal of pressure, such as pressing your thumb to an area of lividity to test if it is fixed (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Livor mortis will eventually become fixed in several hours (approximately 8 - 12 hours or so) and lose its ability to become blanchable; this is due to breakdown of red blood cells and vessels (<a href="6532013" class="bl">Z Rechtsmed 1984;93:283</a>)
+<li>Fixation of lividity does not occur all at once (<a href="https://www.amazon.com/exec/obidos/ASIN/034097253X/pathologyoutl-20" class="bl">Saukko: Knight's Forensic Pathology, 4th Edition, 2015</a>)
+ </ul>
+<li>Interpretation and artifact:
+<ul>
+<li>Distribution depends on body position and can indicate that the body has been moved
+<ul>
+<li>A distribution of livor mortis which does not correspond to the position of the body is an indication of a prior different position of the body (<a href="27259559" class="bl">Forensic Sci Med Pathol 2016;12:451</a>)
+<li>Dual distribution of livor mortis occurs when the body is moved so that new areas of the body are now dependent (<a href="27259559" class="bl">Forensic Sci Med Pathol 2016;12:451</a>)
+</ul>
+<li>Misinterpreted as disease: internal organs are also affected by livor mortis, for example (<a href="26945004" class="bl">Vet Pathol 2016;53:929</a>):
+<ul> 
+<li>Myocardium: misinterpreted as a myocardial infarction
+<li>Meninges: misinterpreted as subarachnoid hemorrhage
+<li>Lungs: misinterpreted as pneumonia
+</ul>
+<li>Misinterpreted as injury or obscure injuries, for example (<a href="https://www.amazon.com/exec/obidos/ASIN/034097253X/pathologyoutl-20" class="bl">Saukko: Knight's Forensic Pathology, 4th Edition, 2015</a>):
+<ul>
+<li> Bruises in areas of lividity may be difficult to identify (<a href="32119351" class="gr">StatPearls: Evaluation of Postmortem Changes [Accessed 1 July 2020]</a>):
+<ul>
+<li>Unfixed lividity: apply pressure to identify if blanches; bruises don’t blanch
+<li>Fixed lividity: incision may be helpful to demonstrate lack of subcutaneous hemorrhage; histology may assist if inflammatory reaction present 
+</ul>
+<li>Hypostatic hemorrhages or hemorrhagic lividity
+<ul>
+<li>Blood vessels may rupture and cause areas of hemorrhage; these are limited to areas of livor mortis (<a href="21994042" class="bl">Forensic Sci Med Pathol 2012;8:330</a>, <a href="19901802" class="bl">Am J Forensic Med Pathol 2009;30:322</a>)
+</ul>
+<li>To avoid livor mortis associated artifacts, bodies should be stored and transported face up (<a href="9610096" class="gr">J Pak Med Assoc 1998;48:49</a>)
+<li>Color and character of livor mortis may aid in suggesting a cause or mechanism of death:
+<ul>
+<li>Cherry red: carbon monoxide toxicity, hypothermia, cyanide toxicity or artifact of mortuary refrigeration (<a href="10077859" class="bl">Forensic Sci Int 1999;99:149</a>)
+<li>Brown: primary or secondary methemoglobinemia (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Yellow-brown: phosphorus toxicity (<a href="https://www.amazon.com/exec/obidos/ASIN/1588294587/pathologyoutl-20" class="bl">Shkrum: Forensic Pathology of Trauma, 2007</a>):
+<li>Diminished lividity: death is associated with substantial blood loss (<a href="29354888" class="bl">Forensic Sci Med Pathol 2018;14:57</a>)
+<li>Ventral lividity with blanching of the anterior neck: may indicate positional asphyxia (<a href="1510056" class="bl">Am J Forensic Med Pathol 1992;13:101</a>)
+</ul>
+</ul>
+</ul>
+</ul>
+<br><span class="f11bi">Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.</span><br>
+<div class="img2">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench02.jpg" data-lightbox="forensicspostmortemlivormortis" data-title="See dual distribution of livor mortis - ventral surfaces of the body. Red-purple discoloration from deoxygenated blood pooling in gravity dependent areas of the body. The pale areas indicate blanching where the body has come into contact with a surface that prevented the blood from settling in gravity dependent areas. <br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench02.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+&emsp;
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench03.jpg" data-lightbox="forensicspostmortemlivormortis" data-title="See Dual distribution of livor mortis - dorsal surfaces of the body. The dual distribution of livor mortis indicates that the body has been moved since the blood has settled. The decedent’s body was discovered face down at the scene and transported to the morgue face up. Notice that hypostatic hemorrhages (the deep purple areas) are only located in areas of livor mortis and not in areas of blanching.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench03.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p> Dual distribution of livor mortis</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench04.jpg" data-lightbox="forensicspostmortemlivormortis" data-title="Intense livor mortis of the face with areas of hypostatic hemorrhages. Upon reflection of the scalp there was a hematoma of the central forehead masked by cutaneous livor mortis.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench04.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Livor mortis of face</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench05.jpg" data-lightbox="forensicspostmortemlivormortis" data-title="Livor mortis of the anterior neck may mimic neck trauma. The blanching along the neck folds, lack of additional injuries and lack of petechial conjunctival hemorrhages are important to note. Internal examination requires a special musculocutaneous dissection of the anterior neck following the removal of brain and thoracoabdominal organs to assess for injuries.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench05.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Livor mortis of anterior neck mimics trauma</div>
+</ul></div></div><div class="block_section" id="postmortemdrying205980"><div class="topicheading_title">Postmortem drying</div><div class="block_body"><ul>
+<li>After death, the skin and mucosal membranes may desiccate resulting in a change in color and character of these tissues (<a href="21994042" class="bl">Forensic Sci Med Pathol 2012;8:330</a>)
+<ul>
+<li>Tache noir: horizontal linear scleral blackening along the equator of the globe of the eye; the sclera is exposed to drying when the eyelids are incompletely shut; tache noir is often initially red in appearance and over time becomes black (<a href="21994042" class="bl">Forensic Sci Med Pathol 2012;8:330</a>)
+<li>Lips, tip of tongue and scrotum darken with postmortem drying (<a href="29306148" class="bl">Forensic Sci Int 2018;283:180</a>)
+</ul>
+</ul>
+<br><span class="f11bi">Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.</span><br>
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench06.jpg" data-lightbox="forensicspostmortemdrying" data-title="Black scleral discolouration along the equator of the globe of the eye where postmortem drying occurred due to the incomplete closure of the eyelids.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench06.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Tache noir</div>
+</ul></div></div><div class="block_section" id="decomposition205981"><div class="topicheading_title">Decomposition</div><div class="block_body"><ul>
+<li>Definition: the process by which organic matter is broken down into simpler forms of matter
+<ul>
+<li>Different organs break down at different rates (<a href="22721934" class="bl">Forensic Sci Int 2012;222:162</a>)
+<li>Type and rate of decomposition is environment dependent (<a href="19554461" class="bl">Exp Appl Acarol 2009;49:21</a>)
+<li>Skeletonization is the final common result (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Dead body can have different types of decomposition occurring in different areas of the body (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Atypical localized accelerated decomposition may indicate injury (<a href="26908227" class="bl">Forensic Sci Int 2016;261:93</a>)
+</ul>
+<li>Autolysis:
+<ul>
+<li>Aseptic breakdown of tissues caused by the release of intracellular enzymes; degradation of a substance by chemical or physical processes (i.e. hydrolysis) (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Changes in pH cause cells to lose structural integrity, leading to release of enzymes (<a href="26092190" class="bl">Forensic Sci Int 2015;253:136</a>)
+</ul>
+ 
+<li>Putrefaction decomposition:
+<ul>
+<li>Typical environment: hot and humid (<a href="28608144" class="bl">Int J Legal Med 2018;132:301</a>)
+<li>Most common form of decomposition is composed of liquid (i.e. purge) and gaseous transformation of tissues and organs by local and hematogenous spread of intestinal bacteria and other microorganisms (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Fermentation process causes softening and liquefaction of the soft tissues by transforming carbohydrates, lipids and proteins into organic acids and gases (<a href="23124357" class="bl">Forensic Sci Med Pathol 2013;9:135</a>)
+<li>Modifying factors: ambient temperatures, bacteremia, defects exposing body cavities, prone body position, clothing, fever, elevated BMI / body habitus, certain drugs, submersion in water, burial (<a href="23890647" class="bl">Forensic Sci Int 2013;231:257</a>)
+<li>First sign: green discoloration of the abdomen in the right lower quadrant due to the proximity of the cecum to the skin (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Characterized by:
+<ul>
+<li>Skin discoloration: green, deep red and black (<a href="31239870" class="gr">Acad Forensic Pathol 2016;6:19</a>)
+<li>Marbling: venous distribution in the skin due to proliferation of bacteria within superficial veins (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Bloating: gaseous distension leads to expulsion of sanguineous fluid from mouth and nose (i.e. purge fluid) (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Skin slippage and epidermal blistering: peeling of the epidermis in a glove and stocking fashion of the hands and feet, respectively; the hair and nails detach (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+</ul>
+<li>Artifact:
+<ul>
+<li>Purge fluid is commonly misinterpreted as antemortem hemorrhage (<a href="18520482" class="bl">Am J Forensic Med Pathol 2008;29:145</a>)
+<ul>
+<li>Differentiate purge from antemortem trauma: 
+<ul>
+<li>No trauma
+<li>No source of bleeding present
+<li>Putrefactive decompositional bloating present
+</ul>
+</ul>
+<li>Gastromalacia / esophagomalacia: mimics a perforated ulcer; distention from gas and softening of the gastrointestinal tract may cause an artefactual rupture; histology shows no features of an ulcer (<a href="16501352" class="bl">Am J Forensic Med Pathol 2006;27:61</a>)
+<li>Decompositional fluid in the chest cavities: low volumes of red-brown fluid mimic hemothoraces (<a href="31239870" class="gr">Acad Forensic Pathol 2016;6:19</a>)
+<li>Breakdown of the pancreas: mimics hemorrhagic pancreatitis (<a href="22721934" class="bl">Forensic Sci Int 2012;222:162</a>)
+ </ul>
+</ul>
+ 
+<li>Mummification decomposition:
+<ul>
+<li>Typical environment: hot and dry (<a href="1955446" class="bl">J Bone Joint Surg Br 1991;73:969</a>)
+<li>A form of decomposition that typically results in desiccation of the tissues and inhibits bacterial overgrowth (<a href="31557717" class="bl">Forensic Sci Int 2019;303:109948</a>)
+<li>Differs from ritual mummification, which is an embalming technique that utilizes salt based chemicals and resins as was done in ancient Egypt (<a href="25998632" class="gr">Anat Rec (Hoboken) 2015;298:974</a>)
+<li>Can also occur in cold environments (<a href="18046750" class="bl">Am J Phys Anthropol 2007;Suppl 45:162</a>)
+<li>Wounds may be preserved (<a href="29558684" class="bl">Forensic Sci Int 2018;286:31</a>)
+</ul>
+<li>Adipocere formation (saponification):
+<ul>
+<li>Typical environment: damp and free of oxygen (<a href="26832376" class="bl">Leg Med (Tokyo) 2016;18:49</a>)
+<li>Also known as grave wax (<a href="21185137" class="bl">Forensic Sci Int 2011;208:167</a>)
+<li>Wax-like organic substance formed by the anaerobic bacterial hydrolysis of fat to oleic, palmitic and stearic acids (<a href="23415161" class="bl">Forensic Sci Int 2013;226:301</a>)
+<li>Occurs in cold, humid and anaerobic environments (ie. wet ground, bottom of a lake) but internal body water content may be enough for hydrolysis to occur (<a href="12883770" class="bl">Naturwissenschaften 2003;90:291</a>)
+<li>After months or years may become brittle / chalky (<a href="26832376" class="bl">Leg Med (Tokyo) 2016;18:49</a>)
+<li>Tends to develop on the cheeks, orbits, chest, abdominal wall and buttocks (<a href="32119351" class="gr">StatPearls: Evaluation of Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Can form visibly any time between 3 weeks and 3 months and is often mixed with other forms of decomposition (<a href="32119351" class="gr">StatPearls: Evaluation of Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Surface adipocere formation may maintain the features of the face and preserve the features of wounds (<a href="21185137" class="bl">Forensic Sci Int 2011;208:167</a>, <a href="26832376" class="bl">Leg Med (Tokyo) 2016;18:49</a>)
+</ul>
+<li>Maceration:
+<ul>
+<li>Term also used for the aseptic autolysis of the stillborn fetus (<a href="30969563" class="gr">StatPearls: Postmortem Changes [Accessed 1 July 2020]</a>)
+<li>Softening and breakdown of tissues due to prolonged exposure to a moist / liquid environment (<a href="28379098" class="bl">J Wound Care 2017;26:159</a>)
+<li> Features: skin slippage, softening and darkening of the tissues and organs with hemosiderin staining, loosening of the joints (<a href="5551383" class="gr">J Clin Pathol 1971;24:159</a>)
+</ul>
+</ul>
+<br><span class="f11bi">Contributed by Karissa French, M.Res., M.D., Rebekah Jacques, M.H.Sc., M.D. and Michael Shkrum M.D.</span><br>
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench07.jpg" data-lightbox="forensicspostmortemdecomp" data-title="Putrefactive decomposition of the right arm showing prominent red-green discoloration of the surface vessels in a venous distribution. Skin slippage is also present and the separated epidermis are present on the dorsal hand and upper arm.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench07.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Putrefactive decomposition - marbling and skin slippage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench08.jpg" data-lightbox="forensicspostmortemdecomp" data-title="Putrefactive changes of the right hand, decompositional fluid and gaseous formation has collected under the loosened epidermis leading to fluid filled epidermal blister.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench08.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Putrefactive decomposition - blistering and skin slippage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench09.jpg" data-lightbox="forensicspostmortemdecomp" data-title="Example of two types of decompositional changes occurring together: 1) Mummification decomposition is the black discoloration and desiccation of the toes and soles of the feet.  2) Putrefaction decomposition is observed as skin slippage around the ankles and marbling of the thighs, knees and left calf which is visible as purple-red-black venous distribution of the skin.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench09.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Mummification and putrefactive decomposition</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench10.jpg" data-lightbox="forensicspostmortemdecomp" data-title="Advanced adipocere decompositional changes of the torso with adjacent areas of skeletonization.<br>Contributed by Michael Shkrum, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench10.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Adipocere formation</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench11.jpg" data-lightbox="forensicspostmortemdecomp" data-title="Still born fetus, diffuse reddening of the skin, patchy loss of epidermis.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench11.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Maceration</div>
+</ul></div></div><div class="block_section" id="taphonomy205982"><div class="topicheading_title">Taphonomy</div><div class="block_body"><ul>
+<li>Definition: environmental influences on the body after death, including but not limited to insect activity, postmortem animal predation and human intervention
+<li>Bodies discovered in water:
+<ul>
+<li>Cool water will slow putrefaction, however, once the body is removed from the water, putrefaction may undergo an accelerated course (<a href="31239870" class="gr">Acad Forensic Pathol 2016;6:19</a>)
+<li>Over time, the skin becomes wrinkled (immersion changes), edematous and eventually the epidermis will slough off (<a href="6485585" class="bl">Z Rechtsmed 1984;92:277</a>)
+<li>Over time, gas formation causes floating of the body with the extremities and head in a dependent position; this may result in postmortem abrasions as the hands scrape against the rocky / sandy bottom of the body of water (<a href="31239870" class="gr">Acad Forensic Pathol 2016;6:19</a>)
+<li>Small aquatic fish may leave irregularly shaped postmortem abrasions while large aquatic animals such as sharks and crocodiles may amputate whole limbs (<a href="12198348" class="bl">Am J Forensic Med Pathol 2002;23:238</a>)
+</ul>
+<li>Postmortem animal predation:
+<ul>
+<li>Knowledge of the scene and of local fauna is vital for differentiating traumatic lesions from postmortem animal predation (<a href="12198348" class="bl">Am J Forensic Med Pathol 2002;23:238</a>)
+<li>Mammals:
+<ul>
+<li>Domestic dogs and cats can cause postmortem damage in uncovered areas of the body, commonly the face and hands; unlikely to tear clothing or perforate body cavities (<a href="21533604" class="bl">Forensic Sci Med Pathol 2011;7:344</a>)
+<li>If the body is unclad, the genitals may be involved, raising the suspicion for sexual trauma (<a href="12201075" class="bl">Med Sci Law 2002;42:269</a>)
+<li>Rodents will initially create shallow crater-like wounds with finely scalloped edges in exposed areas; prolonged exposure will lead to total skeletonization; the bones will have distinct double furrows from gnawing activity (<a href="10048669" class="bl">Int J Legal Med 1999;112:115</a>)
+<li>Margins of tissue loss are free of hemorrhage (<a href="21800177" class="bl">Forensic Sci Med Pathol 2011;7:309</a>)
+<li>Animal scavengers may disarticulate a body and scatter the remains (<a href="29979979" class="bl">Forensic Sci Int 2018;290:29</a>)
+</ul>
+<li>Birds:
+<ul>
+<li>Triangle to hourglass shaped punctures, preferentially in the exposed skin and eyes (<a href="15171181" class="bl">J Forensic Sci 2004;49:592</a>)
+<li>Strips of soft tissues leaving exposed frayed tendons (<a href="15171181" class="bl">J Forensic Sci 2004;49:592</a>)
+</ul>
+<li>Insects:
+<ul>
+<li>Forensic entomologists may be involved and use insect evidence to determine time of death as successive waves of insects colonize and mature (<a href="11457621" class="bl">Forensic Sci Int 2001;120:132</a>)
+<li>Insect activity in regions of intense lividity may produce some bleeding (<a href="29938388" class="gr">Int J Legal Med 2019;133:307</a>)
+<li>Flies: the most common insect encountered (<a href="12198348" class="bl">Am J Forensic Med Pathol 2002;23:238</a>)
+<li>Fly eggs are laid in naturally occurring orifices (i.e. mouth, nose, eyes, genitals, anus) and antemortem wounds; preferential colonization of non-natural occurring orifices should be examined for evidence of trauma (<a href="29938388" class="gr">Int J Legal Med 2019;133:307</a>)	
+<li> Eggs hatch into maggots (fly larvae) and have proteolytic enzymes that allow them to destroy tissue and burrow into the body; this may mimic injury but also distort and obscure the presence and features of antemortem injuries (<a href="29938388" class="gr">Int J Legal Med 2019;133:307</a>)
+<li>Metabolism associated heat of the maggot mass will speed up local decomposition (<a href="29938388" class="gr">Int J Legal Med 2019;133:307</a>)
+<li>Ants: have a predilection for skin, causing irregularly shaped clusters with scalloped edges; this finding may be misinterpreted as antemortem abrasions (<a href="19237864" class="bl">Am J Forensic Med Pathol 2009;30:84</a>)
+<li>Cockroaches: cause shallow, rounded lesions which mimic antemortem burns (<a href="29938388" class="gr">Int J Legal Med 2019;133:307</a>)
+</ul>
+</ul>
+<li>Resuscitation related artifacts:
+<ul>
+<li>General:
+<ul>
+<li>Information on the resuscitation status and the types of interventions, including bystander resuscitation, should be considered prior to commencing the external examination (<a href="17276125" class="bl">Leg Med (Tokyo) 2007;9:94</a>)
+<li>Cardiopulmonary resuscitation often involves multiple needle punctures, placement of an oral endotracheal tube, chest compressions and defibrillation (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+<li> Needle punctures may occur in multiple areas; to differentiate from antemortem intravenous drug injection requires details from the paramedic and clinical record (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+ </ul>
+<li>Resuscitation related artifacts involving the face and neck:
+<ul>
+<li> Oxygen face mask can cause perioral and nose abrasions (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+<li> Head tilt / chin lift to open the decedent’s airway may result in abrasions of the face and chin area due to the healthcare worker’s fingernails (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+<li>Insertion of an oral endotracheal tube or oropharyngeal airway may cause bruises and abrasions of the lips and oral mucosa; in particular, laryngoscopy may cause damage to the teeth and uvula (<a href="17276125" class="bl">Leg Med (Tokyo) 2007;9:94</a>)
+<li>Obstructing objects within the oral cavity or oropharynx may be removed during resuscitation (<a href="3050351" class="bl">Med Sci Law 1988;28:200</a>)
+<li>Neck braces may cause abrasions and hemorrhage into the strap muscles of the neck (<a href="31252196" class="bl">J Forensic Leg Med 2019;66:95</a>)
+</ul>
+<li>Resuscitation related artifacts involving the torso:
+<ul>
+<li>Chest compressions may cause precordial bruises and abrasions as well as fractures of the sternum, anterior and anterolateral ribs; histology may reveal fat and bone marrow pulmonary emboli as a result; in addition, the fractured ribs can lacerate the internal organs such as the heart, lungs, spleen and liver resulting in hemothorax and hemoperitoneum (<a href="17276125" class="bl">Leg Med (Tokyo) 2007;9:94</a>, <a href="29310980" class="bl">Am J Emerg Med 2018;36:838</a>)
+<li>Defibrillators may leave abrasions when they come in contact with the skin (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+<li>Thoracostomies can be interpreted as sharp force injury or may alter a pre-existing injury (<a href="30906584" class="gr">J Thorac Dis 2019;11:S186</a>)
+<li>Abdominal pressure during chest compressions may result in regurgitation of gastric contents mimicking aspiration (<a href="10718468" class="bl">Am J Med 2000;108:144S</a>)
+</ul>
+</ul>
+<li>Organ and tissue donation related artifacts:
+<ul>
+<li>Whole organs (heart, lungs, liver, kidneys, pancreas and adrenals) and tissues (skin, corneas / eyes, long bones, heart valves) may be procured for donation (<a href="10703386" class="bl">J Transpl Coord 1999;9:73</a>)
+<li>Donations may deplete the intravascular blood volume; request samples of blood to be taken at the time of organ donation and most tissue types of tissue donation; in addition, organ donors often have antemortem hospital blood samples and investigations which should be noted and seized for toxicology (<a href="17721166" class="bl">Am J Forensic Med Pathol 2007;28:202</a>)
+<li>Review surgical notes may be of some value in interpreting postsurgical changes (<a href="7825547" class="bl">Am J Forensic Med Pathol 1994;15:192</a>)
+<li>Skin donation often leaves wide, clean edged, even depth, rectangular abrasions (<a href="7825547" class="bl">Am J Forensic Med Pathol 1994;15:192</a>)
+<li>Eye donation may cause periorbital bruising (<a href="7825547" class="bl">Am J Forensic Med Pathol 1994;15:192</a>)
+<li>Obscure the cause of death: donation of the heart and lungs may involve the aorta and pulmonary vessels; surgical team should document and avoid altering area of prior aortic dissection or laceration; in addition, if a thromboembolus in the pulmonary vasculature is present at the time of donation this requires documentation and pathological evaluation (<a href="20375837" class="bl">Am J Forensic Med Pathol 2010;31:113</a>)
+</ul>
+<li>Autopsy related artifacts:
+<ul>
+<li>Autopsy is an innately destructive process and can cause artifacts (<a href="https://www.amazon.com/exec/obidos/ASIN/034097253X/pathologyoutl-20" class="bl">Saukko: Knight's Forensic Pathology, 4th Edition, 2015</a>)
+<li>Fracture of the cornua (horns) of the hyoid bone and thyroid cartilage can occur during removal of the neck structures; postmortem fractures of the cornua are free of hemorrhages; careful in situ dissection of the cornua can avoid this (<a href="21793475" class="bl">Med Sci Law 2011;51:109</a>) 
+<li>Prinsloo-Gordon hemorrhages: artefactual extravasation of blood into the tissues of the neck, most commonly seen on the posterior pharyngeal wall; removal of the brain and thoracoabdominal organs prior to neck dissection could help to minimize potential confusion with external neck compression (<a href="31239872" class="gr">Acad Forensic Pathol 2016;6:45</a>)
+<li>Base of skull fracture out of context: this fracture commonly occurs when a focal area of the inner table of the skull has not been completely cut with the oscillating saw and the key is used to pry the calvarium from the base of skull; a snap (i.e fracture) may be heard when the key fractures the base of skull (<a href="9610096" class="gr">J Pak Med Assoc 1998;48:49</a>)
+<li>Vitreous fluid sampling may cause scleral hemorrhage (<a href="https://www.amazon.com/exec/obidos/ASIN/084939287X/pathologyoutl-20" class="bl">DiMaio: Handbook of Forensic Pathology, 2nd Edition, 2006</a>)
+</ul>
+<li>Funerary artifacts:
+<ul>
+<li>General: Funerary practices are used to disinfect, preserve and alter the dead body to make it presentable for viewing (<a href="8074103" class="bl">Am J Forensic Med Pathol 1994;15:122</a>)
+<li>Preparing a body for a funeral includes (<a href="8074103" class="bl">Am J Forensic Med Pathol 1994;15:122</a>):
+<ul>
+<li>Changing the clothing, hair and applying make up
+<li>Shaving, which may cause skin abrasions
+<li>Restraints may be used to position the body and may mimic ligature marks
+<li>Mouth may be sutured closed or wired at the maxilla
+<li>Corneal caps inserted in the eyes to hold the eyelids in place
+<li>Embalming: those commonly encountered at the autopsy are arterial and cavity embalming
+<ul>
+<li>Arterial embalming is injecting embalming fluid into the vasculature, typically done through the neck, arms and legs which may cause dissection (<a href="1740984" class="bl">Med Sci Law 1992;32:58</a>)
+<li>Cavity embalming involves inserting a trochar into the abdominal cavity and using this opening to create multiple punctures into the organs before filling the cavity with embalming fluid 
+</ul>
+</ul>
+<li>Artifacts and other associated findings:
+<ul>
+<li>Some embalming fluid contains red dye which causes a false pink color similar to carbon monoxide poisoning (<a href="6708913" class="bl">Med Leg Bull 1984;33:1</a>)
+<li>Diminished intravascular blood volume due to its to removal from the embalming process (<a href="8074103" class="bl">Am J Forensic Med Pathol 1994;15:122</a>)
+<li>Trochar puncture sites may cause aortic dissection (<a href="26331806" class="bl">J Forensic Sci 2016;61:S246</a>)
+<li>Areas of postmortem clots are not macroscopically distinguished from thromobembolus 
+<li>Bruising (<a href="8074103" class="bl">Am J Forensic Med Pathol 1994;15:122</a>):
+<ul>
+<li>May become enhanced by blood being forced into these areas by the pressure of the embalming fluid
+<li>Exaggerate mild injury
+<li>Create the appearance of bruising where there was no antemortem trauma, this may happen in the embalming fluid injection site 
+</ul>
+<li>Undertaker’s fracture: fracture of the lower cervical spine (typically C6 - C7) during body transport or organ removal (<a href="https://www.researchgate.net/publication/322821573_Undertaker's_fracture_A_rare_artifact_discovered_at_autopsy" class="gr">Eur J Forensic Sci 2016;3:202</a>)
+</ul>
+<li>Toxicological analysis, if performed, must be interpreted with caution and ideally in conjunction with the embalming fluid used (<a href="24314535" class="bl">Forensic Sci Int 2013;233:312</a>)
+</ul>
+</ul>
+<br><span class="f11bi">Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.</span><br>
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench12.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Physicians attempted an emergency clamshell thoracotomy. This was associated with an abrasion to the axilla caused by the application of the clamshell and not related to the initial trauma.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench12.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Clamshell thoracotomy, abrasion from medical device</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench13.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Attempted chest tube insertion may be confused with a stab wound. The chest tube had been removed prior to transportation of the body to the morgue and the accompanying resuscitation report documented the attempt at placement.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench13.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Chest tube insertion site</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench14.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Postmortem skin donation of the back showing well defined edges with an even depth. Medical record also documents the tissue procurement procedure.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench14.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Tissue donation - skin</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench15.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Insertion access point for infusion of embalming fluid.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench15.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Embalming artifact</div>
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench16.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Mummification decomposition of a hand showing the characteristic double furrow of rodent teeth along the edges of removed soft tissue. There is no soft tissue hemorrhage.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench16.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Postmortem rodent predation</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench17.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Exposed soft tissues have been removed by birds, likely seagulls. The tendons are strung out and frayed. Note staining from bird droppings on the clothing.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench17.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Postmortem bird predation</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench18.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Shallow, linear loss of surface epidermis due to postmortem ant predation that mimics abrasion.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench18.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Ants mimicking abrasion</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench19.jpg" data-lightbox="forensicspostmortemtaphonomy" data-title="Shallow linear lesions in an area of livor mortis in the neck raised concern for suspicious activity at the scene. Ants at the scene and multiple other lesions on the body created by ant activity. There was no evidence of trauma.<br>Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrench19.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Ants mimicking abrasion in areas of livor mortis</div>
+</ul></div></div><div class="block_section" id="practicequestion1205983"><div class="topicheading_title">Practice question #1</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrenchbrq1.jpg" data-lightbox="forensicspostmortembrq1" data-title="Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrenchbrq1.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p></div>
+<br>
+What conditions are likely to result in this change? 
+<br><br>
+<ol class="liststyle2">
+<li>Cold and damp 
+<li>Hot and dry
+<li>Underground
+<li>Warm and humid 
+</ol></div></div><div class="block_section" id="practiceanswer1205984"><div class="topicheading_title">Practice answer #1</div><div class="block_body"><b>B.</b> A hot and dry environment can lead to natural mummification with desiccation and black discoloration of the tissue. 
+<br><br>
+<a href="#" class="contact_form_trigger">Comment Here</a>
+<br><br>
+Reference: <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html">Postmortem changes</a></div></div><div class="block_section" id="practicequestion2205985"><div class="topicheading_title">Practice question #2</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrenchbrq2.jpg" data-lightbox="forensicspostmortembrq1" data-title="Contributed by Karissa French, M.Res., M.D. and Rebekah Jacques, M.H.Sc., M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicspostmortemFrenchbrq2.jpg" onerror="this.src='http://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p></div>
+<br>
+What does this signify? 
+<br><br>
+<ol class="liststyle2">
+<li>Death due to carbon monoxide poisoning
+<li>Long postmortem interval 
+<li>Patterned object compressing vasculature 
+<li>Premortem blunt force trauma 
+</ol></div></div><div class="block_section" id="practiceanswer2205986"><div class="topicheading_title">Practice answer #2</div><div class="block_body"><b>C.</b> Patterned object compressing vasculature. Pattern caused by adhesive defibrillator pad.
+<br><br>
+<a href="#" class="contact_form_trigger">Comment Here</a>
+<br><br>
+Reference: <a href="https://www.pathologyoutlines.com/topic/forensicspostmortem.html">Postmortem changes</a></div></div></div>				<div class="page_content">
+									</div>
+				<div id="po_banner_bottom" class="section_bot po_banner_bottom">
+	<a href="https://www.pathologyoutlines.com/authors" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2024/10/20241001-100008_House-editorialboard-_1456x180_240202.png" alt="" class="section_img_bot" /></a></div>				<a class="back_to_top scrollto" href="#topic_page_top">Back to top</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Postmortem changes</div></div> </div> <!-- End page_content_container -->   
+    	<!-- typical footer area -->
+	<div id="mobile_footer">
+		<div class="mobile_signup_form"
+			 style="display:none;"		>
+			<div class="mobile_signup_form_col1">
+				<form enctype="application/x-www-form-urlencoded" method="post" action="http://visitor.constantcontact.com/d.jsp" target="_blank">					
+					<div class="mobile_signup">Sign up for our Email Newsletters</div>
+					<input type="text" placeholder="Email Address" name="ea" size="20" class="mobile_signup_email lineheight"><button type="submit" class="mobile_signup_submit lineheight">
+						<i class="fa fa-caret-right"></i>
+					</button>
+					<input type="hidden" value="JOIN" name="go" />
+					<input type="hidden" value="1102437360197" name="m" />
+					<input type="hidden" value="oi" name="p" />
+				</form>
+			</div>
+		</div>
+		<div class="mobile_footer_address">
+			<div><a href="#" class="contact_form_trigger">Comment</a></div>
+		</div>	
+		<div class="mobile_copyright">
+			<div>&copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.</div>
+					</div>
+	</div>
+    
+    <div id="footer">
+        <div class="footer_content">
+            <div class="content_section">
+                <div class="footer_twocolumn">
+                    <div class="col1 float_left">
+                        <div class="subcol1 float_left">
+                            <ul class="footer_nav fn1">
+                                <li><a href="https://www.pathologyoutlines.com">Home</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/aboutus.html">About Us</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/site/amazonhome.html">Amazon.com</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/review-questions">Board Review</a></li> 
+                                <li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li> 
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol2 float_left">
+                            <ul class="footer_nav fn2">
+                                <li><a href="https://www.pathologyoutlines.com/cme">CME (online)</a></li>
+                                <li><a href="#" class="contact_form_trigger">Comment Here</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/conferences">Conferences / Webinars</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/copyrightinfo.html">Copyright</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/FAQ.html">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships.html">Fellowships</a></li>   
+						<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol3 float_left">
+                            <ul class="footer_nav fn3">
+					   
+					   
+						 <li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/libraries.html">Libraries</a>
+							<!--<ul class="footer_subnav">
+								<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/topic/librarycovid19.html">COVID-19 resources</a></li>
+							</ul>-->
+						</li>
+
+                                <li><a href="https://shop.spreadshirt.com/pathologyoutlines/" target="_blank">Merchandise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/privacypolicy.html">Privacy Policy</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+                                
+                            </ul>
+                        </div>
+                        <br class="clearleft" />
+                    </div>
+                    <div class="col2 float_left">
+                        <div class="footer_logo">
+					   <img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" width="420" height="80" border="0" alt="" />
+                        </div>
+                        <div class="footer_address">
+                            <div>30150 Telegraph Road, Suite 119, Bingham Farms, Michigan 48025 (USA) </div>
+                            <div>Telephone: (248) 646-0325; Email: <a href="mailto:Comments@pathologyoutlines.com">Comments@pathologyoutlines.com</a></div>
+                        </div>
+				    <div class="footer_social">
+						<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+						<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-square-instagram"></span></a>
+						<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+						<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-square-youtube"></span></a>
+						<a href="https://www.threads.net/@pathoutlines" class="top_nav_icon" target="_blank" title="Threads"><span class="fa-brands fa-square-threads"></span></a>
+						<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						<a href="https://bsky.app/profile/pathologyoutlines.bsky.social" class="top_nav_icon" target="_blank" title="Bluesky"><span class="fa-brands fa-square-bluesky"></span></a>
+						<a href="https://www.reddit.com/r/PathologyOutlines" class="top_nav_icon" target="_blank" title="Reddit"><span class="fa-brands fa-square-reddit"></span></a>
+				    </div>
+                        <div class="signup_form">
+                            <div class="float_left signup_form_col1">
+                                <form enctype="application/x-www-form-urlencoded" method="post" action="https://visitor.constantcontact.com/d.jsp" target="_blank">
+                                    <div class="signup">Sign up for our Email Newsletters</div>
+                                    <input type="text" placeholder="Email Address" name="ea" size="20">
+                                    <input type="submit" name="go" value="JOIN">
+                                    <input type="hidden" value="1102437360197" name="m">
+                                    <input type="hidden" value="oi" name="p">
+                                </form>
+                            </div>
+                            <br class="clearleft" />
+                        </div>
+                    </div>
+                    <br class="clearleft" />
+                </div>
+                <div class="footer_additional">
+                    This website is intended for pathologists and laboratory personnel but not for patients.  We welcome suggestions or questions about using the website. However, we cannot answer medical or research questions or give advice.
+                </div>
+            </div>
+        </div>
+        <div id="footer_copy">
+            <div class="content_section">
+                &copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.
+            </div>
+        </div>
+    </div>
+    <div id="modaloverlay" style="display:none;"></div>
+    <div class="loading_modal" style="display:none;">
+        <div style="height: 35px;text-align: center;margin: 10px 0;">
+            <div class="loading_spinner position1"></div>
+        </div>
+        <div id="loading_modal_message">Processing</div>
+    </div>
+    <div class="notification" style="display:none;"><div class="inner"></div></div>
+    <div style="display:none;">
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/ntbg3.png" width="1" height="1" alt="Image 01" />
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/loader-sprite.png" width="1" height="1" alt="Image 02" />
+	</div>
+   
+					<div id="admin_bar">
+					<div class="footer_menu_icon_wrapper"><a href="#" class="footer_menu_icon"><span class="fa fa-navicon"> Administration</span></a></div>
+					<div class="admin_inner">
+						<div class="admin_links">
+							<div><a href="https://www.pathologyoutlines.com/admin/page-list"><img src="https://www.pathologyoutlines.com/apple-touch-icon.png" alt="" style="height:18px;width:auto;vertical-align:middle;" />&nbsp;&nbsp;Pathology Outlines Administration</a></div>
+							<ul>
+															</ul>    
+						</div>
+						<div class="admin_bar_account_links">
+							<div class="admin_bar_section admin_bar_label cursor_default">
+								Signed in as: pathout@mediag.com							</div>
+							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/user?id=2"><span class="fa fa-fw fa-gear"></span></a></div>							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/logout"><span class="fa fa-fw fa-sign-out"></span>Log Out</a></div>
+						</div>
+					</div>
+				</div>
+				</body>
+</html>

@@ -1,0 +1,1382 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<base href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank" />	<meta charset="utf-8" />
+	<title>Pathology Outlines - Asphyxia</title>
+
+	<meta name="description" content="Asphyxia is a generic term that indicates a condition in which there is an interference with respiration due to the lack of oxygen in the air or in the blood, failure of cells to utilize oxygen or failure of the body to eliminate carbon dioxide
+" />	
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="resource-type" content="document">
+	<meta name="revisit-after" content="1 days">
+	<meta name="distribution" content="global">
+	<meta name="rating" content="general">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<!-- social meta tags -->
+	<meta property="og:image" content="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo_for_social.jpg" />
+	<meta property="og:title" content="Asphyxia"/>
+	<meta property="og:url" content="https://www.pathologyoutlines.com/scratchpad"/>
+	<meta property="og:description" content="Asphyxia is a generic term that indicates a condition in which there is an interference with respiration due to the lack of oxygen in the air or in the blood, failure of cells to utilize oxygen or failure of the body to eliminate carbon dioxide
+" />		
+	<!--<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/favicon.ico" />-->
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://www.pathologyoutlines.com/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.pathologyoutlines.com/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.pathologyoutlines.com/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.pathologyoutlines.com/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.pathologyoutlines.com/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.pathologyoutlines.com/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.pathologyoutlines.com/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon-180x180.png" />
+		
+	<!--<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/reset.css" rel="stylesheet" type="text/css" />-->
+	<!--<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/font-awesome-4.6.3/css/font-awesome.min.css" type="text/css" />--><!-- font awesome -->
+	<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/fontawesome-free-6.7.2-web/css/all.css" type="text/css" /><!-- font awesome -->
+	
+	<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,700italic,400italic,900,900italic' rel='stylesheet' type='text/css'>-->
+	
+	<link href="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/css/lightbox.css" rel="stylesheet" />
+
+	<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/main.css?ver=1.3.27" rel="stylesheet" />
+	
+	
+	
+				<!--Load the Cookiebot script-->
+			<!--<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="8539fe38-38ce-448a-beb8-edb691018d2d" data-blockingmode="auto" type="text/javascript"></script>-->
+				
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M3KDZ8R');</script>
+	
+		<SCRIPT type="text/javascript" src="https://bh.contextweb.com/cp?p=7932&token=9PIYNQQEOW8T&ch=1" async></SCRIPT>
+		<script src="https://servedbydoceree.doceree.com/resources/p/doc_ad/23/217/dc.js" data-siteId="217" data-platId="1" data-pubId="23"></script>
+					<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.1.8.3.min.js"></script>
+				<!--<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.3.5.1.min.js"></script>-->
+				<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/scripts.js?ver=1.3.0"></script>
+				
+				<script src="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/js/lightbox.min.js"></script>	
+							<!--Load the AJAX API-->
+				<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+						
+		<script type="text/javascript">
+			/* embed code starts */
+			var _vbset = _vbset || [];
+			_vbset.push(['_account', 'VBT-52731-2101']);
+			_vbset.push(['_domain', 'http://pathologyoutlines.com']);
+
+			(function() {
+				var vbt = document.createElement('script'); vbt.type = 'text/javascript'; vbt.async = true; 
+				vbt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.vbt.io/tracker?_account='+_vbset[0][1]+'&_domain='+_vbset[1][1];var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vbt, s);
+			})();
+			/* embed code ends */
+		</script>
+		
+				<script>window.sa_event=window.sa_event||function(){var a=[].slice.call(arguments);window.sa_event.q?window.sa_event.q.push(a):window.sa_event.q=[a]};</script>
+		
+		</head>
+<body
+	 class="loggedin">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3KDZ8R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<input type="hidden" id="server_root" value="" />
+	<input type="hidden" id="site_protocol" value="https://" />
+	<input type="hidden" id="pageurl" value="https://www.pathologyoutlines.com/scratchpad" />
+	
+		<div class="mobile_content" id="mobile_navigation">
+		<form action="https://www.google.com/cse" id="cse-search-box" class="clearfix cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+			<input type="search" class="mobile_search" name="q" placeholder="Search Site" style="width:85%;padding:15px 25px;border:none;font-family:inherit;font-size:inherit;" />
+			<!--<input type="submit" name="sa" class="float_right" style="background: #fff url('images/icon_search.jpg') no-repeat scroll 100% 0;padding: 15px 12px;" />-->
+			<button type="submit" name="sa" class="menu_caret" style="float:right;padding:15px 20px 9px 9px;color:#8381cd;background-color:#fff; width: auto; height:100%;cursor:pointer;border:none;">
+				 <i class="fa fa-search"></i>
+			  </button>
+		</form>
+		<div class="mobile_logo">
+			<a href="https://www.pathologyoutlines.com" class="mobile_logo_img" target="_self"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="" /></a><div class="menu_icon_wrapper"><a href="#" class="menu_icon"><span class="fa fa-navicon"></span></a><div class="menu_text">Menu</div></div>		</div>
+		<div class="mobile_ad_wrapper"
+				 style="display:none;"			>
+			
+			<div class="featured_box_mobile"><div><div class="mobile_ad">
+
+<!-- Mobile Home Page Ad [ENABLE MOBILE ONLY!] [js] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid359714 = window.pid359714 || rnd;
+var plc359714 = window.plc359714 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=175977;size=0x0;setID=359714;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid359714+';place='+(plc359714++)+';rnd='+rnd+'';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+<!-- Preserving standard code during AdButler deployment
+<a href="http://www.pathologyoutlines.com/site/mobile_Homepage_Redirect.html" target="_blank">
+    <img src="http://www.pathologyoutlines.com/site/Roche_HP_Mobile_240701.jpg" width="468"  border="0">
+</a>
+-->
+
+</div>
+
+</div></div>		</div>
+		
+		<div class="mobile_nav 
+			"		>
+			<ul id="mobile_menu">
+				<li class="mobile_menu_item clearfix">
+					<a href="#" id="chaptersubspecialty_menu">Chapters By Subspecialty <span id="chaptersubspecialty_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="chaptersubspecialty_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li>					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/jobs" target="_self">Jobs</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/fellowships" target="_self">Fellowships</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/conferences" target="_self">Conferences / Webinars</a></li>
+				<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Authors <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/directory" target="_self">Directory</a></li>
+				<!--<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Directory <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+					</ul>
+				</li>-->
+				
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/books" target="_self">Books</a></li>
+				<!--<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/review-questions" target="_self">Question Bank</a></li>
+				<li class="mobile_menu_item last">
+					<a href="#" id="other_menu">Other Links <span id="other_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="other_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/aboutus.html" target="_self">About Us</a></li>
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm" target="_self">Cases</a></li>
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html" target="_self">CCN</a></li>
+						<li><a href="https://www.pathologyoutlines.com/cme" target="_self">CME (online)</a></li>
+						<li><a href="#" class="contact_form_trigger">Comment</a></li>
+						<li><a href="https://www.pathologyoutlines.com/contactus.html" target="_self">Contact Us</a></li>	
+						<li><a href="https://www.pathologyoutlines.com/FAQ.html" target="_self">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/crossword.html" target="_self">Games</a></li>
+						<li><a href="https://www.pathologyoutlines.com/grants.html" target="_self">Grants</a></li>
+						<!--<li>
+							<a href="#" class="sub_menu">Libraries <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a>
+							<ul class="hide subspecialty_sub_menu" style="display:none;">
+								<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+								<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+							</ul>
+						</li>-->					
+						<li><a href="https://www.pathologyoutlines.com/subscribe.html" target="_self">Newsletters</a></li>
+						<li><a href="https://www.pathologyoutlines.com/monthlystats.php" target="_self">Statistics</a></li>
+						<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html" target="_self">Testimonials</a></li>
+						<li><a href="https://www.youtube.com/channel/UCr-ov_ZWvCSHHMq-g-SHJJA" target="_blank">Videos</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+		
+	<div id="navigation">
+		<div id="top_nav" style="height:35px; background: url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_topnav.jpg') repeat-x scroll 0 0 transparent;">
+			<div class="content_section" style="display:flex;justify-content:space-between;">
+				<div class="top_nav_left">
+					<ul>
+						<!--<li class="first"><a href="https://www.pathologyoutlines.com"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_home.png" alt="" height="11px" width="14px" /></a></li>-->
+						<li class="first"><a href="https://www.pathologyoutlines.com" title="Home"><span class="fa fa-home" style="font-size: 14px;"></span></a></li>
+						<li class="nav_dropdown closed">
+							<a href="#" title="Chapters">Textbook</a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li></ul><ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li></ul><ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li></ul>										<!--<ul class="clearfix navcol1" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; border-left: 1px solid #ccc;*/padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+										</ul>
+										<ul class="clearfix navcol3" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;">
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 1</a></li>
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 2</a></li>
+										</ul>-->
+									</div>
+								</div>
+							</div>
+						</li>
+						<li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships">Fellowships</a></li>
+						<li><a href="https://www.pathologyoutlines.com/conferences">Conferences</a></li>
+						
+						<li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/directory">Directory <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+						<li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>-->
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li>
+						
+						<!--<li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>-->
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/payment.php">Payment</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>-->
+						
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/libraries.html">Libraries <span class="subnav_carrot"><span class="fa fa-caret-left"></span></span></a>
+							<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+					</ul>
+					<br class="clear_left" />
+				</div>
+				<div class="top_nav_right">
+					<div style="display: flex;justify-content: flex-end;">
+						<!--<div class="float_left" style="color: #fff;font-size: 19px;padding: 7px 0 0;">
+							<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+							<a href="https://twitter.com/pathoutlines" class="top_nav_icon" target="_blank" title="Twitter"><span class="fa-brands fa-x-twitter-square"></span></a>
+							<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-instagram"></span></a>
+							<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+							<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-youtube"></span></a>
+							<a href="https://med-mastodon.com/@pathout" class="top_nav_icon" target="_blank" title="Mastodon"><span class="fa-brands fa-mastodon"></span></a>
+							<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						</div>-->
+						<!--<form action="https://www.google.com/cse" id="cse-search-box" class="float_left">
+							<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+							<input type="text" class="top_nav_search float_left" name="q" placeholder="Search Site" />
+							<input type="submit" name="sa" class="float_left" style="background: #fff url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_search.jpg') no-repeat scroll 0 0;" />
+						</form>-->
+						<script async src="https://cse.google.com/cse.js?cx=partner-pub-3521518608648020:8640627894"></script>
+						<div class="gcse-searchbox-only" enableAutoComplete="true" data-newWindow="true" data-resultsUrl="https://www.pathologyoutlines.com/search-results"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="mid_nav">
+			<div class="content_section">
+				<div style="display:flex;justify-content:space-between;">
+					<div class="logo">
+						<a href="
+							https://www.pathologyoutlines.com/						">
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo.png" alt="logo"  height="115px" width="470px" />-->
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Header_Logo2_Silver_Anniversary_470x79_202206.png" alt="logo"  height="115px" width="470px" />-->
+							<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="logo"  height="80" width="420" border="0" />
+						</a>
+					</div>
+					<div class="top_units">
+						<!--<div class="sponsor_header align_center" style="color: #fff;">Platinum Level Sponsors</div>-->
+						<div style="display:flex;justify-content:space-between;">
+							<div class="top_unit1">
+								<!-- ad unit 1 -->
+								<!-- Header Left -->
+
+<!-- Header - Left Side [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc475437 = window.plc475437 || 0;
+document.write('<'+'div id="placement_475437_'+plc475437+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 475437, [225,125], 'placement_475437_'+opt.place, opt); }, opt: { place: plc475437++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/uscap25.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/house-USCAP-225x12511.png"="width: 225px" /></a>
+-->							</div>
+							<div class="top_unit2">
+								<!-- ad unit 2 -->
+								<!-- Header Right -->
+
+<!-- Header - Right side NEW [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc552089 = window.plc552089 || 0;
+document.write('<'+'div id="placement_552089_'+plc552089+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 552089, [225,125], 'placement_552089_'+opt.place, opt); }, opt: { place: plc552089++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/site/Header_01_Right_Redirect.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/CastleBios-header-right-240901.png" /></a>
+-->							</div>
+						</div>
+					</div>
+					<!--<br class="clearleft" />-->
+				</div>
+				<div id="news">
+					We have posted a new Founder's Corner video <a href="https://www.youtube.com/shorts/w2tzoB_871c" target="_blank">here</a>.				</div>
+			</div>
+		</div>
+		<div id="bot_nav" style="background: transparent url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_botnav.jpg') repeat-x;">
+			<div class="content_section">
+				<ul style="display:flex;justify-content:space-between;">
+					<!--<li class="first"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/apps.html">Apps</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>-->
+					<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/authors">Authors <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+												<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+							<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+								<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+									<!--
+									<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">List of Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+										
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									-->
+									
+									<ul class="clearfix navcol1" style="padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 30px;padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+									</ul>
+									<ul class="clearfix navcol4" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									<ul class="clearfix navcol5" style="padding-left: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorawards.html">Author Awards</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+					<li><a href="https://www.pathologyoutlines.com/review-questions">Question Bank</a></li>
+					<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+					<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>
+					<li><a href="#" class="contact_form_trigger">Comment</a></li>
+					<li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+					<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+					<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+					<!--<li><a href="https://www.pathologyoutlines.com/getinvolved.html">Get Involved</a></li>-->
+					<li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+					<li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+					<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+					
+				</ul>
+				<!-- <br class="clear_left" /> -->
+			</div>
+		</div>
+	</div>
+	<div id="page_content_container">
+	<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Asphyxia</div></div>
+<div id="main_content">
+	<div class="content_section">
+		<div class="min_content">
+			<div id="topic_page_top" class="topic_page">
+				<div id="po_banner_top" class="section_top po_banner_top">
+	<a href="mailto:comments@pathologyoutlines.com?subject=Email Address Change" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/6/20250603-132930_728x90-Update-Your-Email-Address.png" alt="" class="section_img_top" /></a></div>				<div class="authorship_wrapper clearfix">
+					<div class="authorship floatleft">
+						<h1>Autopsy & forensics</h1><h2>Types of injuries</h2><h3>Asphyxia</h3><br><div class="topic_page_author_section"><div class="topic_page_author_box"><div id="page-author-section"><div><div><strong>Authors:&nbsp;</strong><a href="https://www.pathologyoutlines.com/authors?id=870&pap=5" target="_blank">Lorenzo Gitto,  M.D.</a>, <a href="https://www.pathologyoutlines.com/authors?id=1166&pap=5" target="_blank">Ponni Arunkumar, M.D.</a></div><div><strong>Deputy Editor-in-Chief:&nbsp;</strong>Patricia Tsang, M.D., M.B.A.</div></div><div class="topic_page_image_box mobile"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=870&pap=5" target="_blank" title="Lorenzo Gitto,  M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2023/7/thumbs/20230725-105612_lorenzogitto.png" alt="Lorenzo Gitto,  M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=1166&pap=5" target="_blank" title="Ponni Arunkumar, M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2021/8/thumbs/20210805-143901_Dr.ArunkumarPhoto.png" alt="Ponni Arunkumar, M.D." /></a></div></div></div><br /><div id="page-topic-complete-date"><strong>Last author update:</strong> 18 July 2022</div><div id="page-lastedit"><strong>Last staff update:</strong> 18 July 2022</div><br /> <b>Copyright</b>: 2012-2025, PathologyOutlines.com, Inc.<br><br>
+<b>PubMed search</b>: <a href="https://pubmed.ncbi.nlm.nih.gov/?term=asphyxia%5Btitle%5D+pathology+%22last+5+years%22%5BDP%5D">Asphyxia</a> </div><div><br /><div class="topic_page_image_box desktop"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=870&pap=5" target="_blank" title="Lorenzo Gitto,  M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2023/7/thumbs/20230725-105612_lorenzogitto.png" alt="Lorenzo Gitto,  M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=1166&pap=5" target="_blank" title="Ponni Arunkumar, M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2021/8/thumbs/20210805-143901_Dr.ArunkumarPhoto.png" alt="Ponni Arunkumar, M.D." /></a></div></div></div></div>					</div>
+					<div id="po_banner_side" class="section_authorship floatleft po_banner_side">
+	<a href="https://www.pathologyoutlines.com/booksrecommended.html" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/5/20250501-111058_house-recommendedbooks-300x250.png" alt="" class="section_img_authorship" /></a></div>				</div>
+				<div class="meta_contents" style="margin-bottom:25px;"><div><strong>Page views in 2024:</strong> 15,596</div><div><strong>Page views in 2025 to date:</strong> 5,103</div></div><div id="po_banner_top2" class="section_top po_banner_top2">
+	</div><div class="table_of_contents"><div class="topicheading_title toc">Table of Contents</div><a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#definitiongeneral366964" class="scrollto">Definition / general</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#essentialfeatures366965" class="scrollto">Essential features</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#classification366966" class="scrollto">Classification</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#pathophysiology366967" class="scrollto">Pathophysiology</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#generalpostmortemfindings366968" class="scrollto">General postmortem findings</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#microscopicfindings366969" class="scrollto">Microscopic findings</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#suffocation366970" class="scrollto">Suffocation</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#strangulation366971" class="scrollto">Strangulation</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#mechanicalasphyxia366972" class="scrollto">Mechanical asphyxia</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#drowning366973" class="scrollto">Drowning</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#specialtypes366974" class="scrollto">Special types</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#casereports366975" class="scrollto">Case reports</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#clinicalimages366976" class="scrollto">Clinical images</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#grossimages366977" class="scrollto">Gross images</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#practicequestion1366978" class="scrollto">Practice question #1</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#practiceanswer1366979" class="scrollto">Practice answer #1</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#practicequestion2366980" class="scrollto">Practice question #2</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#practiceanswer2366981" class="scrollto">Practice answer #2</a></div><div class="table_of_contents" style="word-break: break-all;-webkit-hyphens: auto;-moz-hyphens: auto; hyphens: auto;"><strong>Cite this page:</strong> Gitto L, Arunkumar P. Asphyxia. PathologyOutlines.com website. https://www.pathologyoutlines.com/topic/forensicsasphyxia.html.  Accessed June 17th, 2025.</div><div class="block_content"><div class="block_section" id="definitiongeneral366964"><div class="topicheading_title">Definition / general</div><div class="block_body"><!-- START part of /topic/forensicsasphyxia.html to be edited by PathOut staff -->
+
+<ul>
+<li> Asphyxia: generic term that indicates a condition resulting from an interference with respiration due to the lack of oxygen in the air or in the blood, a failure of cells to utilize oxygen or a failure of the body to eliminate carbon dioxide
+<ul>
+<li> Body does not receive or utilize an adequate amount of oxygen
+<li> Impairment of oxygen and carbon dioxide exchange
+<li> Loss of consciousness and death result from progressive hypoxia / anoxia
+</ul>
+</ul></div></div><div class="block_section" id="essentialfeatures366965"><div class="topicheading_title">Essential features</div><div class="block_body"><ul>
+
+<li> Numerous classifications are reported in the literature
+<li> Types of asphyxia: suffocation (smothering, choking, confined space and vitiated atmosphere), strangulation (hanging, manual strangulation, ligature strangulation), mechanical (positional, compression), drowning, special types (autoerotic, incaprettamento, judicial hanging, mass suicide hanging)
+<li> 3 main mechanisms: respiratory, vascular and nervous
+<li> External findings are nonspecific but may support the diagnosis: ligature marks, petechiae, cyanosis
+<li> Internal findings suggestive of asphyxia: hyoid and larynx injuries, neck muscles hemorrhage, visceral petechiae
+
+</ul></div></div><div class="block_section" id="classification366966"><div class="topicheading_title">Classification</div><div class="block_body"><ul>
+
+<li>	Numerous classifications are reported in the forensic literature (<a href="20561144" class="bl">J Forensic Sci 2010;55:1259</a>):
+<ul>
+<li>	A comprehensive classification of asphyxia in the forensic context includes:
+<ul>
+<li>	Suffocation: asphyxia due to the mechanical obstruction of the respiratory orifices or inadequate amount of oxygen in the environment (smothering, choking, confined spaces / vitiated atmosphere) (<a href="30013708" class="gr">West J Emerg Med 2018;19:707</a>)
+<li>	Strangulation: asphyxia due to external compression of the neck using the body's own weight or a force other than the body's weight (hanging, ligature strangulation, manual strangulation) (<a href="21769225" class="gr">J Emerg Trauma Shock 2011;4:320</a>)
+<li>	Mechanical asphyxia: asphyxia due to impaired breathing secondary to the body being in an unnatural position or severe compression to the neck, chest or other areas of the body that make respiration difficult or impossible (positional asphyxia, traumatic asphyxia, smothering, choking and strangulation)
+<li>	Drowning: asphyxia due to partial or complete submersion of the body in a liquid resulting in liquid inhalation, impairment of pulmonary exchanges and oxygen deprivation (<a href="31240023" class="gr">Acad Forensic Pathol 2018;8:8</a>)
+<li>	Special types: asphyxias that show combined or unusual mechanisms
+</ul>
+</ul></div></div><div class="block_section" id="pathophysiology366967"><div class="topicheading_title">Pathophysiology</div><div class="block_body"><ul>
+
+<li> Classically, asphyxia has been described as the result of the impairment of 3 components (single or combined) (<a href="20456578" class="bl">J Forensic Sci 2010;55:1268</a>)
+<ul>
+<li>	Respiratory: obstruction of the airways or impairment of respiration
+<ul>
+<li> Usually, it is not the primary mechanism
+<li> Results in progressive or sudden partial pressure of oxygen (PO2 - the amount of oxygen gas dissolved in the blood) reduction until it reaches levels that are incompatible with life
+</ul>
+<li> Vascular: compression of the neck vessels
+<ul>
+<li> Vascular mechanism is responsible for the rapid loss of consciousness
+<li> Significant arterial blood flow reduction (carotid arteries account for approximately 67% of cerebral blood flow)
+<li> Jugular vein compression resulting in stasis and congestion
+</ul>
+
+<li> Nervous: the compression or stimulation of specific reflex areas of the neck may result in immediate death
+<ul>
+<li> Carotid sinus: located at the base of the internal carotid artery just superior to the bifurcation of the internal carotid and external carotid; compression of the carotid sinus is a hypothesized cause of sudden death (<a href="23786368" class="bl">J Forensic Sci 2013;58:1644</a>)
+<li> Vagus nerve: vagal stimulation is a known cause of potential life threatening cardiac events, including cardiac arrest and sudden death (<a href="26829412" class="bl">Head Neck 2016;38:E2419</a>, <a href="21357371" class="bl">Heart 2011;97:623</a>)
+
+</ul>
+</ul></div></div><div class="block_section" id="generalpostmortemfindings366968"><div class="topicheading_title">General postmortem findings</div><div class="block_body"><ul>
+
+<li> External findings: 
+<ul>
+<li> Nonspecific but may support the diagnosis in the context of a thorough medicolegal investigation
+<li> Ligature marks: marks made by any cord-like objects used for the purposes of strangulation
+<ul>
+<li> Different patterns and features (see <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#forensicsasphyxiastrangulation" class="scrollto">Strangulation</a>)
+</ul>
+<li> Petechiae: pinpoint hemorrhages frequently observed in asphyxia related deaths
+<ul>
+<li> Caused by an acute rise in venous pressure, resulting in overdistension and rupture of thin walled vessels (<a href="12062943" class="bl">Forensic Sci Int 2002;126:210</a>, <a href="22101438" class="bl">Am J Forensic Med Pathol 2011;32:378</a>)
+<li> Generally observed on the face and eyes but can also be seen on the chest or neck
+<li> Conjunctiva is the most common location (<a href="3354519" class="bl">Am J Forensic Med Pathol 1988;9:32</a>)
+<li> Overstretching of the eyelids may help in highlighting petechiae on their external surface
+<li> Can also be found in other types of deaths (<a href="11110181" class="bl">J Forensic Sci 2000;45:1274</a>)
+<li> Prone position of the body may result in petechiae formation due to hypostatic blood redistribution (<a href="30390281" class="gr">Forensic Sci Med Pathol 2019;15:13</a>)
+<li> Cardiopulmonary resuscitation can result in artifactual conjunctival petechiae (<a href="20129428" class="bl">J Forensic Leg Med 2010;17:87</a>)
+</ul>
+<li> Cyanosis: bluish discoloration of the skin
+<ul>
+<li> From the Greek term &kappa;&upsilon;&alpha;&nu;&#972;&sigmaf;, which means dark blue
+<li> Depends on the absolute amount of reduced hemoglobin in the arterial blood
+<li> Requires at least 5 g of reduced hemoglobin per 100 mL arterial blood (<a href="32644593" class="gr">StatPearls: Central and Peripheral Cyanosis [Accessed 20 May 2022]</a>)
+<li> In asphyxia with neck compression, cyanosis is typically observed on the face as a result of the jugular veins obstruction, which prevents adequate venous return from the cerebral circulation (<a href="25899291" class="bl">J Forensic Sci 2015;60:1216</a>)
+<li> Postmortem lividity may mimic facial cyanosis if the victim was found in a prone position: let the body rest for 12 - 24 hours in a supine position to evaluate the attenuation of the lividity and distinguish it from real cyanosis (<a href="30864959" class="bl">Am J Forensic Med Pathol 2019;40:129</a>)
+</ul>
+</ul>
+
+<li>	Autopsy findings: neck injuries may be observed in asphyxias with neck compression mechanisms
+<ul>
+<li>	Layer by layer dissection of the anterior neck following vascular decompression of the neck is critical to evaluate the neck structures (<a href="31239872" class="gr">Acad Forensic Pathol 2016;6:45</a>)
+<li>	Hyoid bone:
+<ul>
+<li>	U shaped bone located in the neck anteriorly between the mandible and the larynx
+<li>	More commonly injured in homicides (<a href="8934706" class="bl">J Forensic Sci 1996;41:110</a>)
+<li>	Fractures are more commonly observed in manual strangulation than in ligature strangulation (<a href="20206574" class="bl">Leg Med (Tokyo) 2010;12:113</a>)
+<li>	Less frequently injured in hanging than in strangulation; mostly observed in lateral hangings (<a href="30015282" class="bl">Forensic Sci Int 2018;290:70</a>, <a href="https://imsear.searo.who.int/handle/123456789/134738" class="bl">Journal of Indian Academy of Forensic Medicine 2005;27:149</a>)
+<li>	The younger the individual, the greater the force required to fracture the hyoid bone (<a href="23597739" class="bl">Forensic Sci Int 2013;228:47</a>)
+<li>	Histology is rarely required but may help in identifying hyoid fractures in the absence of grossly visible hemorrhage (<a href="22350822" class="bl">Forensic Sci Med Pathol 2012;8:307</a>)
+</ul>
+<li>	Larynx (<a href="31239923" class="gr">Acad Forensic Pathol 2016;6:486</a>):
+<ul>
+<li>	Injuries generally seen in homicide by manual strangulation
+<li>	Less frequent in hanging
+<li>	May occur after an accidental fall or sport activities
+<li>	Possible injuries following resuscitation maneuvers (<a href="10208333" class="bl">Am J Forensic Med Pathol 1999;20:31</a>)
+</ul>
+<li>	Neck muscles:
+<ul>
+<li>	Muscles hemorrhage may be found in neck compressions
+<li>	It can be difficult to differentiate the hemorrhages associated with postmortem hypostasis from true bruising caused by strangulation (<a href="19901802" class="gr">Am J Forensic Med Pathol 2009;30:322</a>)
+<li>	Bodies found in the prone position typically show extensive lividity involving the face and neck, which may result in hypostatic hemorrhages within the soft tissues of the neck
+<li>	Hemorrhages may be the result of medical treatments or artifact due to resuscitation maneuvers (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+</ul>
+<li>	Visceral petechiae (subpleural or subepicardial) are not specific since they can be observed in asphyxia as well other conditions, such as sepsis and infections
+<li>	Congestion and edema:
+<ul>
+<li>	Can be seen in any autopsy (nonspecific)
+<li>	Due to obstructed venous return and subsequent tissues swelling
+<li>	Generally observed on the face, neck and chest organs
+</ul>
+</ul></div></div><div class="block_section" id="microscopicfindings366969"><div class="topicheading_title">Microscopic findings</div><div class="block_body"><ul>
+
+<li> Skin:
+<ul>
+<li> Microscopic examination may be used to determine if a ligature mark on the neck was produced before death or postmortem (<a href="28692478" class="bl">Am J Forensic Med Pathol 2017;38:211</a>)
+<li> Common findings: breaking, wrinkling and compression of skin along with micro hemorrhages and inflammatory changes in subcutaneous tissues (<a href="https://doi.org/10.15436/2471-061X-16-018" class="gr">J Addict Depend 2016;2:1</a>)
+</ul>
+<li> Lungs:
+<ul>
+<li> Acute pulmonary emphysema with septal rupture and hemorrhage, foreign bodies aspiration, congestion, interstitial and intra-alveolar edema, alveolar hemorrhage (<a href="11394747" class="gr">Am J Forensic Med Pathol 2001;22:139</a>, <a href="27448112" class="bl">Int J Legal Med. 2016;130:1281</a>)
+</ul>
+</ul></div></div><div class="block_section" id="suffocation366970"><div class="topicheading_title">Suffocation</div><div class="block_body"><ul>
+<li>	Broad spectrum of conditions
+<li> Generally indicates a mechanical obstruction of the respiratory orifices or inadequate oxygen in the environment, resulting in the failure of oxygen to reach the blood
+<ul>
+<li> Respiratory component is the primary mechanism involved in this type of asphyxia
+</ul>
+</ul>
+<br>
+
+<a id="forensicsasphyxiasmothering"></a>
+<b>Smothering</b>
+<ul>
+<li> Mechanical obstruction of the mouth and nose by hands, soft or hard material, or mobile solids able to block airflow
+<li> Autopsy findings may be minimal or absent
+<li> Homicide:
+<ul>
+<li> Victims are usually elderly, children or debilitated subjects
+<li> Requires a remarkable physical disproportion between the aggressor and the victim
+<li> Usually committed by hands or other material (pillows, cloth, adhesive tape, etc.)
+<li> Autopsy findings:
+<ul>
+<li> Usually scarce
+<li>	Tears and lacerations of the labial, buccal and gingival mucosa
+<li> Nasal bleeding and nasal bone fractures
+<li> Facial abrasions
+<li> Presence of facial injuries may indicate that the victim was alive and actively tried to resist the aggression
+<li> If a pillow or a cloth is used, vital aspiration of fabric fibers may be proved at histology (<a href="19621234" class="bl">Int J Legal Med 2009;123:517</a>)
+</ul>
+<li> Pediatric deaths: 
+<ul>
+<li> Usually no external signs due to the physical disproportion between aggressor and victim
+<li> Difficult to prove
+</ul>
+</ul>
+<li> Suicide:
+<ul>
+<li> Less common than homicides
+<li> Plastic bag suffocation is the main method of suicidal smothering (<a href="27404609" class="bl">J Forensic Sci 2016;61:361</a>)
+<ul>
+<li> Head is inside a limited space
+<li> During inspiration, the plastic bag adheres to the face, obstructing the mouth and nostrils
+<li> There is a combined mechanism of mechanical obstruction and rapid oxygen depletion (see <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#forensicsasphyxiavitiated" class="scrollto">Vitiated atmosphere</a>)
+<li> Can be combined with inert gas inhalation
+<li> Can be homicidal (when the victim is impaired)
+<li> Can be accidental (children playing with plastic bags)
+</ul>
+</ul>
+<li> Accident: 
+<ul>
+<li> Typically observed in children
+<li> Investigation findings and clinical history typically support the diagnosis (<a href="19030315" class="gr">Paediatr Child Health 2006;11:493</a>)
+<li> Rarely observed in adults (<a href="1740987" class="bl">Med Sci Law 1992;32:68</a>)
+<li> Soft bedding: the infant's airway is obstructed by an adult mattress, blanket, pillow, couch cushion or other soft object in the immediate sleep environment (<a href="31010907" class="gr">Pediatrics 2019;143:e20183408</a>)
+</ul>
+</ul>
+</ul><br>
+
+<a id="forensicsasphyxiachoking"></a>
+
+<b>Choking</b>
+
+<ul>
+<li> Occlusion (partial or total) of the airways by foreign bodies, leading to respiratory blockage and potentially death
+<li> Can be observed in any age category but typically in the elderly and children
+<li> Diagnosis is usually suspected based on the clinical history
+<li> Diagnosis is confirmed at autopsy when the airway is found occluded and the foreign body is retrieved
+<li> Accident is the most common manner of death in choking
+<ul>
+<li> Elderly: typically in subjects with poor dentition, neurologic deficit, swallowing problems or psychiatric disorders (<a href="17209932" class="bl">J Forensic Sci 2007;52:176</a>)
+<ul>
+<li> Food is the most common foreign body
+</ul>
+<li> Children: typically occurs while playing
+<ul>
+<li> Multiple possible foreign bodies: food, toys, coins, batteries, etc. (<a href="26168587" class="gr">Mo Med 2015;112:181</a>)
+</ul>
+<li> Alcohol and drugs may increase the risk of choking in otherwise healthy subjects (<a href="20666919" class="bl">J Forensic Sci 2011;56:128</a>)
+<ul>
+<li> Ethanol inhibits the elicitation of the upper esophageal sphincter contractile reflex and reflexive pharyngeal swallow (<a href="19550414" class="gr">Am J Gastroenterol 2009;104:2431</a>)
+</ul>
+<li> Caf&eacute; coronary syndrome: sudden collapse of apparently healthy subjects during meals in the absence of any sign of asphyxia, respiratory distress or neurological symptoms (<a href="34763548" class="bl">Med Leg J 2021;89:264</a>)
+<ul>
+<li> Typically occurs when the subject swallows a food bolus (usually meat) larger than the esophagus can accept
+<li> Victims are typically elderly with poor dentition and history of neurological or psychiatric disorders
+<li> Due to the absence of choking symptoms, the death is commonly erroneously attributed to myocardial infarction
+<li> Most fatal cases are unwitnessed
+</ul>
+<li> Homicide is uncommon:
+<ul>
+<li> Foreign body is forced into the victim's airway
+<li> Can be mistaken for suicide or accident (<a href="1740986" class="bl">Med Sci Law 1992;32:65</a>)
+</ul>
+<li> Suicide is uncommon:
+<ul>
+<li> Can be suspected if the victim has a history of psychiatric disorder and previous suicide attempts (<a href="29044350" class="gr">Clin Ter 2017;168:e293</a>)
+</ul>
+</ul>
+</ul><br>
+
+
+<b> Confined space and vitiated atmosphere</b>
+<ul>
+<a id="forensicsasphyxiavitiated"></a>
+<li> Confined space: asphyxia from oxygen deprivation (<a href="11373013" class="bl">J Forensic Sci 2001;46:708</a>)
+<ul>
+<li> May be associated with heat stroke and positional asphyxia (<a href="26165673" class="bl">J Forensic Leg Med 2015;34:139</a>)
+</ul>
+<li> Vitiated atmosphere: conditions in which there is air contamination or oxygen displacement / replacement / depletion by other gases (<a href="31161429" class="bl">Forensic Sci Med Pathol 2019;15:646</a>, <a href="34394794" class="gr">Acad Forensic Pathol 2019;9:93</a>)
+<li> Oxygen may be reduced or eliminated from respired air by other gases
+<li> Some gases are more rapidly absorbed by hemoglobin than oxygen
+<ul>
+<li> Carbon dioxide: colorless gas with a faint sharp odor and a sour taste
+<ul>
+<li> Replaces oxygen in the atmosphere causing hypoxia (<a href="28378268" class="gr">Int J Emerg Med 2017;10:14</a>, <a href="34394794" class="gr">Acad Forensic Pathol 2019;9:93</a>)
+</ul>
+<li> Carbon monoxide:  colorless, odorless and nonirritable gas (<a href="32015960" class="gr">Toxicol Rep 2020;7:169</a>)
+<ul>
+<li> Has affinity for hemoglobin 200 - 300 times greater than oxygen
+<li> Combines with hemoglobin to form carboxyhemoglobin, which has a characteristic pink color at autopsy when its saturation exceeds 30% (cherry red skin and lividity)
+<li> Death is uncommon for carboxyhemoglobin concentrations < 50%
+</ul>
+<li>  Cyanide: colorless gas at higher temperatures with a bitter almond odor
+<ul>
+<li> Produced by combustion of plastic
+<li> Binds to the iron atom in mitochondrial cytochrome C oxidase and acts as an irreversible enzyme inhibitor (<a href="18839291" class="bl">J Bioenerg Biomembr 2008;40:533</a>)
+<li> Prevents cellular respiration, leading to cellular hypoxia (<a href="24278610" class="gr">Toxicol Res 2012;28:195</a>)
+</ul>
+<li> Hydrogen sulfide: colorless gas with a classic rotten egg odor
+<ul>
+<li> Toxicity commonly results from occupational exposure (e.g., sewer gas exposure) (<a href="18410836" class="bl">Am J Emerg Med 2008;26:518.e5</a>)
+<li> Inhibits mitochondrial cytochrome oxidase with subsequent arrest of aerobic metabolism (<a href="11752681" class="gr">Toxicol Sci 2002;65:18</a>)
+<li> Neurotoxic (<a href="28947277" class="gr">Biochem Pharmacol 2018;149:5</a>)
+</ul>
+<li> Nitrogen: odorless, colorless, tasteless and mostly inert diatomic gas
+<ul>
+<li> Displacement of oxygen in the atmosphere (<a href="18725778" class="bl">Am J Forensic Med Pathol 2008;29:235</a>)
+<li> Typically observed in accidental scuba diving related deaths (decompression injuries) (<a href="25478296" class="gr">Hawaii J Med Public Health 2014;73:13</a>)
+<li> Suicides are described (<a href="30760102" class="gr">Med Sci Law 2019;59:57</a>)
+</ul>
+</ul>
+<li> Decrease in atmospheric pressure results in reduced gas exchange in the lungs (<a href="29262037" class="gr">StatPearls: Aerospace Pressure Effects [Accessed 20 May 2022]</a>)
+<ul>
+<li> Increases in altitude result in decreasing total atmospheric pressure, which means the oxygen available for breathing is decreased as well
+</ul>
+<li>  Accident is the most common manner of death:
+<ul>
+<li> Common causes: poorly functioning gas heating systems or furnaces, inhaled smoke from fires, motor vehicle exhaust fumes (<a href="28419893" class="bl">J Forensic Leg Med 2017;48:23</a>)
+</ul>
+<li> Homicide is rare:
+<ul>
+<li> May involve the use of toxic gases (<a href="24114436" class="bl">Forensic Sci Med Pathol 2014;10:97</a>)
+</ul>
+<li> Suicide commonly due to carbon monoxide intoxication from car exhaust (<a href="16310328" class="bl">Forensic Sci Int 2006;161:41</a>)
+</ul>
+</ul></div></div><div class="block_section" id="strangulation366971"><div class="topicheading_title">Strangulation</div><div class="block_body"><a id="forensicsasphyxiastrangulation"></a>
+
+<ul>
+<li> Asphyxia due to an external compression of the neck
+<li> Can be suicidal (body's own weight), accidental or homicidal (a force other than the body's weight)
+</ul><br>
+
+<a id="forensicsasphyxiahanging"></a>
+<b>Hanging</b>
+<ul>
+<li> Fatal compression of the neck by means of a ligature that is constricted by the weight of the body
+<ul>
+<li> Full body weight is not needed to cause hanging
+<ul>
+<li> 4 pounds of pressure is required to occlude jugular veins (preventing venous drainage of head) and 5 - 11 pounds to occlude carotid arteries
+<li> Loss of consciousness occurs within 10 - 15 seconds; death within 3 - 5 minutes
+<li> Amount of body weight changes based on body positions and different hanging types (<a href="20487156" class="bl">J Forensic Sci 2010;55:1278</a>)
+<li> Amount of body weight needed to cause hanging can be roughly estimated (<a href="11728744" class="bl">Forensic Sci Int 2001;123:172</a>)
+</ul>
+</ul>
+<li> Types of hanging:
+<ul>
+<li> Based on the degree of body suspension (<a href="21769225" class="gr">J Emerg Trauma Shock 2011;4:320</a>):
+<ul>
+<li> Complete (suspension hanging): the whole body is suspended
+<li> Partial (incomplete): the body is partially touching the ground 
+</ul>
+<li> Based on the location of the knot (<a href="18626449" class="bl">Mymensingh Med J 2008;17:149</a>):
+<ul>
+<li> Typical hanging: the knot of the ligature should be at the nape of the neck and the point of suspension is in the occipital area
+<li> Atypical hanging: the knot of the ligature at any site other than the nape of the neck
+</ul>
+</ul>
+<li> Other terms related to hanging:
+<ul>
+<li> Near hanging: when a subject survives a hanging injury long enough to reach the hospital (<a href="25954634" class="gr">J Clin Diagn Res 2015;9:HC01</a>)
+<ul>
+<li> Anoxic brain injury is the most common complication (<a href="31126370" class="bl">Am Surg 2019;85:549</a>)
+</ul>
+<li> Judicial hanging: modality of public execution for capital crimes
+<ul>
+<li> Fractures of the cervical spine are common (e.g., hangman fracture) (<a href="19306616" class="bl">Med Sci Law 2009;49:18</a>)
+</ul>
+</ul>
+<li> Autopsy findings:
+<ul>
+<li> Ligature mark: pressure abrasion that develops when there is a prolonged pressure on the skin surface, producing a dried, dark brown, parchment appearance (<a href="https://doi.org/10.1016/j.ejfs.2015.01.004" class="bl">Egypt J Forensic Sci 2016;6:248</a>)
+<ul>
+<li> Typically is oblique and directed upwards (differential diagnosis with ligature strangulation where the mark is typically horizontal)
+<li> Typically interrupted at the level of the knot, unless multiple loops around the neck are present
+</ul>
+<li> Periligature injuries: additional injuries surrounding the primary ligature mark (<a href="15275002" class="bl">J Clin Forensic Med 2003;10:255</a>, <a href="24485428" class="bl">J Forensic Leg Med 2014;22:80</a>)
+<ul>
+<li> Examples: rope burns and nail marks
+</ul>
+<li> Facial congestion, cyanosis and petechiae
+<li> Dribbling of saliva or seminal fluid
+<li> Neck muscles hemorrhage and hyoid / larynx fractures uncommon
+<ul>
+<li> Mostly seen in incomplete hanging (<a href="25899291" class="bl">J Forensic Sci 2015;60:1216</a>)
+</ul>
+<li> Simon sign: hemorrhage into the anterior aspect of the intervertebral discs, usually at the level of the lumbar spine (<a href="34605291" class="bl">Med Leg J 2022;90:52</a>)
+<ul>
+<li> Can be seen in other types of death (e.g., blunt force trauma)
+</ul>
+<li> Amussat sign: transverse laceration of the carotid intima (<a href="20840289" class="bl">J Forensic Sci 2011;56:132</a>)
+</ul>
+<li> Suicide is the most common manner of death (<a href="15659471" class="gr">Int J Epidemiol 2005;34:433</a>)
+<li> Accident is uncommon (<a href="https://doi.org/10.1016/j.ejfs.2015.07.001" class="gr">Egypt J Forensic Sci 2016;6:310</a>, <a href="https://doi.org/10.5897/JCPFM2013.0043" class="gr">J Clin Pathol Forensic Med 2014;5:1</a>)
+<li> Homicide is rare:
+<ul>
+<li> Alleged suicide scene may cover homicide (<a href="30904183" class="bl">Forensic Sci Int 2019 May;298:419</a>)
+<ul>
+<li> Victim is killed by other means with subsequent suspension of the body to simulate suicide (<a href="21821460" class="bl">Leg Med (Tokyo) 2011;13:259</a>)
+</ul>
+</ul>
+</ul><br>
+
+<b>Manual strangulation</b>
+<ul>
+<li> Asphyxia mechanism in which the neck compression results from a pressure applied by hands, forearms or other limbs 
+<li> Independent from the victim's body weight
+<li> May result in the compression of airway, vessels and nervous stimulation or a combination 
+<li> Some physical restraint mechanisms may result in manual strangulation injuries or death
+<ul>
+<li> Choke hold: the pressure is applied to the anterior aspect of the neck, compressing the airway and blocking the air passage
+<li> Carotid restraint: the forearm of the restrainer is flexed at the antecubital fossa over the anterior neck, compressing the carotid arteries on the lateral aspects of the neck, blocking the blood flow to the brain and causing rapid unconsciousness
+<li> Banned by the majority of law enforcements since 1980s because it is considered unsafe (<a href="7148779" class="bl">Am J Forensic Med Pathol 1982;3:253</a>)
+</ul>
+<li> Autopsy findings:
+<ul>
+<li> Bruising due to neck compression by hands:
+<ul>
+<li> Fingers: linear, parallel bruises connected to the fingerpad contusions due to the compression and sliding of the finger on the affected area
+<li> Fingerpads: oval / round bruises of different sizes due to the compression by fingertips
+<li> May be more prominent on one side of the neck but a single, larger, thumb-like bruise on the opposite side of the clustered fingertip contusions may also be present
+</ul>
+<li> Abrasions due to fingernail scratches:
+<ul>
+<li> There may be linear scratches if the fingernails are dragged down the skin or curved marks when the skin is just gripped 
+<li> Fingernail marks on the neck can also be self inflicted by victims in the attempt to extricate themselves from the offender or an intentional hanging
+</ul>
+<li> Hyoid bone fractures, laryngeal cartilage fractures and neck soft tissue hemorrhages may occur
+<li> Layer by layer neck dissection is mandatory
+<ul>
+<li> Gross and microscopic examination of the carotid sinus area helps in ruling out deaths due to vagal inhibition
+</ul>
+<li> Findings are not specific but the combination of subconjunctival petechial hemorrhages, hyoid - laryngeal injury and injury to the skin or soft tissues of the neck may support the diagnosis (<a href="11368394" class="bl">Med Sci Law 2001;41:135</a>)
+</ul>
+<li> Delayed injuries or death may occur in survivors (<a href="19999960" class="bl">Monaldi Arch Chest Dis 2009;71:132</a>, <a href="2802467" class="bl">Ann Otol Rhinol Laryngol 1989;98:824</a>)
+<li> Matching of hands and finger marks with neck injuries is hard and not reliable (<a href="16566775" class="bl">J Forensic Sci 2006;51:381</a>)
+<li> Exclusively seen in homicides
+<ul>
+<li> Usually results from a combination of manual and ligature neck compression
+</ul>
+</ul>
+<br>
+
+<b> Ligature strangulation</b>
+<ul>
+<li> Asphyxia mechanisms in which the neck compression results from a pressure applied by any cord-like objects (rope, electric wires, etc.)
+<li> Independent from the victim's body weight
+<li> Ligature marks can be complete (full circumference of the neck) or incomplete (interrupted)
+<li> Generally, the ligature mark is horizontal (<a href="https://doi.org/10.15406/frcij.2020.08.00301" class="gr">Forensic Res Criminol Int J 2020;8:8</a>)
+<ul>
+<li> Exceptions:
+<ul>
+<li> Relevant height discrepancy between offender and victim
+<li> Victim is in recumbent posture (e.g., adult who kills a child) 
+<li> Victim is sitting and the assailant applied the ligature on the neck while standing behind 
+</ul>
+<li> Differential diagnosis with hanging, in which the mark is generally oblique and directed upwards 
+</ul>
+<li> Ligature marks may show a heterogeneous pattern due to several reasons (multiple loops around the neck, movements of the victim during strangulation, etc.) 
+<li> Autopsy findings (<a href="27219113" class="bl">J Forensic Leg Med 2016;42:19</a>):
+<ul>
+<li> Ligature mark on the neck area
+<ul>
+<li> Fingernail abrasions may be present
+</ul>
+<li> Internal findings are the same as manual strangulation but are less frequent
+<li> Facial congestion and cyanosis are more prominent than in manual strangulation
+<ul>
+<li> Ligature strangulation mainly results in venous total occlusion rather than arterial compression 
+</ul>
+</ul>
+<li> More common in homicides (<a href="15939176" class="bl">Forensic Sci Int 2005;152:61</a>)
+<li> Suicides are occasionally described (<a href="31773472" class="bl">Forensic Sci Med Pathol 2020;16:123</a>, <a href="https://doi.org/10.1016/j.fsir.2020.100098" class="gr">Forensic Sci Int 2020;2:100098</a>, <a href="19901818" class="gr">Am J Forensic Med Pathol 2009;30:369</a>)
+<li> Accidental ligature strangulation may occur, especially in children and adolescents (<a href="22408679" class="gr">J Pediatr Neurosci 2011;6:164</a>, <a href="16442331" class="bl">J Clin Forensic Med 2006;13:148</a>)
+</ul></div></div><div class="block_section" id="mechanicalasphyxia366972"><div class="topicheading_title">Mechanical asphyxia</div><div class="block_body"><ul>
+<li> Impaired breathing due to:
+<ul>
+<li> Acquired body unnatural position (positional asphyxia)
+<li> Severe compression to the neck or chest or other areas of the body that make the respiration difficult or impossible (traumatic or compressive asphyxia)
+<li> Mechanical obstruction of the airways; includes <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#forensicsasphyxiasmothering" class="scrollto">smothering</a>, <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#forensicsasphyxiachoking" class="scrollto">choking</a> and <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#forensicsasphyxiastrangulation" class="scrollto">strangulation</a>
+</ul>
+</ul>
+<br>
+
+<b>Positional asphyxia</b>
+<ul>
+<li> Occurs when the victim is immobilized in a position which causes mechanical interference with pulmonary ventilation, leading to respiratory failure and death (<a href="12960668" class="bl">Am J Forensic Med Pathol 2003;24:292</a>)
+<li> Scene investigation typically gives relevant clues to determine the cause and manner of death
+<li> Prolonged head down position of the body interferes with respiration and blood circulation due to intra-abdominal organs compressing the diaphragm, causing increased intrathoracic pressure and compression of inferior vena cava (<a href="19291470" class="bl">Forensic Sci Med Pathol 2008;4:51</a>)
+<li> Prolonged hyperflexion or hyperextension of the neck may result in airway obstruction (<a href="20938323" class="bl">Am J Forensic Med Pathol 2011;32:31</a>)
+<li> Unnatural chest positions may interfere with the physiologic rib cage expansion and retraction, resulting in reduced gas exchange (<a href="29901602" class="gr">Medicine (Baltimore) 2018;97:e11041</a>)
+<li> Hogtie position: the subject's wrists are handcuffed behind their back with ankles strapped and legs flexed back so the person is bent backwards
+<ul>
+<li> Death may occur as a result of combined asphyxia, metabolic and cardiovascular changes (<a href="33629624" class="bl">Med Sci Law 2021;61:215</a>)
+</ul>
+<li> Autopsy findings:
+<ul>
+<li> If the positional asphyxia results from physical restraint, abrasions / bruises may be found at the level of compression
+</ul>
+<li> Typically accidental (<a href="20345786" class="bl">J Forensic Sci 2010;55:646</a>)
+<li> Homicides have been described (<a href="http://dx.doi.org/10.4323/rjlm.2014.229" class="gr">Rom J Leg Med 2014;22:229</a>)
+</ul>
+<br>
+
+<b>Compression asphyxia</b>
+<ul>
+<li> External pressure on the body prevents physiologic respiration
+<li> Also called traumatic or crush asphyxia
+<li> Usually due to external compression of chest / abdomen by heavy weight (<a href="24781404" class="bl">Am J Forensic Med Pathol 2014;35:80</a>)
+<ul>
+<li> Commonly observed in soft drink vending machine tipping, motor vehicle accidents, cave related accidents and mass disasters (earthquake, collapsed buildings) (<a href="22056246" class="bl">Lancet 2012;379:748</a>)
+</ul>
+<li> Primary mechanism of death is flail chest
+<ul>
+<li> Adult male requires 2550 &plusmn; 250 N of chest applied distributed static force (260 &plusmn; 26 kg with earth gravity) or 4050 &plusmn; 320 N of dynamic force to cause flail chest from short term chest compression (<a href="28372525" class="bl">Med Sci Law 2017;57:61</a>)
+</ul>
+<li> Frequently observed in children:
+<ul>
+<li> Overlaying asphyxia: when a heavy sleeping adult may move on top of the infant, causing compression asphyxia (<a href="11394749" class="gr">Am J Forensic Med Pathol 2001;22:155</a>)
+<li> Wedging: when the body is compressed between 2 firm surfaces, preventing breathing (<a href="31010907" class="gr">Pediatrics 2019;143:e20183408</a>)
+</ul>
+<li> Autopsy findings:
+<ul>
+<li> Related to the thoracoabdominal compression, which results in venous hypertension in the valveless cervicofacial venous system (<a href="21373308" class="gr">Int J Emerg Med 2010;3:379</a>)
+<ul>
+<li> Facial and conjunctiva severe congestion and cyanosis
+<li> Conjunctival hemorrhage
+<li> Facial and upper chest petechiae
+<li> Heavy and dark red lungs with or without subpleural petechiae
+</ul>
+<li> Hemorrhage in the soft tissues may be present
+</ul>
+<li> Compression asphyxia is uncommon but accident is the most common manner of death
+</ul></div></div><div class="block_section" id="drowning366973"><div class="topicheading_title">Drowning</div><div class="block_body"><ul>
+<li> Asphyxia due to partial or complete submersion of the body in a liquid, resulting in liquid inhalation, impairment of pulmonary exchanges and oxygen deprivation
+</ul><br>
+
+<b>Stages of drowning</b> (<a href="33237456" class="gr">Int J Legal Med 2021;135:281</a>)
+<ul>
+<li> Stage 1: surprise / reflective inspiration
+<ul>
+<li> Victim recognizes the risk and takes a deep breath to fill the lungs with as much air as possible
+<li> Usually lasts a few seconds
+</ul>
+<li> Stage 2: apnea
+<ul>
+<li> Victim holds their breath in the attempt to not allow water to enter the airways
+<li> Usually lasts less than 1 minute
+</ul>
+
+<li> Stage 3: deep breathing / expiratory dyspnea
+<ul>
+<li> Increasing hypoxia and hypercapnia, due to the apnea phase, leads to stimulation of the respiratory centers with expiratory dyspnea and rapid swallowing that allows water to enter the airway and GI tract
+</ul>
+
+<li> Stage 4: convulsive
+<ul>
+<li> Due to lack of oxygen, brain anoxia results in bradycardia, arrhythmias and convulsions
+</ul>
+
+<li> Stage 5: terminal apnea / death
+<ul>
+<li> Both breathing and circulation stop
+</ul>
+</ul><br>
+
+<b>Freshwater versus saltwater drowning</b>
+<ul> 
+<li> Any difference in severity of fresh versus salt water drowning is unproven
+<li> Freshwater drowning: hypotonic fresh water diffuses across the alveolar capillary membrane into the pulmonary microcirculation and then throughout the body, causing dilution of electrolytes and hemolysis (<a href="11411297" class="bl">Pediatr Clin North Am 2001;48:627</a>)
+<li> Saltwater drowning: water dilutes alveolar surfactant; circulating plasma is drawn via osmosis into alveoli, resulting in hemoconcentration and increased blood electrolyte levels (<a href="28587319" class="gr">Exp Ther Med 2017;13:2591</a>)
+</ul>
+<br>
+
+<b>Near drowning</b>
+<ul>
+<li> Survival after asphyxia due to submersion (<a href="12534480" class="bl">Emerg Med (Fremantle) 2002;14:377</a>)
+<ul>
+<li> Complications: pneumonia, pulmonary edema, hemoglobinuria, cardiac arrhythmia, fever, sepsis and sequelae of cerebral hypoxia; rapidly developing cerebral edema is a common mechanism of death (<a href="29149019" class="gr">Int J Environ Res Public Health 2017;14:1402</a>)
+</ul>
+</ul><Br>
+
+<B>Cold shock</b>
+<ul>
+<li> Sudden skin cooling may result in a cold shock response characterized by peripheral vasoconstriction, hypertension, inspiratory gasp and hyperventilation with swimming inability and liquid aspiration (<a href="33276648" class="gr">Int J Environ Res Public Health 2020;17:8984</a>)
+<ul>
+<li> Acute anxiety is an important risk factor for cold shock response (<a href="29695988" class="gr">Front Psychol 2018;9:510</a>)
+</ul>
+</ul><Br>
+
+<b>Cold water immersion</b>
+<ul>
+<li> Complications arise based on the body temperature (<a href="26889019" class="gr">Physiology (Bethesda) 2016;31:147</a>):
+<ul>
+<li> Body temperature below 35 &deg;C leads to confusion, disorientation and decreased muscle coordination
+<li> Body temperature below 33 &deg;C leads to hypoventilation, bradycardia and irregular breathing
+<li> Body temperature below 30 &deg;C leads to stupor or unconsciousness and coma
+<li> Body temperature below 28 &deg;C leads to ventricular fibrillation 
+<li> Body temperature below 25 &deg;C leads to cardiac arrest and death
+</ul>
+</ul>
+<br>
+
+<ul>
+<li> Autopsy findings (<a href="31240023" class="gr">Acad Forensic Pathol 2018;8:8</a>):
+<ul>
+<li> Drowning is a diagnosis of exclusion, based on ruling out all other causes of death via complete autopsy and toxicology
+<li> May see bloody froth in the airway, water in the stomach, cerebral edema, petrous or mastoid hemorrhage 
+<li> Lung overinflation (emphysema aquosum) (<a href="33237456" class="gr">Int J Legal Med 2021;135:281</a>)
+<li> Wrinkling of the skin, particularly involving the hands and feet (formerly called washerwoman changes) that develops when submerged in water for several hours; occurs regardless of whether the person died in the water (<a href="31239870" class="gr">Acad Forensic Pathol 2016;6:19</a>)
+<li> Postmortem lacerations / abrasions due to scraping along rough surfaces in the water or animal activity should not be confused with antemortem trauma (<a href="31229802" class="bl">J Forensic Leg Med 2019;66:79</a>)
+</ul>
+
+
+<li> Accident is common (<a href="24944343" class="gr">Inj Prev 2015;21:e43</a>):
+<ul>
+<li> Psychotropic drugs and alcohol may contribute to fatal unintentional drownings (<a href="28521790" class="gr">BMC Public Health 2017;17:388</a>)
+</ul>
+<li> Suicides have been reported (<a href="32442177" class="gr">PLoS One 2020;15:e0231861</a>)
+<li> Homicides are uncommon (<a href="30612261" class="bl">Forensic Sci Med Pathol 2019;15:233</a>):
+<ul>
+<li> Mostly involve children rather than adults 
+<li> Victim may be incapacitated by alcohol or drugs
+</ul>
+<li> Undetermined is still one of the most common manners of death (<a href="12899425" class="bl">Med Sci Law 2003;43:207</a>)
+<li> Unconfirmed tests for drowning:
+<ul>
+<li> Diatoms (<a href="31637457" class="bl">Int J Legal Med 2020;134:1037</a>):
+<ul>
+<li> Diatoms are microscopic algae present in bodies of water; theoretically should never be present in a human unless they inhaled water
+<li> Best specimen for diatoms analysis is the bone marrow
+<li> Validity questionable because diatoms are present in soil and atmosphere, and samples are easily contaminated
+<li> Absence of diatoms does not rule out drowning
+</ul>
+<li> Postmortem electrolytes:
+<ul>
+<li> In saltwater drowning, Na and Cl concentrations in right and left heart blood should be widely different (<a href="5773952" class="gr">Anesthesiology 1969;30:414</a>)
+<li> Invalid if individual survived for a period of time or had significant CPR
+<li> Pleural effusion electrolyte analysis may be useful to distinguish between fresh and seawater drownings (<a href="19573841" class="bl">J Forensic Leg Med 2009;16:321</a>)
+</ul>
+<li> Sphenoid sinus fluid (<a href="23269532" class="bl">Forensic Sci Med Pathol 2013;9:177</a>):
+<ul>
+<li> Significant fluid in sphenoid sinuses (several milliliters) is suggestive of water aspiration; not a validated test
+</ul>
+<li> Aortic intimal staining (<a href="24752425" class="bl">Forensic Sci Med Pathol 2015;11:442</a>):
+<ul>
+<li> Arises from lysed erythrocytes staining the aorta, induced by hypotonic fluid entering the lungs during immersion 
+</ul>
+<li> Drowning index (<a href="20110191" class="bl">Leg Med (Tokyo) 2010;12:68</a>):
+<ul>
+<li> Ratio of lung to spleen weight
+<li> Drowning index of 14.1 is considered the cutoff point to diagnose actual drowning cases
+<li> Limited to a postmortem interval of 2 weeks
+</ul>
+</ul>
+</ul></div></div><div class="block_section" id="specialtypes366974"><div class="topicheading_title">Special types</div><div class="block_body"><b>Autoerotic asphyxia</b>
+<ul>
+<li> Accidental deaths that occur during solitary sexual activity in which some type of apparatus is used to enhance sexual stimulation (<a href="15725776" class="bl">Am J Forensic Med Pathol 2005;26:45</a>)
+<ul>
+<li> Not all autoerotic deaths are due to asphyxia
+<li> To diagnose an autoerotic asphyxia, the following criteria must be satisfied:
+<ul>
+<li> An asphyxia mechanism must be present
+<li> By definition, the deaths must be accidental
+<li> Pure autoerotic deaths require the victim to be alone (solitary: autoerotic comes from the Greek root auto, which means self or by itself)
+<li> Escape mechanisms must be present but they do not necessarily need to be seen on the scene
+</ul>
+</ul>
+</ul><Br>
+
+<b>Incaprettamento</b>
+<ul>
+<li> Homicidal strangulation typical of the Italian Mafia in which the victim is obligated in a modified hogtie position with the wrists and ankles tethered together behind the victim's back, the body in the prone position and an additional ligature is encircling the neck and attached to the bindings of the extremities (<a href="12604999" class="bl">Am J Forensic Med Pathol 2003;24:51</a>)
+</ul>
+<br>
+
+<b>Judicial hanging</b>
+<ul>
+<li> Modality of public execution for capital crimes (see <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html#forensicsasphyxiahanging" class="scrollto">Hanging</a>)
+</ul><br>
+
+<b>Mass suicides by hanging</b>
+<ul>
+<li> Several people commit suicide together led by a charismatic leader with strong religious beliefs or loyalties (<a href="29962565" class="gr">Indian J Psychol Med 2018;40:108</a>)
+</ul></div></div><div class="block_section" id="casereports366975"><div class="topicheading_title">Case reports</div><div class="block_body"><ul>
+
+<li> 2 year old girl died of pacifier aspiration (<a href="15062943" class="bl">Forensic Sci Int 2004;141:73</a>)
+<li> 46 year old man trapped between the rims of an automatically closing door of a supermarket (<a href="16708617" class="bl">Arch Med Sadowej Kryminol 2006;56:61</a>)
+<li> 48 year old man found dead with a ligature around neck and another around the feet (<a href="22920771" class="bl">J Forensic Leg Med 2012;19:434</a>)
+<li> 55 year old man who died from fatal asphyxia caused by a thyroglossal cyst (<a href="17027318" class="bl">J Clin Forensic Med 2006;13:349</a>)
+<li> 74 year old man killed by a combination of ligature strangulation, traumatic asphyxia and smothering by plastic bag (<a href="25664272" class="gr">Int J Appl Basic Med Res 2015;5:61</a>)
+<li> 75 year old man with poor dentition suddenly collapsed while drinking water (<a href="34763548" class="bl">Med Leg J 2021;89:264</a>)
+
+</ul></div></div><div class="block_section" id="clinicalimages366976"><div class="topicheading_title">Clinical images</div><div class="block_body"><br><span class=f11bi>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office</span><br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various01.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="The typical hanging mark is oblique and directed upwards (arrows) with discontinuation at the level of the knot (in this case on the occipital area, red circle).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various01.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Hanging mark</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious02.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Generally, homicidal ligature marks are described as horizontal.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious02.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Ligature strangulation mark</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various03.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Multiple loops around the neck of the cord-like object used for hanging or ligature strangulation result in a double (or more) ligature mark (arrows).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various03.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Multiple loop marks</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious04.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Multiple injuries are usually observed on the skin surface of the neck (abrasion and bruises are the most common injuries).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious04.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Manual strangulation</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious05.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Hemorrhage into the anterior aspect of the intervertebral discs, usually at the level of the lumbar spine (green arrows).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious05.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Simon sign</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious06.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Compression of the abdomen leads to diaphragm compression, increase in intrathoracic pressure and compression of inferior vena cava.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious06.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Positional asphyxia</div>
+
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious07.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="A layer by layer dissection of the neck is required in suspect asphyxia cases.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious07.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Neck dissection in asphyxia cases</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious08.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Usually results from external compression of chest / abdomen by heavy weight. Severe congestion and cyanosis are typically observed (right).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious08.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Crush asphyxia</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious09.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Generally observed in suicides. The plastic bag prevents the physiologic breathing by rapid oxygen consumption and mechanical obstruction of the oral and nasal orifices. Inert gases are commonly associated with this type of death (see the tank on the right).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious09.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Plastic bag suffocation</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious13.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Small, pinpoint hemorrhage due to acute rise in venous pressure (congestion) leading to capillary rupture. They are frequent but not specific for asphyxia.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious13.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Conjunctival petechiae</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious14.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Usually observed in severe mechanical / compression asphyxia due to venous hypertension in the valveless cervicofacial venous system.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious14.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Eye hemorrhage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious17.jpg" data-lightbox="forensicsasphyxiaclinical" data-title="Doll reenactment showing one of the most common wedging dynamics. The baby is trapped between the wall and the mattress, causing obstruction of the external airways.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious17.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Wedging</div></div></div><div class="block_section" id="grossimages366977"><div class="topicheading_title">Gross images</div><div class="block_body"><br><span class=f11bi>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office</span><br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious10.jpg" data-lightbox="forensicsasphyxiagross" data-title="Hyoid injuries are seen mostly in manual strangulation. A focal hemorrhage on the right aspect is present (arrow).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious10.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Hyoid bone hemorrhage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious11.jpg" data-lightbox="forensicsasphyxiagross" data-title="A fracture of the hyoid bone is present (arrow). Fractures can occur during evisceration due to the fragile nature of the hyoid bone.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious11.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Hyoid bone fracture</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious12.jpg" data-lightbox="forensicsasphyxiagross" data-title="Larynx injuries are seen mostly in manual strangulation. A focal hemorrhage on the right superior horn is present (arrow).<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious12.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Larynx hemorrhage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various15.jpg" data-lightbox="forensicsasphyxiagross" data-title="Food bolus (arrow) stuck in the trachea is the most common cause of choking in adults. In this case, the foreign body is obstructing the airway just above the tracheal bifurcation, preventing air passage from the upper airways to the lungs.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various15.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Choking</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various16.jpg" data-lightbox="forensicsasphyxiagross" data-title="Large foreign body aspiration in the main bronchi (arrow) may also prevent air passage from the upper airways to the lungs.<br>Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxia_Various16.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p>Aspiration</div></div></div><div class="block_section" id="practicequestion1366978"><div class="topicheading_title">Practice question #1</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious18.jpg" data-lightbox="forensicsasphyxiabrq1" data-title="Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious18.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p></div><br>
+
+A 27 year old woman is found dead on a riverbank. The body is fully dressed and the clothes are soaked and soiled. Investigations did not reveal evidence of foul play. The external examination findings are shown in the image and an irregular 1.4 x 1.3 cm laceration of the left frontal areas without hemorrhage of the soft tissues. Autopsy is negative except for a 30% obstruction of the left descending coronary artery. Toxicology analysis shows a blood ethanol concentration consistent with alcohol intoxication. What additional findings would support the suspected cause of death?
+
+<br><br>
+
+<ol class="liststyle2">
+<li> Lung hyperinflation and water in the sphenoid sinus
+<li> Multiple skin injuries on the anterior and lateral aspects of the neck 
+<li> Round bruises on the anterior aspect of the thighs
+<li> Presence of a horizontal abrasion mark on the neck
+<li> Conjunctival petechiae
+
+</ol></div></div><div class="block_section" id="practiceanswer1366979"><div class="topicheading_title">Practice answer #1</div><div class="block_body"><b>A.</b> Lung hyperinflation and water in the sphenoid sinus are suggestive of drowning. Drowning is a diagnosis of exclusion that should be considered when other possible causes have been excluded. The figure shows foam coming out from the mouth and nostrils, which is a finding that supports drowning; however, considered alone, this finding is not specific for drowning since it can also be observed in other causes of death (e.g., severe pulmonary edema). The foam can be whitish, pink or red due to the rupture of pulmonary capillaries. 
+<br><br>
+Multiple skin injuries on the anterior and lateral aspects of the neck (answer B) may suggest manual strangulation. In this case, the external examination showed only a laceration on the left frontal area, consistent with the body scraping along rough surfaces in the water or animal activity. Round bruises on the anterior aspect of the thighs (answer C) may suggest sexual assault; there was no investigative evidence of assault in this case and the foam from the airways would be an uncommon finding. A horizontal abrasion mark on the neck (answer D) may suggest homicidal strangulation. Facial congestion, cyanosis and petechiae and neck skin injuries are generally present, while foam from the airways would be an uncommon finding. Petechiae (answer E) is a nonspecific finding that can be virtually observed in all types of asphyxia and other types of deaths.
+
+<br><br>
+<a href="#" class="contact_form_trigger">Comment Here</a>
+
+<br><br>
+
+Reference: <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html">Asphyxia</a>
+</div></div><div class="block_section" id="practicequestion2366980"><div class="topicheading_title">Practice question #2</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious19.jpg" data-lightbox="forensicsasphyxiabrq2" data-title="Contributed by Lorenzo Gitto, M.D., Ponni Arunkumar, M.D. and the Cook County Medical Examiner's Office">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsasphyxiaVarious19.jpg" onerror="this.src=‘https://pathologyoutlines.com/thumb/NoImage.jpg’;" alt="Missing Image"></a>
+<p></div><br>
+
+A 73 year old man is found dead in his apartment. Autopsy reveals multiple neck bruises and abrasions as well as the finding shown in the image. Assuming that the death results from an asphyxia mechanism, what is the most likely manner of death? 
+<br><br>
+
+<ol class="liststyle2">
+<li> Manual strangulation
+<li> Hanging
+<li> Drowning
+<li> Homicide
+<li> Suicide
+
+</ol></div></div><div class="block_section" id="practiceanswer2366981"><div class="topicheading_title">Practice answer #2</div><div class="block_body"><b>D.</b> Homicide. The figure shows a hemorrhage on the lateral aspect of the larynx, which together with multiple injuries to the neck, suggest manual strangulation. Hyoid bone fractures, laryngeal cartilage fractures and neck soft tissue hemorrhages may occur in manual strangulation, which is exclusively seen in homicides. 
+<br><br>
+Manual strangulation, hanging and drowning (answers A, B and C) are specific types of asphyxia and represent causes of death, not manners of death. Larynx and hyoid injuries are less common in suicide (answer E). Moreover, suicide by manual strangulation is not possible.
+
+<br><br>
+<a href="#" class="contact_form_trigger">Comment Here</a>
+
+<br><br>
+
+Reference: <a href="https://www.pathologyoutlines.com/topic/forensicsasphyxia.html">Asphyxia</a>
+
+<!-- END part of /topic/forensicsasphyxia.html to be edited by PathOut staff --></div></div></div>				<div class="page_content">
+									</div>
+				<div id="po_banner_bottom" class="section_bot po_banner_bottom">
+	<a href="https://www.pathologyoutlines.com/authors" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2024/10/20241001-100008_House-editorialboard-_1456x180_240202.png" alt="" class="section_img_bot" /></a></div>				<a class="back_to_top scrollto" href="#topic_page_top">Back to top</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Asphyxia</div></div> </div> <!-- End page_content_container -->   
+    	<!-- typical footer area -->
+	<div id="mobile_footer">
+		<div class="mobile_signup_form"
+			 style="display:none;"		>
+			<div class="mobile_signup_form_col1">
+				<form enctype="application/x-www-form-urlencoded" method="post" action="http://visitor.constantcontact.com/d.jsp" target="_blank">					
+					<div class="mobile_signup">Sign up for our Email Newsletters</div>
+					<input type="text" placeholder="Email Address" name="ea" size="20" class="mobile_signup_email lineheight"><button type="submit" class="mobile_signup_submit lineheight">
+						<i class="fa fa-caret-right"></i>
+					</button>
+					<input type="hidden" value="JOIN" name="go" />
+					<input type="hidden" value="1102437360197" name="m" />
+					<input type="hidden" value="oi" name="p" />
+				</form>
+			</div>
+		</div>
+		<div class="mobile_footer_address">
+			<div><a href="#" class="contact_form_trigger">Comment</a></div>
+		</div>	
+		<div class="mobile_copyright">
+			<div>&copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.</div>
+					</div>
+	</div>
+    
+    <div id="footer">
+        <div class="footer_content">
+            <div class="content_section">
+                <div class="footer_twocolumn">
+                    <div class="col1 float_left">
+                        <div class="subcol1 float_left">
+                            <ul class="footer_nav fn1">
+                                <li><a href="https://www.pathologyoutlines.com">Home</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/aboutus.html">About Us</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/site/amazonhome.html">Amazon.com</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/review-questions">Board Review</a></li> 
+                                <li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li> 
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol2 float_left">
+                            <ul class="footer_nav fn2">
+                                <li><a href="https://www.pathologyoutlines.com/cme">CME (online)</a></li>
+                                <li><a href="#" class="contact_form_trigger">Comment Here</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/conferences">Conferences / Webinars</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/copyrightinfo.html">Copyright</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/FAQ.html">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships.html">Fellowships</a></li>   
+						<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol3 float_left">
+                            <ul class="footer_nav fn3">
+					   
+					   
+						 <li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/libraries.html">Libraries</a>
+							<!--<ul class="footer_subnav">
+								<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/topic/librarycovid19.html">COVID-19 resources</a></li>
+							</ul>-->
+						</li>
+
+                                <li><a href="https://shop.spreadshirt.com/pathologyoutlines/" target="_blank">Merchandise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/privacypolicy.html">Privacy Policy</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+                                
+                            </ul>
+                        </div>
+                        <br class="clearleft" />
+                    </div>
+                    <div class="col2 float_left">
+                        <div class="footer_logo">
+					   <img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" width="420" height="80" border="0" alt="" />
+                        </div>
+                        <div class="footer_address">
+                            <div>30150 Telegraph Road, Suite 119, Bingham Farms, Michigan 48025 (USA) </div>
+                            <div>Telephone: (248) 646-0325; Email: <a href="mailto:Comments@pathologyoutlines.com">Comments@pathologyoutlines.com</a></div>
+                        </div>
+				    <div class="footer_social">
+						<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+						<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-square-instagram"></span></a>
+						<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+						<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-square-youtube"></span></a>
+						<a href="https://www.threads.net/@pathoutlines" class="top_nav_icon" target="_blank" title="Threads"><span class="fa-brands fa-square-threads"></span></a>
+						<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						<a href="https://bsky.app/profile/pathologyoutlines.bsky.social" class="top_nav_icon" target="_blank" title="Bluesky"><span class="fa-brands fa-square-bluesky"></span></a>
+						<a href="https://www.reddit.com/r/PathologyOutlines" class="top_nav_icon" target="_blank" title="Reddit"><span class="fa-brands fa-square-reddit"></span></a>
+				    </div>
+                        <div class="signup_form">
+                            <div class="float_left signup_form_col1">
+                                <form enctype="application/x-www-form-urlencoded" method="post" action="https://visitor.constantcontact.com/d.jsp" target="_blank">
+                                    <div class="signup">Sign up for our Email Newsletters</div>
+                                    <input type="text" placeholder="Email Address" name="ea" size="20">
+                                    <input type="submit" name="go" value="JOIN">
+                                    <input type="hidden" value="1102437360197" name="m">
+                                    <input type="hidden" value="oi" name="p">
+                                </form>
+                            </div>
+                            <br class="clearleft" />
+                        </div>
+                    </div>
+                    <br class="clearleft" />
+                </div>
+                <div class="footer_additional">
+                    This website is intended for pathologists and laboratory personnel but not for patients.  We welcome suggestions or questions about using the website. However, we cannot answer medical or research questions or give advice.
+                </div>
+            </div>
+        </div>
+        <div id="footer_copy">
+            <div class="content_section">
+                &copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.
+            </div>
+        </div>
+    </div>
+    <div id="modaloverlay" style="display:none;"></div>
+    <div class="loading_modal" style="display:none;">
+        <div style="height: 35px;text-align: center;margin: 10px 0;">
+            <div class="loading_spinner position1"></div>
+        </div>
+        <div id="loading_modal_message">Processing</div>
+    </div>
+    <div class="notification" style="display:none;"><div class="inner"></div></div>
+    <div style="display:none;">
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/ntbg3.png" width="1" height="1" alt="Image 01" />
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/loader-sprite.png" width="1" height="1" alt="Image 02" />
+	</div>
+   
+					<div id="admin_bar">
+					<div class="footer_menu_icon_wrapper"><a href="#" class="footer_menu_icon"><span class="fa fa-navicon"> Administration</span></a></div>
+					<div class="admin_inner">
+						<div class="admin_links">
+							<div><a href="https://www.pathologyoutlines.com/admin/page-list"><img src="https://www.pathologyoutlines.com/apple-touch-icon.png" alt="" style="height:18px;width:auto;vertical-align:middle;" />&nbsp;&nbsp;Pathology Outlines Administration</a></div>
+							<ul>
+															</ul>    
+						</div>
+						<div class="admin_bar_account_links">
+							<div class="admin_bar_section admin_bar_label cursor_default">
+								Signed in as: pathout@mediag.com							</div>
+							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/user?id=2"><span class="fa fa-fw fa-gear"></span></a></div>							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/logout"><span class="fa fa-fw fa-sign-out"></span>Log Out</a></div>
+						</div>
+					</div>
+				</div>
+				</body>
+</html>

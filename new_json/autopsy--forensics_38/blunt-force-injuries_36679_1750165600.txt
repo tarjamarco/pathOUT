@@ -1,0 +1,1095 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<base href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank" />	<meta charset="utf-8" />
+	<title>Pathology Outlines - Blunt force injuries</title>
+
+	<meta name="description" content="Autopsy - Blunt force injuries: a blunt object has a wide, dull or convex surface with rounded edges or corners; Blunt force injuries are produced by blunt objects due to different possible mechanisms" />	
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="resource-type" content="document">
+	<meta name="revisit-after" content="1 days">
+	<meta name="distribution" content="global">
+	<meta name="rating" content="general">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<!-- social meta tags -->
+	<meta property="og:image" content="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo_for_social.jpg" />
+	<meta property="og:title" content="Blunt force injuries"/>
+	<meta property="og:url" content="https://www.pathologyoutlines.com/scratchpad"/>
+	<meta property="og:description" content="Autopsy - Blunt force injuries: a blunt object has a wide, dull or convex surface with rounded edges or corners; Blunt force injuries are produced by blunt objects due to different possible mechanisms" />		
+	<!--<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/favicon.ico" />-->
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://www.pathologyoutlines.com/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.pathologyoutlines.com/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.pathologyoutlines.com/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.pathologyoutlines.com/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.pathologyoutlines.com/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.pathologyoutlines.com/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.pathologyoutlines.com/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon-180x180.png" />
+		
+	<!--<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/reset.css" rel="stylesheet" type="text/css" />-->
+	<!--<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/font-awesome-4.6.3/css/font-awesome.min.css" type="text/css" />--><!-- font awesome -->
+	<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/fontawesome-free-6.7.2-web/css/all.css" type="text/css" /><!-- font awesome -->
+	
+	<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,700italic,400italic,900,900italic' rel='stylesheet' type='text/css'>-->
+	
+	<link href="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/css/lightbox.css" rel="stylesheet" />
+
+	<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/main.css?ver=1.3.27" rel="stylesheet" />
+	
+	
+	
+				<!--Load the Cookiebot script-->
+			<!--<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="8539fe38-38ce-448a-beb8-edb691018d2d" data-blockingmode="auto" type="text/javascript"></script>-->
+				
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M3KDZ8R');</script>
+	
+		<SCRIPT type="text/javascript" src="https://bh.contextweb.com/cp?p=7932&token=9PIYNQQEOW8T&ch=1" async></SCRIPT>
+		<script src="https://servedbydoceree.doceree.com/resources/p/doc_ad/23/217/dc.js" data-siteId="217" data-platId="1" data-pubId="23"></script>
+					<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.1.8.3.min.js"></script>
+				<!--<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.3.5.1.min.js"></script>-->
+				<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/scripts.js?ver=1.3.0"></script>
+				
+				<script src="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/js/lightbox.min.js"></script>	
+							<!--Load the AJAX API-->
+				<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+						
+		<script type="text/javascript">
+			/* embed code starts */
+			var _vbset = _vbset || [];
+			_vbset.push(['_account', 'VBT-52731-2101']);
+			_vbset.push(['_domain', 'http://pathologyoutlines.com']);
+
+			(function() {
+				var vbt = document.createElement('script'); vbt.type = 'text/javascript'; vbt.async = true; 
+				vbt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.vbt.io/tracker?_account='+_vbset[0][1]+'&_domain='+_vbset[1][1];var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vbt, s);
+			})();
+			/* embed code ends */
+		</script>
+		
+				<script>window.sa_event=window.sa_event||function(){var a=[].slice.call(arguments);window.sa_event.q?window.sa_event.q.push(a):window.sa_event.q=[a]};</script>
+		
+		</head>
+<body
+	 class="loggedin">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3KDZ8R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<input type="hidden" id="server_root" value="" />
+	<input type="hidden" id="site_protocol" value="https://" />
+	<input type="hidden" id="pageurl" value="https://www.pathologyoutlines.com/scratchpad" />
+	
+		<div class="mobile_content" id="mobile_navigation">
+		<form action="https://www.google.com/cse" id="cse-search-box" class="clearfix cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+			<input type="search" class="mobile_search" name="q" placeholder="Search Site" style="width:85%;padding:15px 25px;border:none;font-family:inherit;font-size:inherit;" />
+			<!--<input type="submit" name="sa" class="float_right" style="background: #fff url('images/icon_search.jpg') no-repeat scroll 100% 0;padding: 15px 12px;" />-->
+			<button type="submit" name="sa" class="menu_caret" style="float:right;padding:15px 20px 9px 9px;color:#8381cd;background-color:#fff; width: auto; height:100%;cursor:pointer;border:none;">
+				 <i class="fa fa-search"></i>
+			  </button>
+		</form>
+		<div class="mobile_logo">
+			<a href="https://www.pathologyoutlines.com" class="mobile_logo_img" target="_self"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="" /></a><div class="menu_icon_wrapper"><a href="#" class="menu_icon"><span class="fa fa-navicon"></span></a><div class="menu_text">Menu</div></div>		</div>
+		<div class="mobile_ad_wrapper"
+				 style="display:none;"			>
+			
+			<div class="featured_box_mobile"><div><div class="mobile_ad">
+
+<!-- Mobile Home Page Ad [ENABLE MOBILE ONLY!] [js] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid359714 = window.pid359714 || rnd;
+var plc359714 = window.plc359714 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=175977;size=0x0;setID=359714;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid359714+';place='+(plc359714++)+';rnd='+rnd+'';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+<!-- Preserving standard code during AdButler deployment
+<a href="http://www.pathologyoutlines.com/site/mobile_Homepage_Redirect.html" target="_blank">
+    <img src="http://www.pathologyoutlines.com/site/Roche_HP_Mobile_240701.jpg" width="468"  border="0">
+</a>
+-->
+
+</div>
+
+</div></div>		</div>
+		
+		<div class="mobile_nav 
+			"		>
+			<ul id="mobile_menu">
+				<li class="mobile_menu_item clearfix">
+					<a href="#" id="chaptersubspecialty_menu">Chapters By Subspecialty <span id="chaptersubspecialty_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="chaptersubspecialty_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li>					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/jobs" target="_self">Jobs</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/fellowships" target="_self">Fellowships</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/conferences" target="_self">Conferences / Webinars</a></li>
+				<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Authors <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/directory" target="_self">Directory</a></li>
+				<!--<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Directory <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+					</ul>
+				</li>-->
+				
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/books" target="_self">Books</a></li>
+				<!--<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/review-questions" target="_self">Question Bank</a></li>
+				<li class="mobile_menu_item last">
+					<a href="#" id="other_menu">Other Links <span id="other_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="other_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/aboutus.html" target="_self">About Us</a></li>
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm" target="_self">Cases</a></li>
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html" target="_self">CCN</a></li>
+						<li><a href="https://www.pathologyoutlines.com/cme" target="_self">CME (online)</a></li>
+						<li><a href="#" class="contact_form_trigger">Comment</a></li>
+						<li><a href="https://www.pathologyoutlines.com/contactus.html" target="_self">Contact Us</a></li>	
+						<li><a href="https://www.pathologyoutlines.com/FAQ.html" target="_self">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/crossword.html" target="_self">Games</a></li>
+						<li><a href="https://www.pathologyoutlines.com/grants.html" target="_self">Grants</a></li>
+						<!--<li>
+							<a href="#" class="sub_menu">Libraries <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a>
+							<ul class="hide subspecialty_sub_menu" style="display:none;">
+								<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+								<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+							</ul>
+						</li>-->					
+						<li><a href="https://www.pathologyoutlines.com/subscribe.html" target="_self">Newsletters</a></li>
+						<li><a href="https://www.pathologyoutlines.com/monthlystats.php" target="_self">Statistics</a></li>
+						<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html" target="_self">Testimonials</a></li>
+						<li><a href="https://www.youtube.com/channel/UCr-ov_ZWvCSHHMq-g-SHJJA" target="_blank">Videos</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+		
+	<div id="navigation">
+		<div id="top_nav" style="height:35px; background: url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_topnav.jpg') repeat-x scroll 0 0 transparent;">
+			<div class="content_section" style="display:flex;justify-content:space-between;">
+				<div class="top_nav_left">
+					<ul>
+						<!--<li class="first"><a href="https://www.pathologyoutlines.com"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_home.png" alt="" height="11px" width="14px" /></a></li>-->
+						<li class="first"><a href="https://www.pathologyoutlines.com" title="Home"><span class="fa fa-home" style="font-size: 14px;"></span></a></li>
+						<li class="nav_dropdown closed">
+							<a href="#" title="Chapters">Textbook</a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li></ul><ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li></ul><ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li></ul>										<!--<ul class="clearfix navcol1" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; border-left: 1px solid #ccc;*/padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+										</ul>
+										<ul class="clearfix navcol3" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;">
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 1</a></li>
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 2</a></li>
+										</ul>-->
+									</div>
+								</div>
+							</div>
+						</li>
+						<li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships">Fellowships</a></li>
+						<li><a href="https://www.pathologyoutlines.com/conferences">Conferences</a></li>
+						
+						<li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/directory">Directory <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+						<li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>-->
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li>
+						
+						<!--<li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>-->
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/payment.php">Payment</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>-->
+						
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/libraries.html">Libraries <span class="subnav_carrot"><span class="fa fa-caret-left"></span></span></a>
+							<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+					</ul>
+					<br class="clear_left" />
+				</div>
+				<div class="top_nav_right">
+					<div style="display: flex;justify-content: flex-end;">
+						<!--<div class="float_left" style="color: #fff;font-size: 19px;padding: 7px 0 0;">
+							<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+							<a href="https://twitter.com/pathoutlines" class="top_nav_icon" target="_blank" title="Twitter"><span class="fa-brands fa-x-twitter-square"></span></a>
+							<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-instagram"></span></a>
+							<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+							<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-youtube"></span></a>
+							<a href="https://med-mastodon.com/@pathout" class="top_nav_icon" target="_blank" title="Mastodon"><span class="fa-brands fa-mastodon"></span></a>
+							<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						</div>-->
+						<!--<form action="https://www.google.com/cse" id="cse-search-box" class="float_left">
+							<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+							<input type="text" class="top_nav_search float_left" name="q" placeholder="Search Site" />
+							<input type="submit" name="sa" class="float_left" style="background: #fff url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_search.jpg') no-repeat scroll 0 0;" />
+						</form>-->
+						<script async src="https://cse.google.com/cse.js?cx=partner-pub-3521518608648020:8640627894"></script>
+						<div class="gcse-searchbox-only" enableAutoComplete="true" data-newWindow="true" data-resultsUrl="https://www.pathologyoutlines.com/search-results"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="mid_nav">
+			<div class="content_section">
+				<div style="display:flex;justify-content:space-between;">
+					<div class="logo">
+						<a href="
+							https://www.pathologyoutlines.com/						">
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo.png" alt="logo"  height="115px" width="470px" />-->
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Header_Logo2_Silver_Anniversary_470x79_202206.png" alt="logo"  height="115px" width="470px" />-->
+							<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="logo"  height="80" width="420" border="0" />
+						</a>
+					</div>
+					<div class="top_units">
+						<!--<div class="sponsor_header align_center" style="color: #fff;">Platinum Level Sponsors</div>-->
+						<div style="display:flex;justify-content:space-between;">
+							<div class="top_unit1">
+								<!-- ad unit 1 -->
+								<!-- Header Left -->
+
+<!-- Header - Left Side [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc475437 = window.plc475437 || 0;
+document.write('<'+'div id="placement_475437_'+plc475437+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 475437, [225,125], 'placement_475437_'+opt.place, opt); }, opt: { place: plc475437++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/uscap25.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/house-USCAP-225x12511.png"="width: 225px" /></a>
+-->							</div>
+							<div class="top_unit2">
+								<!-- ad unit 2 -->
+								<!-- Header Right -->
+
+<!-- Header - Right side NEW [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc552089 = window.plc552089 || 0;
+document.write('<'+'div id="placement_552089_'+plc552089+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 552089, [225,125], 'placement_552089_'+opt.place, opt); }, opt: { place: plc552089++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/site/Header_01_Right_Redirect.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/CastleBios-header-right-240901.png" /></a>
+-->							</div>
+						</div>
+					</div>
+					<!--<br class="clearleft" />-->
+				</div>
+				<div id="news">
+					We have posted a new Founder's Corner video <a href="https://www.youtube.com/shorts/w2tzoB_871c" target="_blank">here</a>.				</div>
+			</div>
+		</div>
+		<div id="bot_nav" style="background: transparent url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_botnav.jpg') repeat-x;">
+			<div class="content_section">
+				<ul style="display:flex;justify-content:space-between;">
+					<!--<li class="first"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/apps.html">Apps</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>-->
+					<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/authors">Authors <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+												<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+							<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+								<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+									<!--
+									<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">List of Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+										
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									-->
+									
+									<ul class="clearfix navcol1" style="padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 30px;padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+									</ul>
+									<ul class="clearfix navcol4" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									<ul class="clearfix navcol5" style="padding-left: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorawards.html">Author Awards</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+					<li><a href="https://www.pathologyoutlines.com/review-questions">Question Bank</a></li>
+					<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+					<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>
+					<li><a href="#" class="contact_form_trigger">Comment</a></li>
+					<li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+					<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+					<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+					<!--<li><a href="https://www.pathologyoutlines.com/getinvolved.html">Get Involved</a></li>-->
+					<li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+					<li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+					<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+					
+				</ul>
+				<!-- <br class="clear_left" /> -->
+			</div>
+		</div>
+	</div>
+	<div id="page_content_container">
+	<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Blunt force injuries</div></div>
+<div id="main_content">
+	<div class="content_section">
+		<div class="min_content">
+			<div id="topic_page_top" class="topic_page">
+				<div id="po_banner_top" class="section_top po_banner_top">
+	<a href="mailto:comments@pathologyoutlines.com?subject=Email Address Change" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/6/20250603-132930_728x90-Update-Your-Email-Address.png" alt="" class="section_img_top" /></a></div>				<div class="authorship_wrapper clearfix">
+					<div class="authorship floatleft">
+						<h1>Autopsy & forensics</h1><h2>Types of injuries</h2><h3>Blunt force injuries</h3><br><div class="topic_page_author_section"><div class="topic_page_author_box"><div id="page-author-section"><div><div><strong>Authors:&nbsp;</strong><a href="https://www.pathologyoutlines.com/authors?id=870&pap=5" target="_blank">Lorenzo Gitto,  M.D.</a>, <a href="https://www.pathologyoutlines.com/authors?id=871&pap=5" target="_blank">Robert Stoppacher, M.D.</a></div><div><strong>Deputy Editor-in-Chief:&nbsp;</strong>Patricia Tsang, M.D., M.B.A.</div></div><div class="topic_page_image_box mobile"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=870&pap=5" target="_blank" title="Lorenzo Gitto,  M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2023/7/thumbs/20230725-105612_lorenzogitto.png" alt="Lorenzo Gitto,  M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=871&pap=5" target="_blank" title="Robert Stoppacher, M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2020/11/thumbs/20201123-144121_RobertStoppacher.png" alt="Robert Stoppacher, M.D." /></a></div></div></div><br /><div id="page-topic-complete-date"><strong>Last author update:</strong> 26 April 2021</div><div id="page-lastedit"><strong>Last staff update:</strong> 26 April 2021</div><br /> 
+<b>Copyright</b>: 2012-2025, PathologyOutlines.com, Inc.<br><br>
+
+<b>PubMed search</b>: <a href="?term=blunt+force+[TI]+injuries+forensic">Blunt force [TI] injuries forensic</a> </div><div><br /><div class="topic_page_image_box desktop"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=870&pap=5" target="_blank" title="Lorenzo Gitto,  M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2023/7/thumbs/20230725-105612_lorenzogitto.png" alt="Lorenzo Gitto,  M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=871&pap=5" target="_blank" title="Robert Stoppacher, M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2020/11/thumbs/20201123-144121_RobertStoppacher.png" alt="Robert Stoppacher, M.D." /></a></div></div></div></div>					</div>
+					<div id="po_banner_side" class="section_authorship floatleft po_banner_side">
+	<a href="https://www.pathologyoutlines.com/booksrecommended.html" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/5/20250501-111058_house-recommendedbooks-300x250.png" alt="" class="section_img_authorship" /></a></div>				</div>
+				<div class="meta_contents" style="margin-bottom:25px;"><div><strong>Page views in 2024:</strong> 8,111</div><div><strong>Page views in 2025 to date:</strong> 3,332</div></div><div id="po_banner_top2" class="section_top po_banner_top2">
+	</div><div class="table_of_contents"><div class="topicheading_title toc">Table of Contents</div><a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#definitiongeneral264176" class="scrollto">Definition / general</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#essentialfeatures264177" class="scrollto">Essential features</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#woundbiomechanics264178" class="scrollto">Wound biomechanics</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#abrasions264179" class="scrollto">Abrasions</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#contusions264180" class="scrollto">Contusions</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#lacerations264181" class="scrollto">Lacerations</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#fractures264182" class="scrollto">Fractures</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#specialtopicsinbluntforceinjuries264183" class="scrollto">Special topics in blunt force injuries</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#casereports264184" class="scrollto">Case reports</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#clinicalimages264185" class="scrollto">Clinical images</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#practicequestion1264186" class="scrollto">Practice question #1</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#practiceanswer1264187" class="scrollto">Practice answer #1</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#practicequestion2264188" class="scrollto">Practice question #2</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#practiceanswer2264189" class="scrollto">Practice answer #2</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#practicequestion3264190" class="scrollto">Practice question #3</a> | <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html#practiceanswer3264191" class="scrollto">Practice answer #3</a></div><div class="table_of_contents" style="word-break: break-all;-webkit-hyphens: auto;-moz-hyphens: auto; hyphens: auto;"><strong>Cite this page:</strong> Gitto L, Stoppacher R.  Blunt force injuries. PathologyOutlines.com website. https://www.pathologyoutlines.com/topic/forensicsbluntforce.html.  Accessed June 17th, 2025.</div><div class="block_content"><div class="block_section" id="definitiongeneral264176"><div class="topicheading_title">Definition / general</div><div class="block_body"><!-- START part of /topic/forensicsbluntforce.html to be edited by PathOut staff -->
+
+<ul>
+<li>Blunt object: an object that has a wide, dull or convex surface with rounded edges or corners; does not possess any pointed or sharp edges
+<li>Blunt force injuries: produced by blunt objects due to different possible mechanisms
+<ul>
+<li>Moving blunt object impacting against a resting body
+<li>Moving body impacting against a resting blunt object
+<li>Moving body and a moving blunt object collide
+<li>Body is trapped between 2 surfaces
+</ul>
+</ul></div></div><div class="block_section" id="essentialfeatures264177"><div class="topicheading_title">Essential features</div><div class="block_body"><ul>
+<li>Many different objects can produce blunt force injuries
+<li>Different objects may create similar injuries, so caution is needed when attributing a specific injury to a particular weapon or object
+<li>Specific determination of the age of blunt force injuries is currently not reliable
+<li>Distinguishing between antemortem and postmortem blunt force injuries is mandatory
+<li>Resuscitation injuries can produce blunt force injuries and must be differentiated at the postmortem examination
+</ul></div></div><div class="block_section" id="woundbiomechanics264178"><div class="topicheading_title">Wound biomechanics</div><div class="block_body"><ul>
+<li>Kinetic energy:
+<ul>
+<li>Energy possessed by an object due to its motion
+<li>Function of the object's mass (M) and its velocity (V)
+<li>KE = 1/2 MV<sup style="font-size: .83; line-height:0;">2</sup>
+</ul>
+<li>Impact dynamics: 
+<ul>
+<li>Impact refers to the physical force that develops during blunt trauma
+<li>Elastic impact: after the impact, an object bounces, preserving its kinetic energy
+<li>Plastic impact: kinetic energy is entirely or partially transferred to the body, leading to wound development; the vast majority of blunt force injuries have a plastic impact dynamic
+</ul>
+<li>Inertia: 
+<ul>
+<li>Property of a body to resist changes in velocity
+<li>If velocity changes suddenly (e.g. acceleration / deceleration), there will be a more severe effect on the affected body
+</ul>
+<li>Impacting surface features: blunt force injury's appearance depends on the composition, size and shape of the impacting object or surface (<a href="24353490" class="gr">Postepy Dermatol Alergol 2013;30:302</a>)
+<li>Tissue properties:
+<ul>
+<li>Elasticity and plasticity play an essential role in determining the wound features
+<li>Allow for deformation in response to an applied force
+<li>After deformation, elastic tissue can drive passive recoil and return to its initial state after the force's termination
+<li>When the force exceeds the tissue resistance, then a wound occurs
+</ul>
+<li>Size of the involved area:
+<ul>
+<li>Large body areas will disperse more energy, lessening the injury to the tissue
+<li>Focal or curved areas concentrate the energy from the impact on a limited area, resulting in more severe damage
+</ul>
+<li>Chronology of the impact:
+<ul>
+<li>Slow, gradual forces cause a progressive compression and the energy can be slowly absorbed, resulting in minor damage
+<li>Rapid or sudden forces result in a rapid transfer of energy to the body, frequently exceeding tissue resistance and producing more severe injuries
+</ul>
+<li>Energy transfer: injuries can develop in body areas far from the point of impact due to the transfer of energy within the body (e.g. ring fracture of the skull in a subject who falls from a height and hits the ground with the sacrum)
+</ul></div></div><div class="block_section" id="abrasions264179"><div class="topicheading_title">Abrasions</div><div class="block_body"><ul>
+<li>Skin injury consisting of the traumatic removal or detachment of the epidermis due to friction (shearing) or pressure (crushing) mechanisms
+<li>Tangential abrasions: a lateral rubbing mechanism that scrapes off the superficial layers of the skin; epidermal shreds (skin tags) can be present and may suggest the impact's direction, although this phenomenon does not always occur
+<ul>
+<li>Linear abrasions: caused by a sliding movement of a narrow object on the skin, which results in superficial epidermis denudation; typical examples are fingernail abrasions that can be observed in manual or ligature strangulations (<a href="7304518" class="bl">Am J Forensic Med Pathol 1981;2:45</a>, <a href="15275002" class="bl">J Clin Forensic Med 2003;10:255</a>)
+<li>Brush abrasions: caused by the body's frictional movements against a wide, rough surface or object, leading to scraping of the epidermis; usually wider at the starting point and narrower at the end (e.g. "road rash" in traffic accidents) (<a href="15275002" class="bl">J Clin Forensic Med 2003;10:255</a>)
+</ul>
+<li>Compression abrasions: direct pressure from a blunt object together with slight rubbing movements produce skin and epidermal crushing
+<ul>
+<li>Patterned abrasions: these injuries show a distinct pattern that may reflect the shape of the impacting blunt object; frequently observed in tortures (<a href="29367172" class="gr">Forensic Sci Int 2018;284:85</a>) 
+<ul>
+<li>Typically occur when the force is applied at or near perpendicular to the skin surface and can be classified as:
+<ul>
+<li>Impact abrasions: occur when a force is applied suddenly or rapidly and perpendicular to the skin, pushing and crushing it on a body surface
+<li>Pressure abrasions: occur when there is a slow, prolonged compression of the skin by a blunt object, which results in a dried, parchment-like abrasion (e.g. hanging mark)
+</ul>
+</ul>
+<li>Nonpatterned abrasions: abrasions that don't resemble the producing object
+</ul>
+<li>Differential diagnosis in abrasions:
+<ul>
+<li>Antemortem abrasions (with survival interval):
+<ul>
+<li>Usually dark red or red, covered with a dark scab and showing signs of healing
+<li>Inflammatory cell infiltration, evidence of hemorrhage or granulation tissue are histologic signs of vitality (<a href="17276200" class="bl">Clin Dermatol 2007;25:39</a>)
+</ul>
+<li>Postmortem abrasions:
+<ul>
+<li>Several mechanisms can produce abrasions in the postmortem period (autopsy procedures, insect activity, body dragging on a rough surface, etc.)
+<li>Usually orange-yellow or brown with a parchment appearance (<a href="25066165" class="bl">J Forensic Leg Med 2014;26:10</a>, <a href="19237864" class="bl">Am J Forensic Med Pathol 2009;30:84</a>)
+</ul>
+</ul>
+<li>Dating of abrasion: despite recent research describing possible morphological features to establish an abrasion's age, it is extremely difficult to reach reliable conclusions based on the morphology of the injury (<a href="28418938" class="gr">Am J Forensic Med Pathol 2017;38:167</a>)
+</ul>
+</ul></div></div><div class="block_section" id="contusions264180"><div class="topicheading_title">Contusions</div><div class="block_body"><ul>
+<li>A contusion results from crushing or tearing of the dermis and subcutaneous tissues without breaking of the skin; the applied force causes blood vessel rupture, leading to variable bleeding in the subcutaneous space
+<li>Locations: contusions can develop on the body surface as well as on internal organs
+<li>Terms:
+<ul>
+<li>Contusion: lesion that can happen anywhere in the body
+<li>Bruise: lesion visible on the skin surface
+<li>Ecchymosis: lesion resulting from nontraumatic bleeding, such as medical therapy (e.g. intravenous injection) or senile ecchymoses
+<li>Petechia: small, pinpoint hemorrhage due to acute rise in venous pressure (congestion) leading to capillary rupture (e.g. from asphyxia)
+<li>Hematoma: large collection of extravasated blood (e.g. from traffic accident)
+</ul>
+<li>Patterned contusions:
+<ul>
+<li>Linear contusions: when a rectangular shaped object strikes the body
+<li>Tram-like or railway line contusions: when a cylindrical or rod-like object hits the body, the blood accumulates laterally to the point of impact, creating an injury that appears pale in the center, lined by 2 linear, parallel bruises on each side (<a href="28674961" class="bl">Forensic Sci Med Pathol 2017;13:508</a>)
+<li>Loop contusions: when a cable or cord-like item strikes the body, frequently seen in child abuse (<a href="24426797" class="gr">Paediatr Child Health 2013;18:433</a>)
+<li>Fingertip contusions: a cluster of small round bruises, approximately 1 cm in diameter, develops when the offender grips a victim's body area vigorously
+<ul>
+<li>Most frequently involved body area is the neck
+<li>Sometimes, a single, larger, oval or round bruise on the opposite side of the clustered fingertip contusions may also be present (thumb-like bruise) (<a href="30624423" class="bl">Pediatr Emerg Care 2019 Jan 7 [Epub ahead of print]</a>)
+</ul>
+<li>Intradermal contusions: when an object with grooves or ridges hits the skin, producing an injury limited to the subepidermal layer (e.g. tire marks, shoe marks) (<a href="17767653" class="bl">J Forensic Sci 2007;52:1050</a>, <a href="33385145" class="gr">Forensic Sci Int 2020;2:521</a>)
+<li>Suction contusions: confluence of multiple petechiae in a circumscribed area due to a vacuum-like mechanism, which leads to capillary rupture and blood leakage in a circumscribed body area (<a href="27555907" class="gr">Oral Implantol (Rome) 2016;8:68</a>)
+<li>Coup / contrecoup contusions: contusions that develop at the point of impact (coup) and on the side opposite the impacted area (contrecoup); typically observed on the brain (<a href="16174940" class="bl">Neurocrit Care 2004;1:385</a>)
+<li>Human bites: typical bruise resulting from human bites shows 2 opposing arches separated by a central pale, uninvolved area with possible associated abrasions and lacerations (<a href="25557299" class="gr">J Forensic Odontostomatol 2014;32:1</a>)
+</ul>
+<li>Dating of bruises: 
+<ul>
+<li>Red blood cells and hemoglobin degradation lead to pigment formation and chromatic changes of the bruise, generally from red / purple to green to yellow-brown
+<li>Chromatic changes have been studied to estimate the age of the bruise
+<li>Consistent gross or histological dating of contusion is not reliable
+<ul>
+<li>With the current knowledge, it is reasonable to state that a yellow colored bruise may have been produced &gt; 18 hours before the examination
+<li>Absence of yellow color does not mean &lt; 18 hours
+<li>Recommended to describe them just as recent or old (<a href="25869263" class="bl">Forensic Sci Med Pathol 2007;3:241</a>)
+</ul>
+</ul>
+<li>Differential diagnosis in contusions:
+<ul>
+<li>Antemortem contusions: contusions are a vital phenomenon; can affect any body area, are usually unilateral and asymmetrical, are commonly associated with tissue swelling, show different colors in the same subject, do not become pale on digital pressure and show a cellular reaction microscopically
+<li>Livor mortis: lividity is usually bilateral and symmetrical, uniform in color, shows pallor on digital pressure (if recent), is preferentially located in the dependent portions of the body with no cellular reaction at the microscopic examination (<a href="9539390" class="bl">Am J Forensic Med Pathol 1998;19:46</a>)
+<li>Tardieu spots: small postmortem hemorrhages that develop in areas of intense lividity (also called hypostatic hemorrhages) (<a href="19901802" class="gr">Am J Forensic Med Pathol 2009;30:322</a>)
+</ul></div></div><div class="block_section" id="lacerations264181"><div class="topicheading_title">Lacerations</div><div class="block_body"><ul>
+<li>Laceration occurs when a blunt force causes skin compression, crushing and splitting; lacerations frequently occur on the skin overlying bony prominences but can also affect the internal organs, leaving the skin intact
+<li>Hallmark: presence of tissue bridges in the depth of the wound is the pathognomonic feature for lacerations; also helps to distinguish them from an incised wound (sharp force injury)
+<li>Edges: laceration edges are usually jagged; abrasions, bruising and crushing of the margin are frequently observed
+<li>Types of lacerations:
+<ul>
+<li>Tear lacerations: classic form of laceration occurring when a blunt force impact rips and tears the skin and the subcutaneous tissues
+<li>Split lacerations: compression of the skin between blunt object and bone
+<li>Stretch lacerations: blunt trauma that causes an overstretching of the skin until it ruptures
+<li>Crush lacerations: blunt trauma that causes grinding and compression of the skin and soft tissue, resulting in possible amputation
+<li>Degloving injury: blunt mechanism that occurs when the skin and subcutaneous tissues are trapped between 2 hard surfaces and are suddenly pulled at the moment of the impact, resulting in minimal to extensive loss of skin and soft tissues (<a href="https://www.researchgate.net/publication/271824689_A_traffic_accident_resulting_in_a_degloving_injury_of_the_passenger_Case_report_and_biomechanical_theory" class="gr">Rom J Leg Med 2013;21:165</a>)
+<li>Avulsions: violent blunt trauma that tears away the tissues from their attachments
+</ul>
+<li>Direction of the impact: sometimes the presence of an abrasion surrounding a laceration may suggest the direction of the impact; abrasion is usually wider at the point of impact
+<li>Undermining: impact is over the bone, resulting in a clean separation of the skin from the underlying bone in the direction of the application of force
+<li>Dating of lacerations: estimation of the age of a laceration is not reliable
+<li>Differential diagnosis:
+<ul>
+<li>Incised wounds: sharp object (such as a knife) produces incised wounds (or cuts) that are typically longer than deeper due to the blade's sharpness and the sharp force related mechanism of injury; incised wounds lack tissue bridges; edges are usually sharply demarcated
+</ul>
+</ul></div></div><div class="block_section" id="fractures264182"><div class="topicheading_title">Fractures</div><div class="block_body"><ul>
+<li>Bone lesions that occur when the intensity of the blunt force exceeds the bone resistance
+<li>Types of fractures (<a href="31239921" class="gr">Acad Forensic Pathol 2016;6:463</a>):
+<ul>
+<li>Traumatic: typical fractures due to a blunt force trauma
+<li>Pathologic: fractures due to a pathologic condition (e.g. osteoporosis, bone metastasis, etc.)
+<li>Direct: fractures that occur at the point of impact
+<li>Indirect: fractures that occur away from the point of impact due to energy transfer
+<li>Open (compound): direct communication between the fracture and the external environment
+<li>Closed: the fracture lies underneath intact skin
+<li>Complete: the bone is separated into 2 or multiple parts
+<li>Incomplete: the bone cracks but does not separate
+</ul>
+<li>Biomechanisms of fracture:
+<ul>
+<li>Long bones:
+<ul>
+<li>Compression: leads to an internal shortening of the bone
+<li>Traction: when a tension force pulls the bone apart
+<li>Shear: when a force acts parallel to the bone, resulting in a fracture parallel to the force's direction
+<li>Torsion (spiral): when the bone is twisted; typically observed in child abuse (tibial fractures)
+<li>Bending: when the bone is compressed on one side on its axis, creating tension on the opposite side
+</ul>
+<li>Skull: following a blunt force injury to the head, the area of impact temporarily bends inward while there is a compensatory distortion of surrounding areas; when the intensity of the impact exceeds the skull resistance, fractures develop
+<ul>
+<li>Linear: usually resulting from the impact of the head against a large surface; can develop on the cranial vault or on the bases and can be single or multiple, sometimes intersecting
+<li>Depressed: break of the bone, which is pushed inward at the point of impact, producing a permanent focal depression of the skull; usually results from a blunt object with a limited surface striking the head (e.g. hammer) (<a href="24644219" class="bl">Med Sci Law 2015;55:44</a>)
+<li>Ring: fracture encircling the foramen magnum resulting from the transmission of energy over the bone from the impact point to a distant site
+<li>Diastatic: fracture involves and separates the cranial sutures (common in children)
+<li>Combined: combination of the mechanisms described above
+</ul>
+</ul></div></div><div class="block_section" id="specialtopicsinbluntforceinjuries264183"><div class="topicheading_title">Special topics in blunt force injuries</div><div class="block_body"><ul>
+<li>Basilar skull fractures: delayed bruises may follow cranial base fractures but they should not be considered definitive evidence of a specific cranial base fracture
+<ul>
+<li>Anterior cranial fossa fracture: conjunctival, palpebral or periorbital bruises (raccoon eyes) with or without liquorrhea or bleeding from the nose (<a href="30069094" class="gr">J Neurosci Rural Pract 2018;9:370</a>) 
+<li>Middle cranial fossa fracture: bruising visible behind and below the ear at the mastoid process (Battle sign) or bleeding from the ear (<a href="30725789" class="gr">StatPearls: Battle Sign [Accessed 8 February 2021]</a>)
+<li>Posterior cranial fossa fracture: Battle sign or pharyngeal bruises / hematomas
+</ul>
+<li>Commotio cordis: cardiac concussion in which a blunt impact to the precordium leads to a cardiac rhythm disorder in the absence of structural heart damage (<a href="31030120" class="bl">Leg Med (Tokyo) 2019;38:73</a>, <a href="28587536" class="bl">Med Sci Law 2017;57:146</a>)
+<li>Acceleration / deceleration injuries: 
+<ul>
+<li>Typically observed in motor vehicle collisions
+<li>Rapid deceleration results in differential movements among adjacent structures, resulting in the tearing of visceral organs, ligaments and vascular pedicles
+<li>Internal organs are also crushed between the anterior abdominal wall and the spine or posterior chest, leading to severe parenchymal lacerations
+</ul>
+<li>Blast injuries (<a href="21149352" class="gr">Philos Trans R Soc Lond B Biol Sci 2011;366:144</a>): 
+<ul>
+<li>Typically observed in explosions
+<li>Following the detonation, a shock wave (blast or pressure wave) propagates radially from the original point, acting as a blunt force when interacting with the body
+<li>Lungs, middle ear (barotrauma), gastrointestinal tract and bones are the most affected body areas 
+</ul>
+<li>Chop lacerations: 
+<ul>
+<li>Injuries that show both blunt and sharp force trauma features
+<li>Produced by a heavy blunt object with a sharp edge (e.g. cleaver)
+<li>Typically show abraded and bruised edges with a clean separation of the margins and no tissue bridges
+</ul>
+<li>Resuscitation injuries: cardiopulmonary resuscitation (CPR) or other procedures may result in physical injuries that can be hard to interpret during autopsy (<a href="26048495" class="bl">J Forensic Leg Med 2015;33:39</a>)
+<ul>
+<li>Commonly observed injuries are:
+<ul>
+<li>Bruises and abrasions on the scalp and face (e.g. use of a mask for resuscitation, intubation attempts, pinching of the nose during mouth to mouth resuscitations, etc.)
+<li>Bruise and abrasions on the precordial region or the central chest area due to external compressions during cardiopulmonary resuscitation
+<li>Rib and sternum fractures and soft tissue hemorrhages are commonly associated
+<li>Laceration of the heart, lungs, pleura and pericardial sac may result from rib fractures
+<li>Electrical burns from defibrillation, in the form of a rectangular, parchment-like, yellow-orange abrasion on the anterior chest
+<li>Retinal hemorrhages have been rarely described in children following cardiopulmonary resuscitation (<a href="27787884" class="bl">J Forensic Sci 2017;62:107</a>)
+</ul>
+</ul>
+</ul>
+</div></div><div class="block_section" id="casereports264184"><div class="topicheading_title">Case reports</div><div class="block_body"><ul>
+<li>4 month old boy with a patterned abrasion of uncertain etiology (<a href="19838823" class="bl">Forensic Sci Med Pathol 2009;5:324</a>)
+<li>49 year old woman with diaphragm laceration due to cardiopulmonary resuscitation (<a href="27364299" class="gr">J Forensic Sci 2016;61:1135</a>)
+<li>90 year old man with an atypical patterned bruise on the forearm (<a href="24652080" class="bl">Forensic Sci Med Pathol 2014;10:637</a>)
+<li>92 year old man with a simple depressed skull fracture (<a href="24644219" class="bl">Med Sci Law 2015;55:44</a>)
+<li>Severe degloving injury of the foot (<a href="https://www.researchgate.net/publication/271824689_A_traffic_accident_resulting_in_a_degloving_injury_of_the_passenger_Case_report_and_biomechanical_theory" class="gr">Rom J Leg Med 2013;21:165</a>)
+<li>3 cases of commotio cordis (<a href="15744544" class="bl">Int J Legal Med 2005;119:88</a>)
+</ul></div></div><div class="block_section" id="clinicalimages264185"><div class="topicheading_title">Clinical images</div><div class="block_body"><br><span class=f11bi>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.</span><br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto01.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Skin injury consisting of the traumatic removal or detachment of the epidermis due to friction (shearing) or pressure (crushing) mechanisms.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto01.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Abrasion</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto02.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Injury that results from crushing or tearing of the dermis and subcutaneous tissues without breaking of the skin.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto02.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Bruise</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto03.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Injury due to skin compression, crushing and splitting. It frequently develops on the skin overlying bony prominences but can also occur to the internal organs leaving the skin intact. The hallmark for laceration is the presence of tissue bridges in the depth of the wound (yellow arrow). Jagging, abrasion and bruising of the edges are also common.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto03.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Laceration</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto04.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Bone lesion that develops when the intensity of a trauma exceeds the bone resistance. An open fracture of the left leg is shown.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto04.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Fracture</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto05.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Complex wound showing all basic traumatic injuries.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto05.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Mixed wound</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto06.jpg" data-lightbox="forensicsbluntforceclinical" data-title="These epidermal shreds may suggest the direction of the impact.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto06.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Superficial abrasion with skin tags</div>
+<br>
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto07.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Brush (or sliding) abrasions caused by the body's frictional movements against the rough asphalt surface.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto07.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Road rash</div>
+
+<div class="img2">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto08.jpg" data-lightbox="forensicsbluntforceclinical" data-title="A cluster of linear, parallel, orange-red abrasions found on the chest of a victim of homicide. This pattern resembles the shape of a serrated blade (see next picture). On the bottom right of the picture, a stab wound is also present.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto08.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+&emsp;
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto09.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Knives with serrated blades can produce patterned abrasions such as the one shown in the previous picture. The mechanism of injury involves the movement of the blade, which is directed tangentially to the skin’s plane (the knife is almost in a flat position to the skin, abrading its surface). <br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto09.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Patterned abrasions</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto10.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Superficial, parallel scratches (linear abrasions on the anterior aspect of the neck) due to a sliding movement of the nails on the skin.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto10.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Fingernail abrasions</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto11.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Ligature mark observed in a victim of hanging: the affected skin shows an abraded, dried, parchment appearance with small skin tags.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto11.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Pressure abrasion</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto12.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Cardiopulmonary resuscitation commonly results in postmortem abrasions due to manual chest compressions.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto12.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Postmortem abrasions</div>
+
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto13.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Bruise due to a medical treatment (such as intravenous injections).<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto13.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Ecchymosis</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto14.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Large collection of extravasated blood, typically observed in high intensity blunt trauma such as traffic accidents.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto14.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Hematoma</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto15.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Contusions can happen in the soft tissues beneath the skin as well as on the internal organs. In this picture, a contusion on the posterior aspect of the heart in a victim who jumped from the fourth floor of a hospital is shown.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto15.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Visceral contusion</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto16.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Injury that appears pale in the center, lined by 2 linear, parallel bruises on each side. It occurs when a cylindrical or rod-like object hits the body so that the blood accumulates laterally to the point of impact.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto16.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Tram-like bruise</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto17.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Curvilinear loop marks caused by a cable or cord striking the body (typically seen in child abuse).<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto17.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Loop-like bruise</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto18.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Patterned injury on the gluteal area of a victim who jumped from the 5th floor of a building, impacting against the large, patterned floor. The shape of the lesions resembles the pattern of the impacted surface. In the picture, a rectal thermometer to record the body temperature on the scene is also shown.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto18.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Patterned abraded contusion</div>
+
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto19.jpg" data-lightbox="forensicsbluntforceclinical" data-title="In this picture, a cluster of small, round to oval bruises due to skin gripping on the right thigh is shown.<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto19.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Fingertip contusion</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto20.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Even if the skin is not involved, a dark discoloration of the underlying tissue may indicate a blood collection in the subcutaneous space. In this case, a skin dissection showed a diffuse subcutaneous hemorrhage. <br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto20.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Subcutaneous hemorrhage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto21.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Some injuries are not visible at the external examination but a dissection of the skin and soft tissue may reveal their presence and extension. In this case, a diffuse hemorrhage of the deep soft tissue of the leg was observed after dissection, while the skin and subcutaneous tissues were uninvolved.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto21.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Deep soft tissue hemorrhage</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto22.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Small skin postmortem hemorrhages that develop in areas involved by intense lividity. In this case, the subject was found in a prone position with development of livor mortis on the anterior aspect of the trunk.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto22.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Tardieu spots</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto23.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Soft tissue bridges from incomplete separation of the different soft tissues (i.e., vessels, elastic fibers, nerves) are the hallmarks for lacerations and help distinguish between them and sharp force injuries.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto23.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Laceration</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto24.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Lacerations to the scalp from a round end hammer. This type of weapon can produce injuries that do not necessarily reproduce the exact shape of the producing object.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto24.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Hammer lacerations</div>
+
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto25.jpg" data-lightbox="forensicsbluntforceclinical" data-title="The most frequent site of aortic rupture is the isthmus. Rapid chest deceleration / compression induces torsional and shearing forces that result in transverse lacerations (black arrows) and rupture of the aorta.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto25.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Aortic lacerations due to motor vehicle collision</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto26.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Liver laceration due to motor vehicle collision (white arrows).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto26.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Liver laceration</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto27.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Injury due to a severe blunt trauma that tears away the tissues from their attachments. The morphology of the wound may give information regarding the direction of the impact (black arrows).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto27.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Avulsion laceration</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto28.jpg" data-lightbox="forensicsbluntforceclinical" data-title="The victim was struck by a car and sustained multiple internal injuries, including a closed right femur fracture (red arrow).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto28.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Closed fracture</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto29.jpg" data-lightbox="forensicsbluntforceclinical" data-title="The victim accidentally fell into a waste compactor while working. He sustained severe injuries, including multiple closed and open fractures.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto29.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Open fractures</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto30.jpg" data-lightbox="forensicsbluntforceclinical" data-title="This victim died after jumping from the third floor of a building landing on his face. Severe disruption of the usual facial architecture can be observed.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto30.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Multiple facial bone fractures</div>
+
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto31.jpg" data-lightbox="forensicsbluntforceclinical" data-title="The victim struck the head against a large, smooth surface, sustaining a classic linear skull fracture.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto31.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Linear fracture of the cranial vault</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto32.jpg" data-lightbox="forensicsbluntforceclinical" data-title="This finding is suggestive of anterior cranial base fractures (see next picture).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto32.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Raccoon eyes</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto33.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Anterior cranial base fractures (yellow arrows).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto33.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Anterior cranial base fractures</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto34.jpg" data-lightbox="forensicsbluntforceclinical" data-title="This finding is suggestive of middle cranial base fractures (see next picture).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto34.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Ear bleeding</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto35.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Middle cranial base fractures (yellow arrows).
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto35.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Middle cranial base fractures</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto36.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Inward break of the bone at the point of impact, resulting in a permanent focal depression of the skull.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto36.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Depressed skull fracture</div>
+
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto37.jpg" data-lightbox="forensicsbluntforceclinical" data-title="Fracture surrounding the foramen magnum due to the transmission of energy over the bone from the impact site to the skull base.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto37.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Ring fracture</div>
+
+<div class="img2">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto38.jpg" data-lightbox="forensicsbluntforceclinical" data-title="In motor vehicle accidents, there can be a discrepancy between the external and internal findings. In this case, the external examination does not show evidence of relevant injuries.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto38.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+
+&emsp;
+
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto39.jpg" data-lightbox="forensicsbluntforceclinical" data-title="In the same case, the autopsy shows a complete transversal fracture of the spine.
+<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto39.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Victim of a motor vehicle collision</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto40.jpg" data-lightbox="forensicsbluntforceclinical" data-title="8 year old boy killed by his mother using a cleaver. Multiple scalp lacerations are present. Some lacerations show a thin rim of abrasion and are surrounded by a soft bruise. Linear, superficial skull defects are also present. The wound's center is usually clear, without tissue bridges, since the cleaver has a sharp edge (mixed blunt and sharp weapon).<br>Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto40.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Chop lacerations</div></div></div><div class="block_section" id="practicequestion1264186"><div class="topicheading_title">Practice question #1</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto41.jpg" data-lightbox="forensicsbluntforceBRQ1" data-title="Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto41.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a></div>
+<br>
+How are the lesions shown in the image best characterized?
+<br><br>
+<ol class="liststyle2">
+<li>Contact dermatitis
+<li>Electrocution
+<li>Postmortem insect activity
+<li>Road rash
+<li>Third degree thermal burn
+</ol></div></div><div class="block_section" id="practiceanswer1264187"><div class="topicheading_title">Practice answer #1</div><div class="block_body"><b>D.</b> Road rash. This is an antemortem abrasion typically observed in traffic accidents when the body slides against the rough asphalt, producing injuries with a burnt appearance (also called brush burns). Postmortem abrasion shows a leathery, yellow-brown parchment appearance. Postmortem insect activity (typically ants) usually produces abrasion along the edge of clothing or floor irregularities if the body is in contact with the floor (e.g. edges of cobblestones). Third degree burns are full thickness burns that go through the dermis and affect deeper tissues. Electrical burn typically consists of a depressed leathery area of tissue necrosis, occasionally with blistering. Contact dermatitis is a red, itchy rash caused by direct contact with a specific item or substance and typically resembles the allergen's shape.
+
+<br><br> <a href="#" class="contact_form_trigger">Comment Here</a> <br><br> Reference: <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html">Blunt force injuries</a>
+</div></div><div class="block_section" id="practicequestion2264188"><div class="topicheading_title">Practice question #2</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto42.jpg" data-lightbox="forensicsbluntforceBRQ2" data-title="Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto42.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a></div>
+<br>
+What weapon / mechanism most likely caused the injury depicted by the 2 red arrows?
+<br><br>
+<ol class="liststyle2">
+<li>Hammer: striking the skin at a shallow angle
+<li>Metal pipe tube: 2 bruises due to 2 distinct hits
+<li>Metal pipe tube: single injury due to one hit in the center 
+<li>Postmortem artifact: lividity 
+<li>Shoe: kicking
+</ol></div></div><div class="block_section" id="practiceanswer2264189"><div class="topicheading_title">Practice answer #2</div><div class="block_body"><b>C.</b> Metal pipe tube: single injury due to one hit in the center. This is a typical tram track bruise due to cylindrical or rod-like objects (e.g. metal pipe). When the weapon strikes the body, the skin is compressed and there is no damage to the underlying vessels but the blood accumulates laterally to the point of impact due to the rupture of blood vessels on either side of the impacting object. The resulting bruise appears as a pale, undamaged central area lined on either side by 2 parallel lines of bruising. Kicking usually results in patterned abrasions / bruises resembling the morphology of the shoe sole. Lividity is usually bilateral and symmetrical, uniform in color, shows pallor on digital pressure and is preferentially located in the body's dependent portions. Hammer injuries are usually focal and resemble the shape of the hammer’s head.
+
+<br><br> <a href="#" class="contact_form_trigger">Comment Here</a> <br><br> Reference: <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html">Blunt force injuries</a>
+</div></div><div class="block_section" id="practicequestion3264190"><div class="topicheading_title">Practice question #3</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto43.jpg" data-lightbox="forensicsbluntforceBRQ3" data-title="Contributed by Lorenzo Gitto, M.D., Robert Stoppacher, M.D., Serenella Serinelli M.D., Ponni Arunkumar, M.D. and Luigi Bonaccorso, M.D.">
+<img width="96" height="96" alt="" src="https://www.pathologyoutlines.com/imgau/forensicsbluntforceGitto43.jpg" onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a></div>
+<br>
+What is the best description for the injury depicted in the yellow circle in this victim of a traffic accident?
+<br><br>
+<ol class="liststyle2">
+<li>Avulsion laceration
+<li>Chopping injury
+<li>Necrotizing fasciitis
+<li>Stab wound injury
+<li>Tissue procurement artifact
+</ol></div></div><div class="block_section" id="practiceanswer3264191"><div class="topicheading_title">Practice answer #3</div><div class="block_body"><b>A.</b> Avulsion laceration. The finding is consistent with a typical avulsion laceration, a severe form of laceration in which the soft tissues, musculature or bone are torn away from the normal points of attachment. The tissues are often completely detached and these injuries may bleed profusely. A stab wound is a penetrating injury to the skin that results from a sharp or similar pointed object. Chopping wounds are injuries produced by heavy blunt objects that also possess a sharp edge that shows both sharp force (cuts) and blunt force (abrasion and contusion). Necrotizing fasciitis is a rare bacterial infection that spreads quickly in the body and results in diffuse necrosis of fascia, skin and subcutaneous tissue.
+
+<br><br> <a href="#" class="contact_form_trigger">Comment Here</a> <br><br> Reference: <a href="https://www.pathologyoutlines.com/topic/forensicsbluntforce.html">Blunt force injuries</a></div></div></div>				<div class="page_content">
+									</div>
+				<div id="po_banner_bottom" class="section_bot po_banner_bottom">
+	<a href="https://www.pathologyoutlines.com/authors" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2024/10/20241001-100008_House-editorialboard-_1456x180_240202.png" alt="" class="section_img_bot" /></a></div>				<a class="back_to_top scrollto" href="#topic_page_top">Back to top</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Blunt force injuries</div></div> </div> <!-- End page_content_container -->   
+    	<!-- typical footer area -->
+	<div id="mobile_footer">
+		<div class="mobile_signup_form"
+			 style="display:none;"		>
+			<div class="mobile_signup_form_col1">
+				<form enctype="application/x-www-form-urlencoded" method="post" action="http://visitor.constantcontact.com/d.jsp" target="_blank">					
+					<div class="mobile_signup">Sign up for our Email Newsletters</div>
+					<input type="text" placeholder="Email Address" name="ea" size="20" class="mobile_signup_email lineheight"><button type="submit" class="mobile_signup_submit lineheight">
+						<i class="fa fa-caret-right"></i>
+					</button>
+					<input type="hidden" value="JOIN" name="go" />
+					<input type="hidden" value="1102437360197" name="m" />
+					<input type="hidden" value="oi" name="p" />
+				</form>
+			</div>
+		</div>
+		<div class="mobile_footer_address">
+			<div><a href="#" class="contact_form_trigger">Comment</a></div>
+		</div>	
+		<div class="mobile_copyright">
+			<div>&copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.</div>
+					</div>
+	</div>
+    
+    <div id="footer">
+        <div class="footer_content">
+            <div class="content_section">
+                <div class="footer_twocolumn">
+                    <div class="col1 float_left">
+                        <div class="subcol1 float_left">
+                            <ul class="footer_nav fn1">
+                                <li><a href="https://www.pathologyoutlines.com">Home</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/aboutus.html">About Us</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/site/amazonhome.html">Amazon.com</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/review-questions">Board Review</a></li> 
+                                <li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li> 
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol2 float_left">
+                            <ul class="footer_nav fn2">
+                                <li><a href="https://www.pathologyoutlines.com/cme">CME (online)</a></li>
+                                <li><a href="#" class="contact_form_trigger">Comment Here</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/conferences">Conferences / Webinars</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/copyrightinfo.html">Copyright</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/FAQ.html">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships.html">Fellowships</a></li>   
+						<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol3 float_left">
+                            <ul class="footer_nav fn3">
+					   
+					   
+						 <li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/libraries.html">Libraries</a>
+							<!--<ul class="footer_subnav">
+								<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/topic/librarycovid19.html">COVID-19 resources</a></li>
+							</ul>-->
+						</li>
+
+                                <li><a href="https://shop.spreadshirt.com/pathologyoutlines/" target="_blank">Merchandise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/privacypolicy.html">Privacy Policy</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+                                
+                            </ul>
+                        </div>
+                        <br class="clearleft" />
+                    </div>
+                    <div class="col2 float_left">
+                        <div class="footer_logo">
+					   <img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" width="420" height="80" border="0" alt="" />
+                        </div>
+                        <div class="footer_address">
+                            <div>30150 Telegraph Road, Suite 119, Bingham Farms, Michigan 48025 (USA) </div>
+                            <div>Telephone: (248) 646-0325; Email: <a href="mailto:Comments@pathologyoutlines.com">Comments@pathologyoutlines.com</a></div>
+                        </div>
+				    <div class="footer_social">
+						<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+						<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-square-instagram"></span></a>
+						<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+						<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-square-youtube"></span></a>
+						<a href="https://www.threads.net/@pathoutlines" class="top_nav_icon" target="_blank" title="Threads"><span class="fa-brands fa-square-threads"></span></a>
+						<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						<a href="https://bsky.app/profile/pathologyoutlines.bsky.social" class="top_nav_icon" target="_blank" title="Bluesky"><span class="fa-brands fa-square-bluesky"></span></a>
+						<a href="https://www.reddit.com/r/PathologyOutlines" class="top_nav_icon" target="_blank" title="Reddit"><span class="fa-brands fa-square-reddit"></span></a>
+				    </div>
+                        <div class="signup_form">
+                            <div class="float_left signup_form_col1">
+                                <form enctype="application/x-www-form-urlencoded" method="post" action="https://visitor.constantcontact.com/d.jsp" target="_blank">
+                                    <div class="signup">Sign up for our Email Newsletters</div>
+                                    <input type="text" placeholder="Email Address" name="ea" size="20">
+                                    <input type="submit" name="go" value="JOIN">
+                                    <input type="hidden" value="1102437360197" name="m">
+                                    <input type="hidden" value="oi" name="p">
+                                </form>
+                            </div>
+                            <br class="clearleft" />
+                        </div>
+                    </div>
+                    <br class="clearleft" />
+                </div>
+                <div class="footer_additional">
+                    This website is intended for pathologists and laboratory personnel but not for patients.  We welcome suggestions or questions about using the website. However, we cannot answer medical or research questions or give advice.
+                </div>
+            </div>
+        </div>
+        <div id="footer_copy">
+            <div class="content_section">
+                &copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.
+            </div>
+        </div>
+    </div>
+    <div id="modaloverlay" style="display:none;"></div>
+    <div class="loading_modal" style="display:none;">
+        <div style="height: 35px;text-align: center;margin: 10px 0;">
+            <div class="loading_spinner position1"></div>
+        </div>
+        <div id="loading_modal_message">Processing</div>
+    </div>
+    <div class="notification" style="display:none;"><div class="inner"></div></div>
+    <div style="display:none;">
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/ntbg3.png" width="1" height="1" alt="Image 01" />
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/loader-sprite.png" width="1" height="1" alt="Image 02" />
+	</div>
+   
+					<div id="admin_bar">
+					<div class="footer_menu_icon_wrapper"><a href="#" class="footer_menu_icon"><span class="fa fa-navicon"> Administration</span></a></div>
+					<div class="admin_inner">
+						<div class="admin_links">
+							<div><a href="https://www.pathologyoutlines.com/admin/page-list"><img src="https://www.pathologyoutlines.com/apple-touch-icon.png" alt="" style="height:18px;width:auto;vertical-align:middle;" />&nbsp;&nbsp;Pathology Outlines Administration</a></div>
+							<ul>
+															</ul>    
+						</div>
+						<div class="admin_bar_account_links">
+							<div class="admin_bar_section admin_bar_label cursor_default">
+								Signed in as: pathout@mediag.com							</div>
+							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/user?id=2"><span class="fa fa-fw fa-gear"></span></a></div>							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/logout"><span class="fa fa-fw fa-sign-out"></span>Log Out</a></div>
+						</div>
+					</div>
+				</div>
+				</body>
+</html>

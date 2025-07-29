@@ -1,0 +1,1030 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<base href="https://www.ncbi.nlm.nih.gov/pubmed/" target="_blank" />	<meta charset="utf-8" />
+	<title>Pathology Outlines - Sudden cardiac death</title>
+
+	<meta name="description" content="Sudden cardiac death is the unexpected death of an individual not attributable to extracardiac causes within 1 hour of symptom onset or within 24 hours of last being known in good health (if death is unwitnessed)" />	
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<meta name="resource-type" content="document">
+	<meta name="revisit-after" content="1 days">
+	<meta name="distribution" content="global">
+	<meta name="rating" content="general">
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	
+	<!-- social meta tags -->
+	<meta property="og:image" content="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo_for_social.jpg" />
+	<meta property="og:title" content="Sudden cardiac death"/>
+	<meta property="og:url" content="https://www.pathologyoutlines.com/scratchpad"/>
+	<meta property="og:description" content="Sudden cardiac death is the unexpected death of an individual not attributable to extracardiac causes within 1 hour of symptom onset or within 24 hours of last being known in good health (if death is unwitnessed)" />		
+	<!--<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon.png">
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/favicon.ico" />-->
+	<link rel="shortcut icon" href="https://www.pathologyoutlines.com/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="https://www.pathologyoutlines.com/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://www.pathologyoutlines.com/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://www.pathologyoutlines.com/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://www.pathologyoutlines.com/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://www.pathologyoutlines.com/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://www.pathologyoutlines.com/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://www.pathologyoutlines.com/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://www.pathologyoutlines.com/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://www.pathologyoutlines.com/apple-touch-icon-180x180.png" />
+		
+	<!--<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/reset.css" rel="stylesheet" type="text/css" />-->
+	<!--<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/font-awesome-4.6.3/css/font-awesome.min.css" type="text/css" />--><!-- font awesome -->
+	<link rel="stylesheet" href="https://www.pathologyoutlines.com/pathout_core/plugins/fontawesome-free-6.7.2-web/css/all.css" type="text/css" /><!-- font awesome -->
+	
+	<!--<link href='http://fonts.googleapis.com/css?family=Lato:400,700,700italic,400italic,900,900italic' rel='stylesheet' type='text/css'>-->
+	
+	<link href="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/css/lightbox.css" rel="stylesheet" />
+
+	<link href="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/css/main.css?ver=1.3.27" rel="stylesheet" />
+	
+	
+	
+				<!--Load the Cookiebot script-->
+			<!--<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="8539fe38-38ce-448a-beb8-edb691018d2d" data-blockingmode="auto" type="text/javascript"></script>-->
+				
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-M3KDZ8R');</script>
+	
+		<SCRIPT type="text/javascript" src="https://bh.contextweb.com/cp?p=7932&token=9PIYNQQEOW8T&ch=1" async></SCRIPT>
+		<script src="https://servedbydoceree.doceree.com/resources/p/doc_ad/23/217/dc.js" data-siteId="217" data-platId="1" data-pubId="23"></script>
+					<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.1.8.3.min.js"></script>
+				<!--<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/jquery.3.5.1.min.js"></script>-->
+				<script type="text/javascript" src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/js/scripts.js?ver=1.3.0"></script>
+				
+				<script src="https://www.pathologyoutlines.com/pathout_core/plugins/lightbox/js/lightbox.min.js"></script>	
+							<!--Load the AJAX API-->
+				<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+						
+		<script type="text/javascript">
+			/* embed code starts */
+			var _vbset = _vbset || [];
+			_vbset.push(['_account', 'VBT-52731-2101']);
+			_vbset.push(['_domain', 'http://pathologyoutlines.com']);
+
+			(function() {
+				var vbt = document.createElement('script'); vbt.type = 'text/javascript'; vbt.async = true; 
+				vbt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'www.vbt.io/tracker?_account='+_vbset[0][1]+'&_domain='+_vbset[1][1];var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(vbt, s);
+			})();
+			/* embed code ends */
+		</script>
+		
+				<script>window.sa_event=window.sa_event||function(){var a=[].slice.call(arguments);window.sa_event.q?window.sa_event.q.push(a):window.sa_event.q=[a]};</script>
+		
+		</head>
+<body
+	 class="loggedin">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M3KDZ8R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<input type="hidden" id="server_root" value="" />
+	<input type="hidden" id="site_protocol" value="https://" />
+	<input type="hidden" id="pageurl" value="https://www.pathologyoutlines.com/scratchpad" />
+	
+		<div class="mobile_content" id="mobile_navigation">
+		<form action="https://www.google.com/cse" id="cse-search-box" class="clearfix cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+			<input type="search" class="mobile_search" name="q" placeholder="Search Site" style="width:85%;padding:15px 25px;border:none;font-family:inherit;font-size:inherit;" />
+			<!--<input type="submit" name="sa" class="float_right" style="background: #fff url('images/icon_search.jpg') no-repeat scroll 100% 0;padding: 15px 12px;" />-->
+			<button type="submit" name="sa" class="menu_caret" style="float:right;padding:15px 20px 9px 9px;color:#8381cd;background-color:#fff; width: auto; height:100%;cursor:pointer;border:none;">
+				 <i class="fa fa-search"></i>
+			  </button>
+		</form>
+		<div class="mobile_logo">
+			<a href="https://www.pathologyoutlines.com" class="mobile_logo_img" target="_self"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="" /></a><div class="menu_icon_wrapper"><a href="#" class="menu_icon"><span class="fa fa-navicon"></span></a><div class="menu_text">Menu</div></div>		</div>
+		<div class="mobile_ad_wrapper"
+				 style="display:none;"			>
+			
+			<div class="featured_box_mobile"><div><div class="mobile_ad">
+
+<!-- Mobile Home Page Ad [ENABLE MOBILE ONLY!] [js] -->
+<script type="text/javascript">
+var rnd = window.rnd || Math.floor(Math.random()*10e6);
+var pid359714 = window.pid359714 || rnd;
+var plc359714 = window.plc359714 || 0;
+var abkw = window.abkw || '';
+var absrc = 'https://servedbyadbutler.com/adserve/;ID=175977;size=0x0;setID=359714;type=js;sw='+screen.width+';sh='+screen.height+';spr='+window.devicePixelRatio+';kw='+abkw+';pid='+pid359714+';place='+(plc359714++)+';rnd='+rnd+'';
+document.write('<scr'+'ipt src="'+absrc+'" type="text/javascript"></scr'+'ipt>');
+</script>
+
+<!-- Preserving standard code during AdButler deployment
+<a href="http://www.pathologyoutlines.com/site/mobile_Homepage_Redirect.html" target="_blank">
+    <img src="http://www.pathologyoutlines.com/site/Roche_HP_Mobile_240701.jpg" width="468"  border="0">
+</a>
+-->
+
+</div>
+
+</div></div>		</div>
+		
+		<div class="mobile_nav 
+			"		>
+			<ul id="mobile_menu">
+				<li class="mobile_menu_item clearfix">
+					<a href="#" id="chaptersubspecialty_menu">Chapters By Subspecialty <span id="chaptersubspecialty_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="chaptersubspecialty_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li>					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/jobs" target="_self">Jobs</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/fellowships" target="_self">Fellowships</a></li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/conferences" target="_self">Conferences / Webinars</a></li>
+				<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Authors <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+						<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+					</ul>
+				</li>
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/directory" target="_self">Directory</a></li>
+				<!--<li class="mobile_menu_item">
+					<a href="#" class="mobile_sub_menu_trigger">Directory <span class="fa fa-chevron-left mobile_sub_menu_caret" style="float:right;"></span></a>
+					<ul class="mobile_sub_menu hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+						<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+					</ul>
+				</li>-->
+				
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/books" target="_self">Books</a></li>
+				<!--<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+				<li class="mobile_menu_item"><a href="https://www.pathologyoutlines.com/review-questions" target="_self">Question Bank</a></li>
+				<li class="mobile_menu_item last">
+					<a href="#" id="other_menu">Other Links <span id="other_menu_caret" class="fa fa-chevron-left" style="float:right;"></span></a>
+					<ul id="other_sub_menu" class="hide" style="display:none;">
+						<li><a href="https://www.pathologyoutlines.com/aboutus.html" target="_self">About Us</a></li>
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm" target="_self">Cases</a></li>
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html" target="_self">CCN</a></li>
+						<li><a href="https://www.pathologyoutlines.com/cme" target="_self">CME (online)</a></li>
+						<li><a href="#" class="contact_form_trigger">Comment</a></li>
+						<li><a href="https://www.pathologyoutlines.com/contactus.html" target="_self">Contact Us</a></li>	
+						<li><a href="https://www.pathologyoutlines.com/FAQ.html" target="_self">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/crossword.html" target="_self">Games</a></li>
+						<li><a href="https://www.pathologyoutlines.com/grants.html" target="_self">Grants</a></li>
+						<!--<li>
+							<a href="#" class="sub_menu">Libraries <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a>
+							<ul class="hide subspecialty_sub_menu" style="display:none;">
+								<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+								<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+							</ul>
+						</li>-->					
+						<li><a href="https://www.pathologyoutlines.com/subscribe.html" target="_self">Newsletters</a></li>
+						<li><a href="https://www.pathologyoutlines.com/monthlystats.php" target="_self">Statistics</a></li>
+						<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html" target="_self">Testimonials</a></li>
+						<li><a href="https://www.youtube.com/channel/UCr-ov_ZWvCSHHMq-g-SHJJA" target="_blank">Videos</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+	</div>
+	
+		
+	<div id="navigation">
+		<div id="top_nav" style="height:35px; background: url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_topnav.jpg') repeat-x scroll 0 0 transparent;">
+			<div class="content_section" style="display:flex;justify-content:space-between;">
+				<div class="top_nav_left">
+					<ul>
+						<!--<li class="first"><a href="https://www.pathologyoutlines.com"><img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_home.png" alt="" height="11px" width="14px" /></a></li>-->
+						<li class="first"><a href="https://www.pathologyoutlines.com" title="Home"><span class="fa fa-home" style="font-size: 14px;"></span></a></li>
+						<li class="nav_dropdown closed">
+							<a href="#" title="Chapters">Textbook</a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/autopsy.html" target="_self">Autopsy & forensics</a></li><li><a href="#" class="sub_menu">Bone, joints & soft tissue <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bone.html" target="_self">Bone & joints</a></li><li><a href="https://www.pathologyoutlines.com/softtissue.html" target="_self">Soft tissue</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/breast.html" target="_self">Breast</a></li><li><a href="#" class="sub_menu">Clinical pathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/chemistry.html" target="_self">Chemistry, toxicology & UA</a></li><li><a href="https://www.pathologyoutlines.com/coagulation.html" target="_self">Coagulation</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/managementlab.html" target="_self">Lab admin & management</a></li><li><a href="https://www.pathologyoutlines.com/parasitology.html" target="_self">Microbiology & infectious diseases</a></li><li><a href="https://www.pathologyoutlines.com/transfusionmed.html" target="_self">Transfusion medicine</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/cytopathology.html" target="_self">Cytopathology</a></li><li><a href="#" class="sub_menu">Dermatopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/skintumormelanocytic.html" target="_self">Skin melanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skintumornonmelanocytic.html" target="_self">Skin nonmelanocytic tumor</a></li><li><a href="https://www.pathologyoutlines.com/skinnontumor.html" target="_self">Skin nontumor</a></li></ul></li></ul><ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;"><li><a href="#" class="sub_menu">GI / liver <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/anus.html" target="_self">Anus &amp; perianal</a></li><li><a href="https://www.pathologyoutlines.com/appendix.html" target="_self">Appendix</a></li><li><a href="https://www.pathologyoutlines.com/colon.html" target="_self">Colon</a></li><li><a href="https://www.pathologyoutlines.com/esophagus.html" target="_self">Esophagus</a></li><li><a href="https://www.pathologyoutlines.com/gallbladder.html" target="_self">Gallbladder & extrahep bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/liver.html" target="_self">Liver & intrahepatic bile ducts</a></li><li><a href="https://www.pathologyoutlines.com/pancreas.html" target="_self">Pancreas</a></li><li><a href="https://www.pathologyoutlines.com/smallbowel.html" target="_self">Small intestine & ampulla</a></li><li><a href="https://www.pathologyoutlines.com/stomach.html" target="_self">Stomach</a></li></ul></li><li><a href="#" class="sub_menu">GU / adrenal <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/adrenal.html" target="_self">Adrenal gland & paraganglia</a></li><li><a href="https://www.pathologyoutlines.com/bladder.html" target="_self">Bladder & urothelial tract</a></li><li><a href="https://www.pathologyoutlines.com/kidneytumor.html" target="_self">Kidney tumor</a></li><li><a href="https://www.pathologyoutlines.com/penscrotum.html" target="_self">Penis &amp; scrotum</a></li><li><a href="https://www.pathologyoutlines.com/prostate.html" target="_self">Prostate gland & seminal vesicles</a></li><li><a href="https://www.pathologyoutlines.com/testis.html" target="_self">Testis &amp; paratestis</a></li></ul></li><li><a href="#" class="sub_menu">Gyn <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cervix.html" target="_self">Cervix</a></li><li><a href="https://www.pathologyoutlines.com/fallopiantubes.html" target="_self">Fallopian tubes & broad ligament</a></li><li><a href="https://www.pathologyoutlines.com/ovarytumor.html" target="_self">Ovary</a></li><li><a href="https://www.pathologyoutlines.com/placenta.html" target="_self">Placenta</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li><li><a href="https://www.pathologyoutlines.com/uterus.html" target="_self">Uterus</a></li><li><a href="https://www.pathologyoutlines.com/vulva.html" target="_self">Vulva & vagina</a></li></ul></li><li><a href="#" class="sub_menu">Head & neck <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/ear.html" target="_self">Ear</a></li><li><a href="https://www.pathologyoutlines.com/larynx.html" target="_self">Larynx, hypopharynx & trachea</a></li><li><a href="https://www.pathologyoutlines.com/mandiblemaxilla.html" target="_self">Mandible &amp; maxilla</a></li><li><a href="https://www.pathologyoutlines.com/nasal.html" target="_self">Nasal cavity & nasopharynx</a></li><li><a href="https://www.pathologyoutlines.com/oralcavity.html" target="_self">Oral cavity &amp; oropharynx</a></li><li><a href="https://www.pathologyoutlines.com/salivaryglands.html" target="_self">Salivary glands</a></li><li><a href="https://www.pathologyoutlines.com/thyroid.html" target="_self">Thyroid & parathyroid</a></li></ul></li><li><a href="#" class="sub_menu">Hematopathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/bonemarrowneoplastic.html" target="_self">Bone marrow neoplastic</a></li><li><a href="https://www.pathologyoutlines.com/bonemarrow.html" target="_self">Bone marrow nonneoplastic</a></li><li><a href="https://www.pathologyoutlines.com/hematology.html" target="_self">Hematology & immune disorders</a></li><li><a href="https://www.pathologyoutlines.com/lymphnodes.html" target="_self">Lymph nodes & spleen, nonlymphoma</a></li><li><a href="https://www.pathologyoutlines.com/lymphoma.html" target="_self">Lymphoma & related disorders</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/informatics.html" target="_self">Informatics / digital pathology</a></li></ul><ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;"><li><a href="https://www.pathologyoutlines.com/kidney.html" target="_self">Medical renal</a></li><li><a href="#" class="sub_menu">Neuropathology <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/cnstumor.html" target="_self">CNS & pituitary tumors</a></li><li><a href="https://www.pathologyoutlines.com/cns.html" target="_self">CNS nontumor</a></li><li><a href="https://www.pathologyoutlines.com/eye.html" target="_self">Eye</a></li><li><a href="https://www.pathologyoutlines.com/muscle.html" target="_self">Muscle & peripheral nerve nontumor</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/staging.html" target="_self">Staging</a></li><li><a href="#" class="sub_menu">Stains & CD markers / molecular <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/molecularmarkers.html" target="_self">Molecular markers</a></li><li><a href="https://www.pathologyoutlines.com/stains.html" target="_self">Stains &amp CD markers</a></li></ul></li><li><a href="#" class="sub_menu">Thoracic <span class="sub_menu_caret fa fa-chevron-left" style="float:right;"></span></a><ul class="subspecialty_sub_menu hide" style="display:none;"><li><a href="https://www.pathologyoutlines.com/heart.html" target="_self">Heart & vascular pathology</a></li><li><a href="https://www.pathologyoutlines.com/lung.html" target="_self">Lung</a></li><li><a href="https://www.pathologyoutlines.com/mediastinum.html" target="_self">Mediastinum</a></li><li><a href="https://www.pathologyoutlines.com/pleura.html" target="_self">Pleura & peritoneum</a></li></ul></li><li><a href="https://www.pathologyoutlines.com/whoclassification.html" target="_self">WHO classification of tumors</a></li></ul>										<!--<ul class="clearfix navcol1" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; border-left: 1px solid #ccc;*/padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-right: 50px;display:flex;flex-direction:column;">
+											<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+										</ul>
+										<ul class="clearfix navcol3" style="/*! position: absolute; *//*! left: 0; *//*! right: 0; *//*! margin: 0 auto; *//*! max-width: 320px; *//*! border: 1px solid; */padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;">
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 1</a></li>
+											<li><a href="http://www.pathologyoutlines.com/libraries.html">Third Column Nav item 2</a></li>
+										</ul>-->
+									</div>
+								</div>
+							</div>
+						</li>
+						<li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships">Fellowships</a></li>
+						<li><a href="https://www.pathologyoutlines.com/conferences">Conferences</a></li>
+						
+						<li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/directory">Directory <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+														<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory">Main Page</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directorysignup.html">Signup</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/directory#find-a-pathologist">Find a Pathologist</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+						<li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>-->
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li>
+						
+						<!--<li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>-->
+						<li><a href="http://mediakit.pathologyoutlines.com/" target="_blank">Advertise</a></li>
+						<!--<li><a href="https://www.pathologyoutlines.com/payment.php">Payment</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>-->
+						<!--<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>-->
+						
+						<!--<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/libraries.html">Libraries <span class="subnav_carrot"><span class="fa fa-caret-left"></span></span></a>
+							<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+								<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+									<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+										<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/topic/librarysample.html">Sample Library</a></li>
+										</ul>
+										<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/covid.html">COVID-19</a></li>
+											
+										</ul>
+										<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+											<li><a href="https://www.pathologyoutlines.com/musicaward.html">Pandemic relief music award</a></li>
+											
+										</ul>
+									</div>
+								</div>
+							</div>
+						</li>-->
+					</ul>
+					<br class="clear_left" />
+				</div>
+				<div class="top_nav_right">
+					<div style="display: flex;justify-content: flex-end;">
+						<!--<div class="float_left" style="color: #fff;font-size: 19px;padding: 7px 0 0;">
+							<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+							<a href="https://twitter.com/pathoutlines" class="top_nav_icon" target="_blank" title="Twitter"><span class="fa-brands fa-x-twitter-square"></span></a>
+							<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-instagram"></span></a>
+							<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+							<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-youtube"></span></a>
+							<a href="https://med-mastodon.com/@pathout" class="top_nav_icon" target="_blank" title="Mastodon"><span class="fa-brands fa-mastodon"></span></a>
+							<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						</div>-->
+						<!--<form action="https://www.google.com/cse" id="cse-search-box" class="float_left">
+							<input type="hidden" name="cx" value="partner-pub-3521518608648020:8640627894" />
+							<input type="text" class="top_nav_search float_left" name="q" placeholder="Search Site" />
+							<input type="submit" name="sa" class="float_left" style="background: #fff url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/icon_search.jpg') no-repeat scroll 0 0;" />
+						</form>-->
+						<script async src="https://cse.google.com/cse.js?cx=partner-pub-3521518608648020:8640627894"></script>
+						<div class="gcse-searchbox-only" enableAutoComplete="true" data-newWindow="true" data-resultsUrl="https://www.pathologyoutlines.com/search-results"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="mid_nav">
+			<div class="content_section">
+				<div style="display:flex;justify-content:space-between;">
+					<div class="logo">
+						<a href="
+							https://www.pathologyoutlines.com/						">
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/logo.png" alt="logo"  height="115px" width="470px" />-->
+							<!--<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Header_Logo2_Silver_Anniversary_470x79_202206.png" alt="logo"  height="115px" width="470px" />-->
+							<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" alt="logo"  height="80" width="420" border="0" />
+						</a>
+					</div>
+					<div class="top_units">
+						<!--<div class="sponsor_header align_center" style="color: #fff;">Platinum Level Sponsors</div>-->
+						<div style="display:flex;justify-content:space-between;">
+							<div class="top_unit1">
+								<!-- ad unit 1 -->
+								<!-- Header Left -->
+
+<!-- Header - Left Side [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc475437 = window.plc475437 || 0;
+document.write('<'+'div id="placement_475437_'+plc475437+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 475437, [225,125], 'placement_475437_'+opt.place, opt); }, opt: { place: plc475437++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/uscap25.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/house-USCAP-225x12511.png"="width: 225px" /></a>
+-->							</div>
+							<div class="top_unit2">
+								<!-- ad unit 2 -->
+								<!-- Header Right -->
+
+<!-- Header - Right side NEW [async] -->
+<script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript"; s.src = 'https://servedbyadbutler.com/app.js'; var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script>
+<script type="text/javascript">
+var AdButler = AdButler || {};
+AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc552089 = window.plc552089 || 0;
+document.write('<'+'div id="placement_552089_'+plc552089+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(175977, 552089, [225,125], 'placement_552089_'+opt.place, opt); }, opt: { place: plc552089++, keywords: abkw, domain: 'servedbyadbutler.com', click: 'CLICK_MACRO_PLACEHOLDER' }});
+</script>
+
+
+<!--Preserving standard code during JavaScript deployment
+<a href="https://www.pathologyoutlines.com/site/Header_01_Right_Redirect.html" target="_blank"><img alt="" src="https://www.pathologyoutlines.com/site/CastleBios-header-right-240901.png" /></a>
+-->							</div>
+						</div>
+					</div>
+					<!--<br class="clearleft" />-->
+				</div>
+				<div id="news">
+					We have posted a new Founder's Corner video <a href="https://www.youtube.com/shorts/w2tzoB_871c" target="_blank">here</a>.				</div>
+			</div>
+		</div>
+		<div id="bot_nav" style="background: transparent url('https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/bg_botnav.jpg') repeat-x;">
+			<div class="content_section">
+				<ul style="display:flex;justify-content:space-between;">
+					<!--<li class="first"><a href="https://www.pathologyoutlines.com/site/amazonhome.html" target="_blank">Amazon</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/apps.html">Apps</a></li>-->
+					<!--<li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>-->
+					<li class="nav_dropdown closed"><a href="https://www.pathologyoutlines.com/authors">Authors <span class="subnav_carrot"><span class="fa fa-caret-left"></span></a>
+												<div style="position: absolute;left: 0;right: 0;/*! background-color: #f00; */z-index: 5;background: linear-gradient(to bottom, rgb(248, 249, 251) 0%,rgba(255,255,255,0.9) 100%);/*! border-bottom: 1px solid; */padding-bottom: 15px;display:none;" class="subnav clearfix">
+							<div style="border-bottom: 2px solid #11598a;/*! display: flex; */" class="">
+								<div style="display: flex;max-width: 960px;margin: 0 auto;justify-content: flex-end;padding: 15px 0;">
+									<!--
+									<ul class="clearfix navcol1" style="padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">List of Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 50px;padding-right: 50px;display:flex;flex-direction:column;width:33%;">
+										
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+										
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 50px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:33%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									-->
+									
+									<ul class="clearfix navcol1" style="padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors">Editorial Board</a></li>
+									</ul>
+									<ul class="clearfix navcol2" style="border-left: 1px solid #ccc;padding-left: 30px;padding-right: 30px;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authors?pap=5">Authors</a></li>
+									</ul>
+									<ul class="clearfix navcol3" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorinformation.html">Author Information</a></li>
+									</ul>
+									<ul class="clearfix navcol4" style="padding-left: 30px;padding-right: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorprocedure.html">Author Instructions</a></li>
+									</ul>
+									<ul class="clearfix navcol5" style="padding-left: 30px;border-left: 1px solid #ccc;display:flex;flex-direction:column;width:20%;">
+										<li><a href="https://www.pathologyoutlines.com/authorawards.html">Author Awards</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</li>
+					<li><a href="https://pathologyoutlinesblog.wordpress.com/" target="_blank">Blog</a></li>
+					<li><a href="https://www.pathologyoutlines.com/review-questions">Question Bank</a></li>
+					<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+					<li><a href="https://www.pathologyoutlines.com/cme">CME</a></li>
+					<li><a href="#" class="contact_form_trigger">Comment</a></li>
+					<li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+					<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+					<li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+					<!--<li><a href="https://www.pathologyoutlines.com/getinvolved.html">Get Involved</a></li>-->
+					<li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+					<li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+					<li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+					
+				</ul>
+				<!-- <br class="clear_left" /> -->
+			</div>
+		</div>
+	</div>
+	<div id="page_content_container">
+	<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Sudden cardiac death</div></div>
+<div id="main_content">
+	<div class="content_section">
+		<div class="min_content">
+			<div id="topic_page_top" class="topic_page">
+				<div id="po_banner_top" class="section_top po_banner_top">
+	<a href="mailto:comments@pathologyoutlines.com?subject=Email Address Change" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/6/20250603-132930_728x90-Update-Your-Email-Address.png" alt="" class="section_img_top" /></a></div>				<div class="authorship_wrapper clearfix">
+					<div class="authorship floatleft">
+						<h1>Autopsy & forensics</h1><h2>Types of injuries</h2><h3>Sudden cardiac death</h3><br><div class="topic_page_author_section"><div class="topic_page_author_box"><div id="page-author-section"><div><div><strong>Authors:&nbsp;</strong><a href="https://www.pathologyoutlines.com/authors?id=1291&pap=5" target="_blank">Mehrnoosh Ghandili, M.D.</a>, <a href="https://www.pathologyoutlines.com/authors?id=981&pap=5" target="_blank">Mark A. Giffen, Jr., D.O.</a></div><div><strong>Resident / Fellow Advisory Board:&nbsp;</strong>Lorenzo Gitto,  M.D.</div></div><div class="topic_page_image_box mobile"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=1291&pap=5" target="_blank" title="Mehrnoosh Ghandili, M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2021/12/thumbs/20211217-153424_MehrnooshGhandili.png" alt="Mehrnoosh Ghandili, M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=981&pap=5" target="_blank" title="Mark A. Giffen, Jr., D.O."><img src="https://www.pathologyoutlines.com/pathout_uploads/2021/2/thumbs/20210217-115818_MarkGiffen.png" alt="Mark A. Giffen, Jr., D.O." /></a></div></div></div><br /><div id="page-topic-complete-date"><strong>Last author update:</strong> 17 February 2022</div><div id="page-lastedit"><strong>Last staff update:</strong> 17 February 2022</div><br /><b>Copyright:</b> 2015-2025, PathologyOutlines.com, Inc.<br><br>
+<b>PubMed Search:</b> <a href="?term=Sudden+cardiac+death+%5BTI%5D+pathology+free+full+text+%5BSB%5D+review+%5BPT%5D">Sudden cardiac death [TI] pathology free full text [SB] review [PT]</a> </div><div><br /><div class="topic_page_image_box desktop"><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=1291&pap=5" target="_blank" title="Mehrnoosh Ghandili, M.D."><img src="https://www.pathologyoutlines.com/pathout_uploads/2021/12/thumbs/20211217-153424_MehrnooshGhandili.png" alt="Mehrnoosh Ghandili, M.D." /></a></div><div class="topic_page_author_image"><a href="https://www.pathologyoutlines.com/authors?id=981&pap=5" target="_blank" title="Mark A. Giffen, Jr., D.O."><img src="https://www.pathologyoutlines.com/pathout_uploads/2021/2/thumbs/20210217-115818_MarkGiffen.png" alt="Mark A. Giffen, Jr., D.O." /></a></div></div></div></div>					</div>
+					<div id="po_banner_side" class="section_authorship floatleft po_banner_side">
+	<a href="https://www.pathologyoutlines.com/booksrecommended.html" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2025/5/20250501-111058_house-recommendedbooks-300x250.png" alt="" class="section_img_authorship" /></a></div>				</div>
+				<div class="meta_contents" style="margin-bottom:25px;"><div><strong>Page views in 2024:</strong> 12,084</div><div><strong>Page views in 2025 to date:</strong> 4,704</div></div><div id="po_banner_top2" class="section_top po_banner_top2">
+	</div><div class="table_of_contents"><div class="topicheading_title toc">Table of Contents</div><a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#definitiongeneral336766" class="scrollto">Definition / general</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#essentialfeatures336767" class="scrollto">Essential features</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#icdcoding336768" class="scrollto">ICD coding</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#etiology336769" class="scrollto">Etiology</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#casereports336770" class="scrollto">Case reports</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#grossexamination336771" class="scrollto">Gross examination</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#grossimages336772" class="scrollto">Gross images</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#microscopichistologicimages336773" class="scrollto">Microscopic (histologic) images</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#additionalreferences336774" class="scrollto">Additional references</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#practicequestion1336775" class="scrollto">Practice question #1</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#practiceanswer1336776" class="scrollto">Practice answer #1</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#practicequestion2336777" class="scrollto">Practice question #2</a> | <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html#practiceanswer2336778" class="scrollto">Practice answer #2</a></div><div class="table_of_contents" style="word-break: break-all;-webkit-hyphens: auto;-moz-hyphens: auto; hyphens: auto;"><strong>Cite this page:</strong> Ghandili M, Giffen MA. Sudden cardiac death. PathologyOutlines.com website. https://www.pathologyoutlines.com/topic/heartsuddendeath.html.  Accessed June 17th, 2025.</div><div class="block_content"><div class="block_section" id="definitiongeneral336766"><div class="topicheading_title">Definition / general</div><div class="block_body"><ul>
+
+<li>Unexpected death of an individual not attributable to extracardiac causes within 1 hour of symptom onset or within 24 hours of last being known in good health (if death is unwitnessed) (<a href="31295785" class="gr">Intern Med J 2019;49:826</a>)
+<ul>
+<li>Some definitions extend the time range with symptom onset up to 24 hours without diagnosed cardiac conditions within that time frame
+</ul>
+</ul>
+
+</ul></div></div><div class="block_section" id="essentialfeatures336767"><div class="topicheading_title">Essential features</div><div class="block_body"><ul>
+<li>Sudden cardiac death is the unexpected death of an individual from apparent cardiac causes without symptoms or within 1 hour of symptom onset 
+<li>Careful gross and microscopic examination is essential to rule out identifiable causes of sudden cardiac death
+<li>A negative autopsy without observable gross or microscopic findings should warrant additional testing, including genetic testing, especially if there is a history of sudden cardiac death in the family 
+</ul></div></div><div class="block_section" id="icdcoding336768"><div class="topicheading_title">ICD coding</div><div class="block_body"><ul>
+
+<li>ICD-10: 
+<ul>
+<li><a href="https://icd.who.int/browse10/2019/en#/I46.1">I46.1</a> - sudden cardiac death, so described
+<li>Other cardiovascular disorders:
+<ul>
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I10-I16">I10-16</a> -  hypertensive diseases
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I20-I25">I20-25</a> - ischemic heart diseases
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I33-/I33">I33</a> - acute and subacute endocarditis
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I34-/I34">I34</a> - nonrheumatic mitral valve disorders
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I35-/I35">I35</a> - nonrheumatic aortic valve disorders
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I36-/I36">I36</a> - nonrheumatic tricuspid valve disorders
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I37-/I37">I37</a> - nonrheumatic pulmonary valve disorders
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I38-/I38">I38</a> - endocarditis, valve not specified
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I40-/I40">I40</a> - acute myocarditis
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I42-/I42">I42</a> - cardiomyopathy
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I44-/I44">I44</a> - atrioventricular and left bundle branch block 
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I45-/I45">I45</a> - other conduction disorders
+	<li><a href="https://www.icd10data.com/ICD10CM/Codes/I00-I99/I30-I5A/I5A-/I5A">I5A</a> -  nonischemic myocardial injury (nontraumatic)
+</ul>
+</ul></div></div><div class="block_section" id="etiology336769"><div class="topicheading_title">Etiology</div><div class="block_body"><ul>
+<li>Most common causes of sudden cardiac death vary by age:
+<ul>
+<li>Under the age of 35: most common etiologies include congenital anomalies, heritable disorders and idiopathic causes (<a href="26951821" class="gr">Circulation 2016;133:1006</a>)
+<li>Over the age of 35: most common etiology is atherosclerotic cardiovascular disease and its sequela (<a href="26044246" class="gr">Circ Res 2015;116:1887</a>)
+</ul>
+<br>
+<li><b>Atherosclerotic and hypertensive cardiovascular disorders</b>:
+<ul>
+<li>Coronary artery atherosclerosis (most common cause over age 35):
+<ul>
+<li>Approximately 75 - 90% of all sudden deaths due to natural disease among those 35 - 64 years of age
+<li>Associated with hypertension and diabetes mellitus
+<li>Accelerated atherosclerosis is associated with stimulant drug use (especially cocaine), particularly in males less than 35 years of age and premenopausal women (<a href="28363516" class="gr">Atherosclerosis 2017;262:154</a>)
+<li>Accelerated atherosclerosis in younger persons may be associated with genetic disorders related to lipid and triglyceride metabolism (<a href="25939299" class="bl">Cardiol Clin 2015;33:267</a>)
+<ul>
+<li>May have significant impact on primary family members
+</ul>
+<li>Gross findings:
+<ul>
+<li>Myocardium may demonstrate either ventricular dilation or hypertrophy in chronic disease
+<li>Coronary luminal stenosis may be concentric or eccentric (it is unclear if either type has an increased risk of adverse events); a variety of grading systems are used and are up to practitioner preferences
+<ul>
+<li>Some pathologists use numeric values to indicate degree of stenosis (i.e., 10%, 50%, etc.)
+<li>Some pathologists use a qualitative scale (i.e., mild, moderate, severe, occlusive, etc.)
+<li>Generally, the greater degree of luminal stenosis, the higher the risk of cardiac event
+</ul>
+<li>Coronary calcifications should be noted as rigidity of the vascular wall may increase the risk of cardiac events even absent atherosclerosis (<a href="28616562" class="gr">Int J Cardiol Heart Vasc 2016;14:41</a>)
+<li>Early infarcts may show no changes
+<ul>
+<li>Nitroblue tetrazolium staining may be used to help accentuate early infarcts (<a href="678443" class="gr">Br J Exp Pathol 1978;59:254</a>)
+</ul>
+<li>Acute and subacute infarcts may demonstrate pale discoloration or hemorrhage
+<ul>
+<li>Marked softening of the myocardium may be present in subacute infarcts
+<li>Subacute infarcts (typically 3 - 7 days) may evolve into ventricular rupture with development of hemopericardium and cardiac tamponade
+</ul>
+<li>Remote infarcts will be pale, fibrous and often with thinning of the myocardium
+<ul>
+<li>Compensatory hypertrophy may be present in the viable myocardium
+</ul>
+</ul>
+<li>Microscopic findings:
+<ul>
+<li>Myocyte abnormalities cannot be detected by routine histologic staining for 4 - 6 hours after myocardial infarction
+<ul>
+<li>People dying rapidly of myocardial infarctions may have no myocyte abnormalities (such as by ischemia induced dysrhythmia / arrhythmia)
+</ul>
+<li>Early changes are nonspecific and may include cytoplasmic hypereosinophilia, myofiber irregularities and edema
+<li>Contraction band necrosis is evidence of irreversible ischemic change as the sarcomeric proteins begin to break down
+<li>Coagulative necrosis begins within 24 hours after the ischemic event associated with hemorrhage, neutrophilic infiltrates and continuing myocyte changes (include nuclear pyknosis and dropout)
+<li>Subacute infarcts evolve with macrophage infiltration and necrosis; fibroblasts will also begin infiltrating
+<li>Remote infarcts / chronic ischemic change associated with cardiac myocyte drop out and resultant interstitial fibrosis and fibroblast proliferation (varying depending on length of time and chronicity of ischemia)
+<ul>
+<li>May also see hemosiderin laden macrophages
+</ul>
+<li>Cross sections of involved coronary arteries should be taken to determine if a clot is postmortem or antemortem
+<ul>
+<li>Ruptured fibrous capsule or hemorrhage within the wall of a vessel indicate acute plaque rupture
+</ul>
+</ul>
+</ul>
+<li>Hypertensive cardiomyopathy:
+<ul>
+<li>Can present as a chronic disease process (heart failure) or sudden cardiac death (via dysrhythmia / arrhythmia)
+<li>Gross findings:
+<ul>
+<li>Most commonly concentric (less commonly eccentric) thickening of the left ventricular wall without outflow tract obstruction
+<li>End stage hypertensive damage may result in dilation and thinning of the ventricular walls
+</ul>
+<li>Microscopic findings:
+<ul>
+<li>Enlarged nuclei with squaring of the nuclear edges (aka boxcar nuclei); enlarged myofiber diameter (<a href="19853701" class="gr">Am Heart J 2009;158:799</a>)
+</ul>
+</ul>
+</ul>
+<br>
+<li><b>Aortic abnormalities</b>:
+<ul>
+<li>Aortic aneurysm and dissection:
+<ul>
+<li>Risk factors include hypertension, hyperlipidemia, tobacco smoking and male gender
+<li>Unruptured aneurysm can lead to vascular compromise in downstream body areas or compression of adjacent structures
+<li>Ruptured aneurysm can lead to rapid exsanguination
+</ul>
+<li>Congenital aortic stricture (coarctation) and post valvular stenosis:
+<ul>
+<li>Can lead to hypertensive complications upstream of the site of narrowing and hypotensive complications downstream from the site of narrowing
+<li>May be associated with other vascular or congenital abnormalities
+</ul>
+<li>Infective complications of the aorta:
+<ul>
+<li><a href="https://www.pathologyoutlines.com/topic/heartsyphilis.html">Syphilis</a> is the most commonly associated agent; rare in the United States due to the availability of treatments
+</ul>
+</ul>
+<br>
+<li><b>Coronary artery abnormalities</b>:
+<ul>
+<li><a href="https://www.pathologyoutlines.com/topic/heartanomalouscoronary.html">Anomalous coronary arteries</a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartcoronaryarteritis.html">Coronary arterial arteritis and aneurysm</a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartfibromusculardysplasia.html">Fibromuscular dysplasia</a> 
+<li><a href="https://www.pathologyoutlines.com/topic/heartnonatheroscleroticCAD.html">Other nonischemic coronary artery disorder</a>
+<li>Myocardial bridging (intramural coronary artery) (<a href="25999138" class="gr">J Invasive Cardiol 2015;27:521</a>)
+<ul>
+<li>Controversial cause of sudden cardiac death
+<li>Proposed mechanism is that myocardial contraction causes constriction of the intraluminal segment, resulting in reversible ischemia
+</ul>
+</ul>
+<br>
+<li><b>Cardiomyopathies</b>:
+<ul>
+<li>Myocardial dysfunction due to primary myocardial disease or secondary to systemic disease or treatment of systemic disease (such as cardiotoxic chemotherapeutic agents)
+<li><a href="https://www.pathologyoutlines.com/topic/heartdilated.html">Primary or secondary dilated cardiomyopathy</a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartHCM.html">Hypertrophic (and obstructive) cardiomyopathy </a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartidiopathicrestrictive.html">Restrictive cardiomyopathy </a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartarrhythmogenic.html">Arrhythmogenic right ventricular cardiomyopathy / dysplasia</a> 
+<li><a href="https://www.pathologyoutlines.com/topic/hearttakotsubo.html">Takotsubo cardiomyopathy</a> 
+</ul>
+<br>
+<li><b>Inflammatory conditions of the endocardium, myocardium and pericardium</b>:
+<ul>
+<li><a href="https://www.pathologyoutlines.com/topic/heartnontumorinfecendocarditis.html">Infective endocarditis </a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartnontumornoninfecendo.html">Noninfective endocarditis </a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartinfectiousmyocarditis.html">Infective myocarditis</a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartnoninfecmyo.html">Noninfective myocarditis </a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartnoninfecpericarditis.html">Noninfective pericarditis</a>
+</ul>
+<br>
+<li><b>Noninfectious disorders of the heart valves</b>:
+<ul>
+<li>Primary disorders may be due to congenital abnormalities or due to cardiac flow abnormalities
+<ul>
+<li>Mitral valve prolapse (<a href="31385360" class="bl">Echocardiography 2019;36:1549</a>)
+<ul>
+<li>Prevalence of 2 - 3% in general population (<a href="31498700" class="gr">Circulation 2019;140:952</a>)
+<li>May be associated with Marfan syndrome or other genetic connective tissue disorders
+<li>Gross findings: enlarged, ballooning  of the mitral valve leaflets
+<li>Microscopy: myxoid degeneration of the central spongiosa of the valve leaflet (due to buildup of acid mucopolysaccharides)
+<li>Can be seen in cases of sudden death, though controversial if it is causative or coincidental
+</ul>
+<li>Bicuspid aortic valve and other congenital valvular abnormalities (<a href="32620577" class="gr">Development 2020;147:dev183020</a>)
+<ul>
+<li>Predisposed to accelerated valvular degeneration due to flow abnormalities around the affected valves
+</ul>
+<li>Degenerative valve disease (including valvular stenosis and regurgitation)
+<ul>
+<li>Physiologic abnormalities of valve function, often associated with valvular sclerosis and changes to the papillary musculature and chordae tendineae
+<li>Degree of functional impairment should be based on antemortem studies
+<ul>
+<li>Morphologic changes do not always accurately depict the degree of physiologic impairment due to compensatory mechanisms during life
+</ul>
+<li>See related topic (<a href="https://www.pathologyoutlines.com/topic/heartdegenerative.html">Degenerative valve disease</a>)
+</ul>
+</ul>
+<li>Secondary valvular disorders are most commonly associated with inflammatory and postinfective causes
+<ul>
+<li>Rheumatic heart disease
+<ul>
+<li>Immune complex mediated damage to the cardiac valves after Group A streptococcal infection (most commonly mitral) (<a href="24696436" class="gr">Clin Microbiol Rev 2014;27:264</a>) 
+<li>Generally considered rare due to the use of antibiotics to treat streptococcal infection
+<ul>
+<li>More commonly seen in elderly patients
+</ul>
+</ul>
+<li><a href="https://www.pathologyoutlines.com/topic/heartconnectivetissue.html ">Connective tissue disorders</a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartDIVHD.html">Drug induced valvular injury</a>
+<li><a href="https://www.pathologyoutlines.com/topic/heartprostheticvalves.html">Prosthetic heart valves</a>
+</ul>
+</ul>
+<br>
+<li><b>Congenital heart disease</b>:
+<ul>
+<li>Primary cardiovascular disorders are the most common congenital disorders, affecting ~0.08% of live births (<a href="28302739" class="gr">Circ Res 2017;120:908</a>)
+<li>Complications of congenital heart defects vary widely from asymptomatic to severe and life threatening
+<ul>
+<li>Asymptomatic, undiagnosed cardiac defects can progress to life threatening disease if not treated
+</ul>
+<li>All disorders arise from abnormal embryogenesis and development 
+<ul>
+<li>See related topic (<a href="https://www.pathologyoutlines.com/topic/heartembryology.html">Heart - embryology</a>)
+</ul>
+<li>Disorders can include atrial septal defects, ventricular septal defects, outflow tract abnormalities and abnormalities of the great vessels
+<ul>
+<li>See related topics (<a href="https://www.pathologyoutlines.com/topic/hearttetralogy.html">Tetralogy of Fallot</a>
+and <a href="https://www.pathologyoutlines.com/topic/syndromesvacterl.html">VACTERL association</a>)
+</ul>
+</ul>
+<br>
+<li><b>Neoplastic lesions</b>:
+<ul>
+<li>Primary and secondary cardiac neoplasms are exceedingly rare entities (<a href="31250250" class="bl">Curr Treat Options Oncol 2019;20:66</a>)
+<ul>
+<li>Death can occur due to a variety of mechanisms including cardiac flow obstruction, heart failure and conduction abnormalities resulting in arrhythmia
+</ul>
+<li>See related topics under benign and malignant tumor headings (<a href="https://www.pathologyoutlines.com/heart.html">Heart</a>)
+</ul>
+<br>
+<li><b>Disorders of the conduction system</b>:
+<ul>
+<li>Conduction system is comprised of specialized fibers allowing for the rapid passage of electrical signals through the heart in a synchronized manner
+<ul>
+<li>Primary or secondary abnormalities of these specialized fibers may result in asynchronous transmission and the development of dysrhythmias and arrhythmia (<a href="21357845" class="gr">Circulation 2011;123:904</a>)
+</ul>
+<li>Nearly all disorders of conduction will have no gross anatomic findings at the time of autopsy unless due to prior injury or secondary to other disease process
+<ul>
+<li>Functional (primary) disturbances include channelopathies (such as Long QT syndrome), pre-excitation syndromes, sick sinus syndrome, vagal inhibition and spontaneous idiopathic dysrhythmias associated with excitation (either physical or emotional excitation)
+<li>Structural disturbance (primary or secondary) include Lev’s disease, collagen vascular disorders with cardiac involvement and infiltrative involvement of systemic disease (hemochromatosis, amyloidosis, etc.)
+</ul>
+<li>Microscopy may reveal no abnormalities, nonspecific fibrosis or discrete lesions
+<ul>
+<li>If conduction studies are indicated at the time of autopsy, specialized dissection methods should be undertaken and planned for prior to examination (<a href="19215062" class="bl">Anat Sci Educ 2009;2:78</a>)
+<li>Careful and extensive sampling may be indicated
+</ul>
+<li>In cases of negative autopsy, testing for genetic mutations which can lead to cardiac dysrhythmias may be indicated (<a href="27692676" class="gr">Trends Cardiovasc Med 2017;27:207</a>)
+<ul>
+<li>Testing availability and appropriate samples vary by laboratory; confirm with your preferred testing provider prior to examination
+</ul>
+<li>Medical records will be useful in determining if prior events occurred, what their triggers may be and what work up was conducted (especially for individuals with vagal or excitation type events)
+</ul>
+
+
+
+</ul>
+</div></div><div class="block_section" id="casereports336770"><div class="topicheading_title">Case reports</div><div class="block_body"><ul>
+<li>21 year old man with sudden cardiac death due to left ventricular noncompaction, arrhythmogenic right ventricular cardiomyopathy and acute myocardial infarction (<a href="29622970" class="gr">Egypt Heart J 2017;69:157</a>)
+<li>24 year old man with sudden cardiac death due to acute myocardial infarction in the setting of anabolic steroid abuse (<a href="31489392" class="gr">Forensic Sci Res 2019;4:267</a>)
+<li>35 year old man with sudden cardiac death due to tuberculosis (<a href="26306105" class="gr">Breathe (Sheff) 2015;11:67</a>)
+<li>37 year old man with sudden cardiac death due to stellate ganglionitis (<a href="34182293" class="bl">Auton Neurosci 2021;234:102837</a>)
+<li>58 year old man with sudden cardiac death due to cardiac involvement by lymphoma (<a href="29681417" class="gr">J Formos Med Assoc 2018;117:939</a>)
+</ul></div></div><div class="block_section" id="grossexamination336771"><div class="topicheading_title">Gross examination</div><div class="block_body"><ul>
+
+<li>Cardiac examination should include weight with excess valvular tissue removed
+<li>Note any external features, including general size and shape of the heart, areas of discoloration or defects
+<li>Coronary arteries and their major branches should be identified and sectioned at 3 mm intervals along their course (<a href="28889247" class="gr">Virchows Arch 2017;471:691</a>)
+<ul>
+<li>Note any stenosis, calcification, perivascular hemorrhage, thrombus or dissection 
+<li>Note areas of myocardial bridging including length of the involved segment
+<li>If coronary artery bypass grafts are present, note the origins, anastomotic site, course and patency
+</ul>
+<li>Serially section the ventricles in a plane parallel to the base of the heart, from apex to base at 1 cm intervals until approximately 2 cm from the atrioventricular valves (<a href="21353600" class="bl">Cardiovasc Pathol 2012;21:2</a>)
+<ul>
+<li>Measure the thicknesses of the left ventricular free wall, interventricular septum and right ventricular free wall, excluding the papillary muscles
+<li>Note areas of discoloration, fibrosis or areas of thinning
+<li>Note the distribution and pattern of epicardial fat, especially in the right ventricle
+<li>Note the thickness and areas of discoloration of the epicardium
+</ul>
+<li>Cardiac valves should be inspected for abnormalities prior to sectioning; note areas of obstruction, stenosis or other abnormalities
+<li>Open the heart by following the direction of blood flow
+<ul>
+<li>Posterior incision of the right atrium to right ventricle through the tricuspid valve
+<li>Anterior incision of the right ventricle to the pulmonary artery through the pulmonic valve
+<li>Posterior incision of the left atrium to the left ventricle through the mitral valve
+<li>Anterior incision of the left ventricle to the aorta through the aortic valve
+<li>Measure the circumference of the cardiac valves
+<li>Note any areas of thickening, vegetations, chordae tendineae and papillary muscles
+<li>If prosthetic valves are present note the type of valve, if it is appropriately seated / attached and any abnormalities of the valve or artificial surfaces
+</ul>
+<li>Section the remaining myocardium to include the conduction system
+<li>Microscopic sections should be taken of areas of interest 
+<ul>
+<li>The conduction system, including the SA and AV nodes, should be sampled in otherwise negative autopsies
+</ul>
+</ul>
+</div></div><div class="block_section" id="grossimages336772"><div class="topicheading_title">Gross images</div><div class="block_body"><br><span class="f11bi">Contributed by Patrick Lantz, M.D. and Jerri McLemore, M.D.</span><br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili1.jpg" 
+data-lightbox="heartsuddendeathgross" data-title="Marked thinning of the anterior wall of the right ventricle with fatty replacement of the myocardium. Epicardial fat comes into direct contact with the papillary musculature at multiple locations.<br>Contributed by Patrick Lantz, M.D.">
+<img width="96" height="96" alt="Arrhythmogenic right ventricular cardiomyopathy" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili1.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Arrhythmogenic right ventricular cardiomyopathy</div>
+
+<div class="img2">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili2.jpg" 
+data-lightbox="heartsuddendeathgross" data-title="Valve: yellow nodular vegetations associated with valvular thickening and chordae tendineae thickening.<br>Contributed by Patrick Lantz, M.D.">
+<img width="96" height="96" alt="" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili2.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+&emsp;
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili3.jpg" 
+data-lightbox="heartsuddendeathgross" data-title="Ventricular cross section: pale discoloration of the heart isolated to the papillary musculature and endocardium. The heart appears otherwise normal for age and sex.<br>Contributed by Patrick Lantz, M.D.">
+<img width="96" height="96" alt="Histiocytoid cardiomyopathy valve and ventricular ring" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili3.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Histiocytoid cardiomyopathy valve and ventricular ring</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili4.jpg" 
+data-lightbox="heartsuddendeathgross" data-title="Eccentric thickening of the interventricular septum compared to the left ventricular free wall. The myocardium appears pale due to interstitial fibrosis.<br>Contributed by Patrick Lantz, M.D.">
+<img width="96" height="96" alt="Hypertrophic and obstructive cardiomyopathy" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili4.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Hypertrophic and obstructive cardiomyopathy</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili5.jpg" 
+data-lightbox="heartsuddendeathgross" data-title="Cross section of the interventricular septum near the site of the junction with the atrioventricular node. A pale, firm area replaces the typical red-brown myocardium.<br>Contributed by Jerri McLemore, M.D. (previously presented abstract for Wake Forest Baptist Health 26th Annual Medical Student Research Day)">
+<img width="96" height="96" alt="Sarcoidosis atrioventricular node" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathGrossGhandili5.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Sarcoidosis atrioventricular node</div></div></div><div class="block_section" id="microscopichistologicimages336773"><div class="topicheading_title">Microscopic (histologic) images</div><div class="block_body"><br><span class="f11bi">Contributed by Mehrnoosh Ghandili, M.D., Mark A. Giffen, Jr., D.O. and Jerri McLemore, M.D.</span><br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili1.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Cross section of coronary artery with marked luminal stenosis by atherosclerotic plaque with plaque and luminal calcifications. The lumen contains a thrombus with the underlying plaque containing fibrin, indicating acute plaque rupture.<br>Contributed by Mehrnoosh Ghandili, M.D. and Mark A. Giffen, Jr., D.O.">
+<img width="96" height="96" alt="Acute atherosclerotic plaque rupture" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili1.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Acute atherosclerotic plaque rupture</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili2.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Neutrophilic infiltration of the myocardium associated with cardiac myocyte necrosis and necrotic debris. The adjacent myocardium also demonstrates cardiac myocytes with marked eosinophilia and nuclear loss.<br>Contributed by Mehrnoosh Ghandili, M.D. and Mark A. Giffen, Jr., D.O.">
+<img width="96" height="96" alt="Acute myocardial infarction" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili2.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Acute myocardial infarction</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili3.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Histologic section of the interventricular septal myocardium with marked fibrosis (both interstitial and surrounding individual cardiac myocytes). Myocytes demonstrate loss of normal alignment. Multiple atypical branched myocytes and atypical nuclear forms are present.<br>Contributed by Mehrnoosh Ghandili, M.D.and Mark A. Giffen, Jr., D.O.">
+<img width="96" height="96" alt="Cardiac myocyte disarray" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili3.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Cardiac myocyte disarray</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili4.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Enlarged cardiac myocyte nuclei with squared edges and hyperchromasia (so called boxcar nuclei) common in myocardial hypertrophy.<br>Contributed by Mehrnoosh Ghandili, M.D. and Mark A. Giffen, Jr., D.O.">
+<img width="96" height="96" alt="Cardiac myocyte hypertrophy" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili4.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Cardiac myocyte hypertrophy</div>
+<br>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili5.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Infiltration of the perivascular space and adjacent myocardium by a lymphohistiocytic infiltrate with eosinophils and prominent giant cells. Cardiac myocyte necrosis and cardiac myocyte damage are present. No granulomata were present.<br>Contributed by Dr. Jerri McLemore, M.D. (previously presented abstract at American Academy of Forensic Sciences Annual Meeting 2013)">
+<img width="96" height="96" alt="Giant cell myocarditis" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili5.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Giant cell myocarditis</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili6.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Infiltration of the perivascular space and adjacent myocardium by a lymphohistiocytic infiltrates with associated cardiac myocyte necrosis. No granulomata, giant cells or eosinophils were identified.<br>Contributed by Mehrnoosh Ghandili, M.D. and Mark A. Giffen, Jr., D.O.">
+<img width="96" height="96" alt="Lymphohistiocytic myocarditis" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili6.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Lymphohistiocytic myocarditis</div>
+
+<div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili7.jpg" 
+data-lightbox="heartsuddendeathmicro" data-title="Noncaseating granuloma composed of foamy histiocytes and giant cells with scattered lymphocytes. No eosinophils or neutrophils were identified. The adjacent cardiac myocytes are markedly distorted with ischemic type changes. Fibrosis was present in other histologic sections (not shown).<br>Contributed by Jerri McLemore, M.D. (previously presented abstract for Wake Forest Baptist Health 26th Annual Medical Student Research Day)">
+<img width="96" height="96" alt="Sarcoidosis in atrioventricular node" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathMicroGhandili7.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p>Sarcoidosis in atrioventricular node</div>
+</div></div><div class="block_section" id="additionalreferences336774"><div class="topicheading_title">Additional references</div><div class="block_body"><ul>
+<li><a href="http://www.amazon.com/exec/obidos/ASIN/0323287808/pathologyoutl-20" class="bl">Connolly: Autopsy Pathology: A Manual and Atlas, 3rd Edition, 2015</a>, <a href="https://www.amazon.com/exec/obidos/ASIN/084930072X/pathologyoutl-20"  class="bl">DiMaio: Forensic Pathology, 2nd Edition, 2001</a>, <a href="https://www.amazon.com/exec/obidos/ASIN/0122199510/pathologyoutl-20"  class="bl">Dolinak: Forensic Pathology - Principles and Practice, 1st Edition, 2005</a>, <a href="http://www.amazon.com/exec/obidos/ASIN/032359560X/pathologyoutl-20" class="bl">Miller: Diagnostic Pathology - Cardiovascular, 2nd Edition, 2018</a>, <a href="https://www.amazon.com/exec/obidos/ASIN/0398075441/pathologyoutl-20"  class="bl">Spitz: Spitz and Fisher's Medicolegal Investigation of Death - Guidelines for the Application of Pathology to Crime Investigation, 4th Edition, 2005</a>
+</ul></div></div><div class="block_section" id="practicequestion1336775"><div class="topicheading_title">Practice question #1</div><div class="block_body"><div class="img1">
+<a href="https://www.pathologyoutlines.com/imgau/heartsuddendeathBrq1Ghandili1.jpg" 
+data-lightbox="heartsuddendeathbrq1" data-title="Contributed by Patrick Lantz, M.D.">
+<img width="96" height="96" alt="" 
+src="https://www.pathologyoutlines.com/imgau/heartsuddendeathBrq1Ghandili1.jpg" 
+onerror="this.src='https://www.pathologyoutlines.com/thumb/NoImage.jpg';"></a>
+<p></div>
+<br>
+A 75 year old woman is consented for a hospital autopsy. Her past medical history is significant for hypertension, hyperlipidemia and congestive heart failure. At autopsy, the findings shown above are identified in the mitral valve. Remote infection with which organism is most likely to have precipitated these findings?
+<br><br>
+
+<ol class="liststyle2">
+<li>Coxsackie virus A and B
+<li>Enterococci
+<li>Group A streptococci
+<li><i>Staphylococcus aureus</i>
+<li><i>Trypanosoma cruzi</i>
+
+</ol></div></div><div class="block_section" id="practiceanswer1336776"><div class="topicheading_title">Practice answer #1</div><div class="block_body"><b>C.</b> Group A streptococci. The findings are consistent with chronic rheumatic heart disease due to a remote, untreated Group A streptococcus infection such as streptococcal pharyngitis or scarlet fever. Coxsackie A and B virus are common causative organisms identified in lymphocytic myocarditis but are not known to cause significant valvular disease. Enterococci can cause infective endocarditis but are less common that streptococcal or staphylococcal infections. <i>Staphylococcus aureus</i> is more common in individuals with intravenous drug use, chronic underlying conditions or prosthetic heart valves. <i>Trypanosoma cruzi</i> is a cause of parasitic myocarditis with intracellular forms and pseudocyst formation.
+
+<br><br>
+<a href="#" class="contact_form_trigger">Comment Here</a>
+
+<br><br>
+Reference: <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html">Sudden cardiac death</a></div></div><div class="block_section" id="practicequestion2336777"><div class="topicheading_title">Practice question #2</div><div class="block_body">A 55 year old man presents to the emergency department unresponsive after a sudden collapse. His past medical history was significant for gastroesophageal reflux disease (GERD), hypertension and hyperlipidemia. Bedside echocardiogram in the ED revealed a large pericardial effusion determined to be a large hemopericardium. At autopsy he was found to have a ruptured left ventricular free wall with severe atherosclerotic stenosis of the involved left circumflex coronary artery. What is the most common time frame for ventricular wall rupture after a myocardial infarction?
+
+<br><br>
+
+<ol class="liststyle2">
+<li>1 day
+<li>3 - 7 days
+<li>1 weeks
+<li>3 - 7 weeks
+<li>1 year
+
+</ol></div></div><div class="block_section" id="practiceanswer2336778"><div class="topicheading_title">Practice answer #2</div><div class="block_body"><b>B.</b> 3 - 7 days. The timing of ventricular walls rupture after myocardial infarction varies greatly from 1 day up to 3 weeks after infarction. The most common timeframe for this to occur is within 3 - 7 days after the ischemic event.
+
+<br><br>
+<a href="#" class="contact_form_trigger">Comment Here</a>
+
+<br><br>
+Reference: <a href="https://www.pathologyoutlines.com/topic/heartsuddendeath.html">Sudden cardiac death</a></div></div></div>				<div class="page_content">
+									</div>
+				<div id="po_banner_bottom" class="section_bot po_banner_bottom">
+	<a href="https://www.pathologyoutlines.com/authors" target="_blank"><img src="https://www.pathologyoutlines.com/pathout_uploads/2024/10/20241001-100008_House-editorialboard-_1456x180_240202.png" alt="" class="section_img_bot" /></a></div>				<a class="back_to_top scrollto" href="#topic_page_top">Back to top</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="breadcrumbs"><div class="content_section"><a href="https://www.pathologyoutlines.com/">Home</a> &gt; <a href="https://www.pathologyoutlines.com/autopsy.html">Autopsy & forensics</a> &gt; Sudden cardiac death</div></div> </div> <!-- End page_content_container -->   
+    	<!-- typical footer area -->
+	<div id="mobile_footer">
+		<div class="mobile_signup_form"
+			 style="display:none;"		>
+			<div class="mobile_signup_form_col1">
+				<form enctype="application/x-www-form-urlencoded" method="post" action="http://visitor.constantcontact.com/d.jsp" target="_blank">					
+					<div class="mobile_signup">Sign up for our Email Newsletters</div>
+					<input type="text" placeholder="Email Address" name="ea" size="20" class="mobile_signup_email lineheight"><button type="submit" class="mobile_signup_submit lineheight">
+						<i class="fa fa-caret-right"></i>
+					</button>
+					<input type="hidden" value="JOIN" name="go" />
+					<input type="hidden" value="1102437360197" name="m" />
+					<input type="hidden" value="oi" name="p" />
+				</form>
+			</div>
+		</div>
+		<div class="mobile_footer_address">
+			<div><a href="#" class="contact_form_trigger">Comment</a></div>
+		</div>	
+		<div class="mobile_copyright">
+			<div>&copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.</div>
+					</div>
+	</div>
+    
+    <div id="footer">
+        <div class="footer_content">
+            <div class="content_section">
+                <div class="footer_twocolumn">
+                    <div class="col1 float_left">
+                        <div class="subcol1 float_left">
+                            <ul class="footer_nav fn1">
+                                <li><a href="https://www.pathologyoutlines.com">Home</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/aboutus.html">About Us</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/advertise.php">Advertise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/site/amazonhome.html">Amazon.com</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/authors">Authors</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/review-questions">Board Review</a></li> 
+                                <li><a href="https://www.pathologyoutlines.com/books">Books</a></li>
+						<li><a href="https://www.pathologyoutlines.com/case1.htm">Cases</a></li> 
+						<li><a href="https://www.pathologyoutlines.com/curingcancernetwork.html">CCN</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol2 float_left">
+                            <ul class="footer_nav fn2">
+                                <li><a href="https://www.pathologyoutlines.com/cme">CME (online)</a></li>
+                                <li><a href="#" class="contact_form_trigger">Comment Here</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/conferences">Conferences / Webinars</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/contactus.html">Contact Us</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/copyrightinfo.html">Copyright</a></li>
+						  <li><a href="https://www.pathologyoutlines.com/directory">Directory</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/FAQ.html">FAQ</a></li>
+						<li><a href="https://www.pathologyoutlines.com/fellowships.html">Fellowships</a></li>   
+						<li><a href="https://www.pathologyoutlines.com/crossword.html">Games</a></li>
+                            </ul>
+                        </div>
+                        <div class="subcol3 float_left">
+                            <ul class="footer_nav fn3">
+					   
+					   
+						 <li><a href="https://www.pathologyoutlines.com/grants.html">Grants</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/jobs">Jobs</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/libraries.html">Libraries</a>
+							<!--<ul class="footer_subnav">
+								<li><a href="https://www.pathologyoutlines.com/topic/libraryroche.html">Roche Companion Diagnostic Library</a></li>
+								<li><a href="https://www.pathologyoutlines.com/topic/librarycovid19.html">COVID-19 resources</a></li>
+							</ul>-->
+						</li>
+
+                                <li><a href="https://shop.spreadshirt.com/pathologyoutlines/" target="_blank">Merchandise</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/subscribe.html">Newsletters</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/privacypolicy.html">Privacy Policy</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/monthlystats.php">Statistics</a></li>
+                                <li><a href="https://www.pathologyoutlines.com/Testimonialsgen.html">Testimonials</a></li>
+                                
+                            </ul>
+                        </div>
+                        <br class="clearleft" />
+                    </div>
+                    <div class="col2 float_left">
+                        <div class="footer_logo">
+					   <img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/Logo_Est2001_Version_v04_840x160.png" width="420" height="80" border="0" alt="" />
+                        </div>
+                        <div class="footer_address">
+                            <div>30150 Telegraph Road, Suite 119, Bingham Farms, Michigan 48025 (USA) </div>
+                            <div>Telephone: (248) 646-0325; Email: <a href="mailto:Comments@pathologyoutlines.com">Comments@pathologyoutlines.com</a></div>
+                        </div>
+				    <div class="footer_social">
+						<a href="https://www.facebook.com/PathologyOutlinescom-101559729894212/" class="top_nav_icon" target="_blank" title="Facebook"><span class="fa-brands fa-facebook-square"></span></a>
+						<a href="https://www.instagram.com/pathoutlines/" class="top_nav_icon" target="_blank" title="Instagram"><span class="fa-brands fa-square-instagram"></span></a>
+						<a href="https://www.linkedin.com/company/pathologyoutlines/" class="top_nav_icon" target="_blank" title="LinkedIn"><span class="fa-brands fa-linkedin"></span></a>
+						<a href="https://www.youtube.com/c/PathologyOutlines1" class="top_nav_icon" target="_blank" title="YouTube"><span class="fa-brands fa-square-youtube"></span></a>
+						<a href="https://www.threads.net/@pathoutlines" class="top_nav_icon" target="_blank" title="Threads"><span class="fa-brands fa-square-threads"></span></a>
+						<a href="https://pathologyoutlinesblog.wordpress.com/" class="top_nav_icon" target="_blank" title="Blog"><span class="fa-solid fa-pen-to-square"></span></a>
+						<a href="https://bsky.app/profile/pathologyoutlines.bsky.social" class="top_nav_icon" target="_blank" title="Bluesky"><span class="fa-brands fa-square-bluesky"></span></a>
+						<a href="https://www.reddit.com/r/PathologyOutlines" class="top_nav_icon" target="_blank" title="Reddit"><span class="fa-brands fa-square-reddit"></span></a>
+				    </div>
+                        <div class="signup_form">
+                            <div class="float_left signup_form_col1">
+                                <form enctype="application/x-www-form-urlencoded" method="post" action="https://visitor.constantcontact.com/d.jsp" target="_blank">
+                                    <div class="signup">Sign up for our Email Newsletters</div>
+                                    <input type="text" placeholder="Email Address" name="ea" size="20">
+                                    <input type="submit" name="go" value="JOIN">
+                                    <input type="hidden" value="1102437360197" name="m">
+                                    <input type="hidden" value="oi" name="p">
+                                </form>
+                            </div>
+                            <br class="clearleft" />
+                        </div>
+                    </div>
+                    <br class="clearleft" />
+                </div>
+                <div class="footer_additional">
+                    This website is intended for pathologists and laboratory personnel but not for patients.  We welcome suggestions or questions about using the website. However, we cannot answer medical or research questions or give advice.
+                </div>
+            </div>
+        </div>
+        <div id="footer_copy">
+            <div class="content_section">
+                &copy; Copyright PathologyOutlines.com, Inc. Click <a href="https://www.pathologyoutlines.com/copyrightinfo.html">here</a> for information on linking to our website or using our content or images.
+            </div>
+        </div>
+    </div>
+    <div id="modaloverlay" style="display:none;"></div>
+    <div class="loading_modal" style="display:none;">
+        <div style="height: 35px;text-align: center;margin: 10px 0;">
+            <div class="loading_spinner position1"></div>
+        </div>
+        <div id="loading_modal_message">Processing</div>
+    </div>
+    <div class="notification" style="display:none;"><div class="inner"></div></div>
+    <div style="display:none;">
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/ntbg3.png" width="1" height="1" alt="Image 01" />
+		<img src="https://www.pathologyoutlines.com/pathout_themes/pathology_outlines/images/loader-sprite.png" width="1" height="1" alt="Image 02" />
+	</div>
+   
+					<div id="admin_bar">
+					<div class="footer_menu_icon_wrapper"><a href="#" class="footer_menu_icon"><span class="fa fa-navicon"> Administration</span></a></div>
+					<div class="admin_inner">
+						<div class="admin_links">
+							<div><a href="https://www.pathologyoutlines.com/admin/page-list"><img src="https://www.pathologyoutlines.com/apple-touch-icon.png" alt="" style="height:18px;width:auto;vertical-align:middle;" />&nbsp;&nbsp;Pathology Outlines Administration</a></div>
+							<ul>
+															</ul>    
+						</div>
+						<div class="admin_bar_account_links">
+							<div class="admin_bar_section admin_bar_label cursor_default">
+								Signed in as: pathout@mediag.com							</div>
+							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/user?id=2"><span class="fa fa-fw fa-gear"></span></a></div>							<div class="admin_bar_section"><a class="admin_bar_btn" href="/admin/logout"><span class="fa fa-fw fa-sign-out"></span>Log Out</a></div>
+						</div>
+					</div>
+				</div>
+				</body>
+</html>
