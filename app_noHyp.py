@@ -273,7 +273,8 @@ def load_vector_store(sig: str):
     faiss.write_index(index, INDEX_PATH)
     with open(META_PATH, "wb") as f:
         pickle.dump({"signature": sig, "chunks": chunks}, f)
-    return index, chunks    model = SentenceTransformer(EMBED_MODEL_ID)
+    return index, chunks    
+    model = SentenceTransformer(EMBED_MODEL_ID)
     model.to(device) # Move model to GPU/MPS
     return model
 
