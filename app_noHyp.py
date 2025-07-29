@@ -132,15 +132,15 @@ def generate_hypothetical_question(question: str) -> str:
     # This prompt is designed to create a clinically-focused question
     # that a pathologist would ask to correlate with their histological findings.
     hyde_prompt = f"""
-A pathologist is examining a case and needs to correlate their findings with the patient's clinical presentation.
-Based on the user's query, generate a single, detailed hypothetical question that this pathologist might ask to get the most relevant clinical context.
-This question will be used to search a medical database for information to help with the diagnosis.
-Focus on **clinical features** such as patient presentation, age, symptoms, lab findings, and relevant medical history, rather than histological details which the pathologist may already know.
-
-Original user query: "{question}"
-
-Generate only the detailed hypothetical question:
-"""
+        A pathologist is examining a case and needs to correlate their findings with the patient's clinical presentation.
+        Based on the user's query, generate a single, detailed hypothetical question that this pathologist might ask to get the most relevant clinical context.
+        This question will be used to search a medical database for information to help with the diagnosis.
+        Focus on **clinical features** such as patient presentation, age, symptoms, lab findings, and relevant medical history, rather than histological details which the pathologist may already know.
+        
+        Original user query: {question}
+        
+        Generate only the detailed hypothetical question:
+        """
     try:
         # Use a fast model for this generation task
         model = genai.GenerativeModel("gemini-2.0-flash")
@@ -260,7 +260,7 @@ def load_vector_store(sig: str):
         show_progress_bar=True,
     ).astype("float32")
 
-    index = faiss.IndexFlatIP(vecs.shape[1])
+    index = faiss.IndexFlatIP(vecs.shape[1,1])
     index.add(vecs)
 
     faiss.write_index(index, INDEX_PATH)
