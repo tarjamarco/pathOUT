@@ -253,7 +253,7 @@ def load_vector_store(sig: str):
 
     embedder = SentenceTransformer(EMBED_MODEL_ID)
     embedder.to(device) # Move embedder to device
-    vecs = embedder.encode(
+    
     if not chunks:
         raise ValueError("No chunks were created. Make sure source files exist and are properly loaded.")
     vecs = embedder.encode(
