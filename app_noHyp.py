@@ -266,7 +266,7 @@ def load_vector_store(sig: str):
     if len(vecs.shape) != 2 or vecs.shape[0] == 0:
         raise ValueError(f"Invalid shape for embedding vectors: {vecs.shape}")
     
-    index = faiss.IndexFlatIP(vecs.shape[1])
+    index = faiss.IndexFlatIP(vecs.shape[1,])
     index.add(vecs)
 
     faiss.write_index(index, INDEX_PATH)
