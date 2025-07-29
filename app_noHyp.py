@@ -260,7 +260,7 @@ def load_vector_store(sig: str):
         show_progress_bar=True,
     ).astype("float32")
 
-    index = faiss.IndexFlatIP(vecs.shape[1,1])
+    index = faiss.IndexFlatIP(vecs.shape[1])
     index.add(vecs)
 
     faiss.write_index(index, INDEX_PATH)
