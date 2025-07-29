@@ -45,7 +45,7 @@ else:
 # ──────────────────────────────────────────────────────────────────────────────
 # 1. Enhanced Config (Modified)
 # ──────────────────────────────────────────────────────────────────────────────
-ROOT_JSON_DIR   = "json"
+ROOT_JSON_DIR   = "new_json"
 EMBED_MODEL_ID  = "neuml/pubmedbert-base-embeddings"
 CROSS_ENCODER_ID= "ncbi/MedCPT-Cross-Encoder"
 INDEX_PATH      = "faiss.idx"
