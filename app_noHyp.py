@@ -254,14 +254,20 @@ def load_vector_store(sig: str):
     embedder = SentenceTransformer(EMBED_MODEL_ID)
     embedder.to(device) # Move embedder to device
     vecs = embedder.encode(
-        [c["text"] for c in chunks],
-        batch_size=64,
-        normalize_embeddings=True,
-        show_progress_bar=True,
-    ).astype("float32")
-
-    index = faiss.IndexFlatIP(vecs.shape[1])
-    index.add(vecs)
+        if not chunks:
+    raise ValueError("No chunks were created. Make sure source files exist and are properly loaded.")
+        vecs = embedder.encode(
+            [c["text"] for c in chunks],
+            batch_size=64,
+            normalize_embeddings=True,
+            show_progress_bar=True,
+        ).astype("float32")
+        
+        if len(vecs.shape) != 2 or vecs.shape[0] == 0:
+            raise ValueError(f"Invalid shape for embedding vectors: {vecs.shape}")
+        
+        index = faiss.IndexFlatIP(vecs.shape[1])
+        index.add(vecs)
 
     faiss.write_index(index, INDEX_PATH)
     with open(META_PATH, "wb") as f:
