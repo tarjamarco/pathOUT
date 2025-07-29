@@ -251,7 +251,7 @@ def load_vector_store(sig: str):
     corpus = load_corpus(ROOT_JSON_DIR)
     chunks = corpus_to_chunks(corpus)
 
-embedder = SentenceTransformer(EMBED_MODEL_ID)
+    embedder = SentenceTransformer(EMBED_MODEL_ID)
     embedder.to(device)  # Move embedder to device
 
     if len(chunks) == 0:
