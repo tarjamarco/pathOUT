@@ -139,8 +139,8 @@ Focus on **clinical features** such as patient presentation, age, symptoms, lab 
 
 Original user query: {question}
 
-Generate only the detailed hypothetical question:"""
-
+Generate only the detailed hypothetical question:
+"""
     try:
         # Use a fast model for this generation task
         model = genai.GenerativeModel("gemini-2.0-flash")
@@ -251,8 +251,12 @@ def load_vector_store(sig: str):
     corpus = load_corpus(ROOT_JSON_DIR)
     chunks = corpus_to_chunks(corpus)
 
-    embedder = SentenceTransformer(EMBED_MODEL_ID)
-    embedder.to(device) # Move embedder to device
+embedder = SentenceTransformer(EMBED_MODEL_ID)
+    embedder.to(device)  # Move embedder to device
+
+    if len(chunks) == 0:
+        raise ValueError("No chunks found. Please check your input documents.")
+
     vecs = embedder.encode(
         [c["text"] for c in chunks],
         batch_size=64,
@@ -260,18 +264,16 @@ def load_vector_store(sig: str):
         show_progress_bar=True,
     ).astype("float32")
 
+    if len(vecs.shape) != 2 or vecs.shape[0] == 0:
+        raise ValueError(f"Invalid shape for embedding vectors: {vecs.shape}")
+
     index = faiss.IndexFlatIP(vecs.shape[1])
     index.add(vecs)
 
     faiss.write_index(index, INDEX_PATH)
     with open(META_PATH, "wb") as f:
         pickle.dump({"signature": sig, "chunks": chunks}, f)
-    return index, chunks
-
-# Ensure models are loaded once and moved to device
-@st.cache_resource
-def get_embedder_single():
-    model = SentenceTransformer(EMBED_MODEL_ID)
+    return index, chunks    model = SentenceTransformer(EMBED_MODEL_ID)
     model.to(device) # Move model to GPU/MPS
     return model
 
